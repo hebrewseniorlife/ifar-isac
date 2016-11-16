@@ -1,0 +1,144 @@
+# Introduction
+
+## Purpose of toolkit
+
+This toolkit is a *general* guide for investigators and project staff at
+Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
+managing or overseeing clinical trials in older populations. The toolkit
+is not intended be a comprehensive document. Rather it is meant to
+outline major considerations for all phases of a clinical trial.
+Suggested resources are provided for more detailed information **and you
+must consult and adhere to the latest federal, sponsor, institutional,
+state and regional regulations.**
+
+Whenever possible, sections of this toolkit follow a similar outline:
+What, Why, How, Special Considerations for Aging Populations, Common
+Pitfalls, and Resources.
+
+## Are you are doing a clinical trial?
+
+Below is the National Institutes of Health (NIH) definition of a
+clinical trial. As clinical trials are subject to additional oversight,
+a clear definition helps investigators ensure that they are meeting all
+of their obligations, and help funders ensure that the additional
+oversight is occurring when it is needed.
+
+> A research study^1 ^in which one or more human subjects^2^ are
+prospectively assigned^3^ to one or more interventions^4^ (which may
+include placebo or other control) to evaluate the effects of those
+interventions on health-related biomedical or behavioral outcomes.^5^
+
+
+*^1^See Common Rule definition of *research* at 45 CFR 46.102(d).*
+
+*^2^See Common Rule definition of *human subject* at 45 CFR 46.102(f).*
+
+*^3^“Prospectively assigned” refers to a pre-defined process (e.g., randomization) specified in a protocol that stipulates the assignment of research subjects (individually or in clusters) to one or more arms of a clinical trial.*
+
+*^4^An intervention is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints.  Examples include:  drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.*
+
+*^5^Health-related biomedical or behavioral outcome is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life.  Examples include:  positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.*
+
+[https://grants.nih.go v/grants/guide/notice-files/NOT-OD-15-015.html](https://grants.nih.go v/grants/guide/notice-files/NOT-OD-15-015.html)
+
+## Clinical Trial Phases
+
+Clinical trials are conducted in a series of steps, called phases - each
+phase is designed to answer a separate research question. These phases
+mostly apply to trials testing drugs or devices, rather than behavioral
+interventions.
+
+-   **Phase I:** Researchers test a new drug or treatment in a small
+    group of people for the first time to evaluate its safety,
+    determine a safe dosage range, and identify side effects.
+
+-   **Phase II:** The drug or treatment is given to a larger group of
+    people to see if it is effective and to further evaluate
+    its safety.
+
+-   **Phase III:** The drug or treatment is given to large groups of
+    people to confirm its effectiveness, monitor side effects, compare
+    it to commonly used treatments, and collect information that will
+    allow the drug or treatment to be used safely.
+
+-   **Phase IV:** Studies are done after the drug or treatment has been
+    marketed to gather information on the drug's/treatment’s effect in
+    various populations and any side effects associated with
+    long-term use.
+
+## Training requirements and opportunities: 
+Aside from clinical trial design and/or biostatistical training, there are varied practical,
+short-term courses for principal investigators and project personnel to
+enhance the conduct and rigor of their clinical trials.
+
+1.  **Good Clinical Practice** (**GCP**) is an international quality
+    standard that defines standards for clinical trials involving
+    human subjects. **The NIH require C**[**ertifications in Good
+    Clinical
+    Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
+    **for NIH-funded Investigators and clinical trial site staff who are
+    responsible for the conduct, management and oversight of NIH-funded
+    clinical trials. The FDA has a similar requirement.** Below is a
+    link to its training that fulfils this requirement:
+    <https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx>
+
+    There are many other extensive courses offered to become GCP
+    certified, both internet-based and on-site. Most have a
+    tuition cost. It is a good idea, if resources are available, for
+    Project Directors leading clinical trials to receive
+    GCP certification. Below are examples of a few of these
+    many opportunities.
+
+    <https://gcp.nihtraining.com/>
+
+    <http://www.onlinegcp.us/>
+
+    https://www.citiprogram.org/index.cfm?pageID=90
+
+2.  **Harvard Catalyst Clinical Trial Design:** Clinical Trial Design is
+    an opportunity for new clinical investigators, who have an idea for
+    development of a clinical trial, to participate in an intensive
+    eight-week course. It is offered at *no cost* to members of the
+    Harvard Catalyst community or other Clinical and Translational
+    Science Award(CTSA) usually in May/June, with an application due
+    in March. Participants learn the fundamentals of clinical trial
+    design, including instructions on how to design a protocol,
+    information on IRB and regulatory topics, and on
+    trial implementation. Additional course topics include statistical
+    analysis, budgeting, and data management.
+    <https://catalyst.harvard.edu/services/ctd/>
+
+3.  **NIH Clinical Research Training On-Line:** On-line course available
+    24/day at no cost with the following objectives: i. To raise
+    awareness of the ethical issues involved in human subjects
+    research; ii. To become familiar with the roles and responsibilities
+    of the principal investigator and the institution when conducting
+    clinical research in the NIH intramural research program; iii. To
+    have an understanding of Food and Drug Administration (FDA)
+    oversight of clinical research; and iv. To become familiar with how
+    developments in science and health are reported by the media and how
+    to work effectively with reporters.
+
+    [http://crt.nihtraining.com](http://crt.nihtraining.com/)
+
+4.  **Barnett International: Design and Conduct of Clinical Trials:
+    Design Requirements, Statistical Issues, and Clinical Protocols:**
+    On-site two-day course that provides an introduction to the
+    scientific, statistical, and ethical aspects of clinical trials
+    research. Cost (2016) = \$1800
+
+    <http://www.barnettinternational.com/Live-Seminars/Design-and-Conduct-of-Clinical-Trials--Design-Requirements,-Statistical-Issues,-and-Clinical-Protocols/>
+
+## Clinical Trial Planning Resources
+
+Numerous resources are available to researchers as they plan and proceed
+with their clinical trial.
+
+1.  One such resources is **“The NIA Clinical Trial Toolbox: A resource
+    for quality studies**
+    (<https://www.nia.nih.gov/research/blog/2016/10/nia-clinical-trial-toolbox-resource-quality-studies>).
+    This toolbox provides researchers with a central source of materials
+    to develop and manage clinical trials. The site includes: templates,
+    forms, guidelines and other related information that can be very
+    helpful throughout the research process and is referenced throughout
+    the ISAC toolkit

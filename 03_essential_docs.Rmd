@@ -1,0 +1,476 @@
+# Essential Documentations
+
+## Introduction to Essential Documentation in a Randomized Clinical Trial
+
+### Module Goal
+
+This module provides guidance for the development and management of
+*essential* documentation before, during, and at the close of a
+randomized clinical trial (RCT).
+
+### General Considerations
+
+Documentation provides validation that research is conducted maintaining
+the highest ethical and clinical standards as established by the World
+Health Organization and the International Conference on Harmonization
+(ICH) guidelines for Clinical Good Practice (GCP)
+
+Documentation requirements will vary according to several factors, such
+as intervention (e.g., drug, device, behavior), sponsor (e.g., NIH, drug
+company), and regulatory authorities (e.g., FDA). Thus, you should
+verify that your documentation plan complies with the specific your RCT.
+
+The ICH GCP, section 8, “Essential Documents for the Conduct of a
+Clinical Trial” provides a full listing of documents that are generally
+deemed essential. These documents demonstrate that the trial conduct
+complies with the standards of GCP and all regulatory requirements. This
+module focuses on describing the following **Essential Documents**:
+
+-   Study Protocol
+-   Manual of Operations
+-   Statistical Analytic Protocol
+-   Data Safety Monitoring Board Charter and Regular Reports (refer to
+    other chapter for details)
+-   Event Tracking
+
+### Resources
+
+-   International Conference on Harmonization (ICH) guidelines for
+    Clinical Good Practice (GCP), section 8, “Essential Documents for
+    the Conduct of a Clinical Trial”
+    (<http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf>)
+-   International Conference on Harmonization (ICH) guidelines for
+    Clinical Good Practice (GCP)
+    <http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html>
+-   United States Food and Drug Administration (FDA),
+    <http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
+-   World Health Organization, (<http://www.who.int/about/en/>)
+
+## Protocol
+### What
+A study protocol describes the objective(s), design, methodology,
+statistical considerations, and organization of an RCT. It is the core
+document required for all parties who have responsibility for approval,
+conduct, oversight, and analysis of the RCT. Key sections typically
+include (also see template examples at the end of this module):
+
+-   Background/rationale
+-   Objectives and purpose
+-   Study design
+-   Statement of qualifications
+-   Criteria for inclusion, exclusion, and withdrawal of study subjects
+-   Treatment /intervention
+-   Methods and timing for assessing, recording and analyzing data
+-   Methods for obtaining safety information and safety monitoring (Safety Monitoring Plan?)
+-   Statistical methods
+-   Ethical considerations
+-   Statement related to permitting RCT-related monitoring, audits, and
+    inspection by the sponsor, IEC/IRB, and regulators, including direct
+    access to source data/documents (Site monitoring plan?)
+-   Quality Control and Quality Assurance
+-   Data handling and record keeping (Data Management Plan?)
+-   Financing and Insurance
+-   Informed consent procedures
+
+### Why
+The detailed rationale and approach to clinical research documented and
+maintained in the study protocol assures that the RCTs design and
+implementation adhere to the integrity of the science and ensure the
+validity of its findings. It is produced to:
+
+-   Ensure feasibility of study design and objectives
+-   Ensure that study design will result in the collection of crucial
+    information
+-   Clarify study requirements and methodology for all partners
+-   Ensure approval of study by ethical committee(s)
+
+Over-seeing regulatory bodies, such as Internal Review Board (IRB), Data
+Safety and Monitoring Board (DSMB), and National Institutes for Health
+(NIH) will request to review the study protocol for approval prior to
+starting the RCT, and may request the updated protocol at any point in
+the RCT. Top tier journals will also request access to the protocol
+prior to publication of the study’s findings. 
+
+### How
+The protocol must be completely written before the study begins. The
+initial draft often requires input from several team members, but the
+PI(s) should take responsibility for its final editing. It is a tedious
+but necessary process. Any changes to the study conduct (i.e., Protocol
+Amendments) must be meticulously documented and dated in a timely manner
+in the protocol and in clinical trials.com as required. The final
+protocol at the study’s end should reflect exactly what transpired
+during the study’s conduct. The Project Director can serve as the main
+organizer for maintaining the protocol and its updates under the PIs
+supervision.
+
+### Special considerations for older subjects
+None
+
+### Common Pitfalls
+Common pitfalls include: incomplete or unclear initial protocols,
+inadequate documentation of protocol amendments, and inconsistency with
+other study key documents (e.g. manual of operations and IRB
+applications).
+
+### Resources 
+Site contains helpful templates
+-   FDA Clinical Protocols <http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
+-   International Conference on Harmonization Good Clinical Practice
+    <http://ichgcp.net/6-clinical-trial-protocol-and-protocol-amendments>
+-   National Institute on Aging, clinical research investigators
+    toolbox\*
+    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
+-   National Institute of Allergy and Infectious Diseases
+    <http://www.niaid.nih.gov/labsandresources/resources/toolkit/protocol/Pages/protocol.aspx>
+-   National Institute of Dental Craniofacial Research\*
+    <http://www.nidcr.nih.gov/research/toolkit/#startup2>
+-   World Health Organization Recommended format for a Research
+    Protocol, <http://www.who.int/rpc/research_ethics/format_rp/en/>
+
+## Manual of Operational Procedures
+### What
+
+The Manual of Operational Procedures (MOP) is a handbook of instructions
+designed to guide the research team to successfully carry out all
+aspects of a particular research project according to that study’s
+research protocol. It clearly spells out the “who, what, where, when and
+how” of the RCT’s conduct. In general, the MOP transforms the protocol
+into a description of the exact procedures involved to implement every
+aspect of the RCT. Typically, each section of a MOP contains: steps
+required for task completion, person responsible, and resources
+required. Key sections typically include:
+
+-   Introduction
+-   Protocol (embedded in to MOP)
+-   Study organization and responsibilities
+-   Human Subjects Protection
+-   Training plan
+-   Communications plan
+-   Study flow
+-   Eligibility and Recruitment
+-   Randomization
+-   Blinding and Unblinding
+-   Site Quality Management/Assurance
+-   Site Preparation
+-   Protocol Implementation
+-   Procedures for managing trial progress
+-   Test article
+-   Safety Assessment and Reporting
+-   Data Collection and Management
+-   Specimen and Laboratory Management
+-   Laboratory Quality Assurance
+-   Site Monitoring
+-   Regulatory Binder Maintenance
+-   Study completion and Close-out Procedures
+-   Appendices including:
+-   Study definitions
+-   List of abbreviations
+-   Adherence monitoring forms
+-   Data Collection Forms
+-   Copies of DSMB charter and report templates
+-   Statistical programming for key elements
+
+### Why
+
+The MOP is intended to serve as a study “cookbook”. The MOP facilitates
+adherence to study protocol, organizes the conduct of the study, and
+ensures consistency in research efforts throughout the study and across
+study sites. In theory, another investigator should be able to replicate
+the RCT’s conduct exactly as it was originally conducted by using the
+MOP.
+
+### How
+The MOP must be completely written before the study begins. The initial
+draft requires input from several team members, particularly those
+closest to the research component being operationalized in each section.
+It is a tedious but necessary process. Any changes to the study
+procedures must be meticulously documented and dated in a timely manner
+in the MOP. The final MOP should reflect exactly what transpired during
+the study’s conduct. A project director can serve as the main organizer
+for maintaining the MOP and its updates under the PIs supervision.
+Copies of the MOP should be available at study sites and in the main
+study file system.
+
+### Special considerations for older subjects
+None
+
+### Common Pitfalls
+Common pitfalls for MOP development include: lack of adequate formatting
+or tracking, lack of required appendices, and finding the right balance
+of necessary detail to include.
+
+### Resources
+Site contains helpful templates
+-   Institute for Translational Health Sciences,
+    <https://www.iths.org/wp-content/uploads/Handout-SOPs-Presentation-03-03-10.pdf>
+-   NIA Study Start-up toolkit\*
+    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
+-   National Institute of Dental and Craniofacial Research\*
+    <http://www.nidcr.nih.gov/Research/toolkit/#startup3>
+
+
+## Statistical Analytic Protocol
+As the Statistical Analytical Plan (SAP) is an essential document, it
+just briefly mentioned here. The details about developing and
+maintaining a SAP are covered in Module XX.
+
+### What
+A SAP is a document that contains a technical and detailed explanation
+of the principal features of the analysis described in the study
+protocol. It includes detailed procedures for executing the statistical
+analysis of the primary and secondary variables and other data.
+
+### Why
+Guidance on data ascertainment, management, storage, analysis and
+interpretation are critical to preserve the validity of the design and
+soundness of scientific conclusions.
+
+### How
+Most often, the SAP and MOP are maintained as separate documents, but
+sometimes the SAP is embedded into the MOP. The SAP must be assembled
+prior to enrollment. It should be authored by the project statistician
+in concert with investigative team. Any changes to the statistical
+analytic plan related to the main outcomes must be clearly documented
+and dated in a timely manner in the SAP. These changes must be conceived
+and documented prior to the active phase of data analyses.
+
+## Data Safety and Monitoring Documents
+These are documents related to Data Safety Monitoring Board (DSMB) (or
+similar bodies such as a Data Safety Advisory Council (DSAC)) activities
+within an RCT. Two main documents are required; the DSMB charter and
+interim data reports.
+
+### DSMB/DSAC Charter
+#### What
+
+The Charter describes the responsibilities of the DSMB. The charter also
+defines the relationships between the DSMB and other parties responsible
+for study oversight, including the sponsor, clinical research
+organizations, steering committee, study investigators, IRBs/ECs,
+appropriate regulatory agencies, and the DSMB management organization
+(when applicable). Sections generally included in the charter include:
+
+-   Role of DSMB
+-   DSMB Responsibilities
+-   Membership
+-   Board Process
+-   Meeting format
+-   Meeting materials/ reports
+-   DSMB meeting minutes/reports
+
+#### Why
+
+The purpose of the charter is to define the responsibilities of the
+DSMB, detail membership requirements, describe the data to be reviewed,
+delineate the meeting process, and outline the considerations and
+policies of the DSMB.
+
+#### How
+
+The charter should be developed and approved by all parties responsible
+for study oversight, including the PI, the DSMB members and the sponsor
+(e.g., NIH Project Officer). If your trial is funded by the NIH, talk
+with your Project Officer about his/her preference for who should take
+the lead in developing the charter. There are general guidelines and
+many templates available (see Resources below). If funded by the NIH,
+the Project Officer may recommend a preferred format or template.
+
+#### Special Considerations for Older Subjects
+
+None
+
+#### Common Pitfalls
+
+Common pitfalls for DSMB charter development include a lack of adequate
+planning or corroboration with DSMB members and sponsor and insufficient
+information inclusion.
+
+#### Resources
+
+-   NIA Clinical Research Study Investigator’s toolbox, Data Safety
+    Monitoring,
+    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
+
+-   National Institute of Dental and Craniofacial Research Toolkit for
+    Clinical Researchers, DSMB guideline,
+    <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
+
+-   Institute of Translational Health Sciences, study documents and
+    templates\*
+    <https://www.iths.org/investigators/forms-templates/study-document-templates/>
+
+### Interim Data Reports
+#### What
+
+Interim data reports provide members of the DSMB with information to
+allow them to evaluate safety, study conduct, scientific validity and
+integrity of the trial. The reports convey data of relevant study
+activities and outcomes as agreed upon at the outset as in the purview
+of the DSMB. There are two types of the interim reports produced; one
+for the open session of the DSMB, and one for the closed session *(see
+Module XX).* . Sections generally included in these reports are listed
+below. Those marked by an asterisk are usually only included in the open
+report and not repeated in the closed reports:
+
+-   Report Summary
+-   Protocol Synopsis
+-   Organizational chart
+-   DSMB Roster
+-   Brief statement of trial purpose
+-   Primary Trial Outcome
+-   Projected timetable and schedule
+-   List of participating clinics, data centers, resource centers
+-   Study status
+-   Facility recruitment and subject accrual status
+-   Data quality
+-   Safety assessments (e.g., adverse events)
+-   Protocol Deviations
+-   Outcomes (may or may not be included)
+
+##### Open Session Report
+
+The open session report provides information on study conduct,
+including: recruitment and demographic data, subject/facility
+characteristics, protocol compliance, site performance, quality control,
+adverse event data, and outcome data when appropriate aggregated for
+both arms of the RCT (i.e.. all subjects).
+
+##### Closed Session Report
+
+The closed session report contains data similar to that presented in the
+open session report but is presented separately for each study arm in a
+semi-blinded fashion. For example, the arms are NOT identified by
+control or intervention, but as group 1 and group 2. If a study has an
+interim analysis with a pre-determined stopping rule, outcomes with
+statistical comparisons are also presented in the closed session.
+
+#### Why
+
+To provide a clear representation of trial activity to ensure
+participant safety and data integrity and to inform DSMB recommendations
+related to study continuation.
+
+#### How
+
+Prior to starting the study, the PI, and Statistician should work with
+the DSMB members and the Project Officer to draft a report outline using
+recommended guidelines or templates. Once approved by all parties,
+additions or modifications to these reports may be directed by the DSMB
+as the study progresses.
+
+The research team prepares the data for the DSMB reports which should be
+sent to DSMB members 1 to 2 weeks prior to the meeting to allow
+sufficient time for review. There are software applications such as that
+can be automated to fill in the recurring data needed for these reports
+(see Data Management module).
+
+The Closed Session Report is confidential. Printed copies of this report
+should be destroyed after the meeting. Procedures for securing and
+eliminating closed reports distributed to telephone and video conference
+participants should be specified in advance of the meeting.
+
+#### Special Considerations for Older Subjects
+
+None
+
+#### Common Pitfalls
+
+Common pitfalls for DSMB charter development include a lack of adequate
+planning or corroboration with DSMB members and sponsor and insufficient
+or ineffectual information inclusion.
+
+#### Resources
+
+-   NIA Clinical Research Study Investigator’s toolbox, Data Safety
+    Monitoring,
+    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
+
+-   National Institute of Dental and Craniofacial Research Toolkit for
+    Clinical Researchers, DSMB guideline,
+    <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
+
+-   Institute of Translational Health Sciences, study documents and
+    templates
+    <https://www.iths.org/investigators/forms-templates/study-document-templates/>
+
+## Regulatory Binder
+### What
+
+The Regulatory Binder is an indexed collection of essential documents
+relevant to the RCT. While frequently referred to as a regulatory
+binder, it may also be called: Study Files, Investigator Files or
+Investigator Binder. ICH Good Clinical Practice Guidelines (GCP) list
+documents generally considered essential for inclusion in the regulatory
+binder. The basic sections of a regulatory binder include:
+
+-   IRB Information/Protocol Review Correspondence
+-   Study Protocol and Supporting Documents
+-   Informed Consent Forms and Supporting Documents
+-   Source Documents
+-   Case Report Forms (CRFs) / Data Collection Tools
+-   Study Participant logs
+-   Adverse Events & Unanticipated Problems
+-   Monitoring/Auditing
+-   Correspondence and Meeting Minutes
+-   Study-related SOPs/MOPs
+-   Study Staff documentation (resume/CV and required certifications and
+    conflict of interest)
+-   Laboratory
+-   Drug/Device Accountability
+-   Regulatory Submissions
+
+### Why
+A complete regulatory binder allows ready access to all materials that
+reflect regulatory compliance and adherence to the ethical standards for
+Good Clinical Practice. The regulatory binder is often the first thing
+reviewed during audits and inspections.
+
+### How
+The PI and Project Director (PD) should compile a list of all essential
+documents specific to the RCT as indicated by the sponsors and
+regulatory authorities. Many sponsors supply investigators with binders
+and organization strategies (see Resources). Additionally NIH provides a
+regulatory binder checklist.Harvard Catalyst provides a template for a
+regulatory binder (http://catalyst.harvard.edu/services/regbinder/).
+
+The Project Director should be responsible for the creation and
+maintenance of the binder under the PI’s supervision. It is helpful to
+include a section in the MOP about the regulatory binder/file management
+addressing the following:
+
+-   Creation/required documents
+-   Location of various components when study is on-going
+-   Updating frequency and responsibility
+-   Management/storage of outdated documents and retention requirements
+
+The regulatory binder may take the form of one or more physical binders,
+located in one or more physical locations. It may also take the form of
+an indexed collection of electronic documents maintained on a study
+website or shared file. Physical binders should be labeled (cover and
+spine) with the protocol number, PI name, and study site. Use multiple
+binders or master binders to maintain documentation as needed.
+
+Access to the various sections of the binder may be controlled based on
+role in the study and status related to study blinding.
+
+### Special considerations for older subjects
+None
+
+### Common Pitfalls
+Lack of adequate organization or management plan.
+
+### Resources
+-   Boston University Clinical Research Resources Office, regulatory
+    binder resource\*,
+    http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/
+-   Harvard Catalyst Regulatory Binder resource\*,
+    <https://catalyst.harvard.edu/docs/regulatory_support/Regulatory_Binder.pdf>
+-   ICH GCP guideline, section 8 titled “Essential Documents for the
+    Conduct of a Clinical Trial.”
+    <http://www.fda.gov/cder/guidance/959fnl.pdf>.
+-   NIH Regulatory Binder Checklist,
+    nccih.nih.gov/sites/nccam.nih.gov/files/CRtoolbox/Regulatory\_Binder\_Checklist\_051112.docx
+-   University of California, San Francisco, Regulatory Binder
+    Requirements\*, <https://hub.ucsf.edu/virtual-regulatory-binder>
+-   University of California, San Francisco, Study management
+    <http://hub.ucsf.edu/clinical-study-management>
