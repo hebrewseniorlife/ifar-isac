@@ -351,7 +351,7 @@ Internal
 
 -   HSL IRB SOP, <http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>
 
-## DATA USE AGREEMENTS
+## Data Use Agreements
 ### What 
 A data use agreement (DUA) is a contractual agreement required under the
 Privacy Rule between a HIPAA covered entity (e.g., HSL) and a third
@@ -415,7 +415,7 @@ Internal
     Limited Data Sets and Data Use Agreements doc,
     <http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPCMS.ashx>
 
-## CLINICAL TRIAL REGISTRATION
+## Clinical Trial Registration
 ### What
 ClinicalTrials.gov is an on-line public registry of clinical trials
 maintained by the U.S. National Institutes of Health (NIH) and National
@@ -526,7 +526,7 @@ NONE
 -   ClinicalTrials.gov
 -   <https://grants.nih.gov/ClinicalTrials_fdaaa/docs/registration_flow_chart.pdf>
 
-## DATA SAFETY MONITORING
+## Data Safety Monitoring
 ### What
 Funding agencies require that the safety of trial participants and
 integrity of data are ensured through systems of research oversight and
@@ -745,7 +745,7 @@ NONE
     Clinical Researchers, DSMB guideline\*,
     <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
 
-## INFORMED CONSENT
+## Informed Consent
 ### What
 
 Informed consent is the process by which a volunteer who wishes to
@@ -930,7 +930,7 @@ Internal
 -   HSL IRB Policy and Procedures,
     <http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>
 
-## ADVERSE EVENTS AND UNANTICIPATED PROBLEMS
+## Adverse Events and Unanticipated Problems
 
 There are numerous entities under which there is regulatory guidance on
 classifying and reporting unanticipated problems and adverse events
