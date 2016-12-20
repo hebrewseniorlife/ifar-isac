@@ -2,20 +2,20 @@
 
 ## Project management for Clinical trials
 
-What {#what .ListParagraph}
+What
 
 Project management is the application of processes, methods, knowledge,
 skills and experience to achieve the project objectives
 (Warburton\_2014, PMBOk\_2013).
 
-Why {#why .ListParagraph}
+Why
 
 Given their complexity, Clinical Trials benefit from well-developed
 project management plans and monitoring processes. In this module we
 delineate provide guidance for management of funded clinical trial from
 planning through execution and closeout.
 
-How {#how .ListParagraph}
+How
 
 **Overview of the project management process **
 
@@ -31,6 +31,8 @@ should anticipate a heavy investment of resources during the pre-trial
 phase, but with proper planning this investment will pay dividends
 during trial execution and closeout.
 
+![](images/book/pm1.png)
+
 *Figure X.X Simplified temporal overview of the management process for
 an intervention trial *
 
@@ -44,10 +46,14 @@ and useful templates are provided. Given their critical importance,
 activities embedded in the pre-trial phase are emphasized (see Figure
 X.1).
 
+![](images/book/pm2.png)
+
 *Figure X.1. Example flowchart depicting high-level summary of Pretrial
 activities and their order. In bold are the activities covered in this
 module. For details click on each activity relevant to each trial phase.
 *
+
+![](images/book/pm3.png)
 
 *Figure X.2. Example flowchart depicting high-level summary of trial
 activities *
@@ -99,7 +105,7 @@ documentation*
 
 ### Creating a Project Management Plan
 
-What {#what-1 .ListParagraph}
+What
 
 A project management plan is a document that results in a dynamic set of
 documents that clearly define the goals and provide direction for the
@@ -119,7 +125,7 @@ project management plan:
 
 4.  Management of project personnel and responsibilities
 
-Why {#why-1 .ListParagraph}
+Why
 
 A well-designed project plan increases the likelihood of successfully
 managing a clinical trial. It supports coherent organization, effective
@@ -128,7 +134,7 @@ problems/ issues via monitoring of the project’s critical path. The
 process and subsequent documentation of all the project progress keeps
 things focused and moving forward.
 
-How {#how-1 .ListParagraph}
+How
 
 **Define project goals/ deliverables/ milestones**
 
@@ -244,10 +250,11 @@ delays in any of the activities along the path will lead delay
 completion of the project, unless this delay can be made up elsewhere
 along the critical path. These concepts are illustrated in Figure X.3.
 
+![](images/book/pm4.png)
 *Figure X.3. The project critical path is outline in orange; any delays
 along this path imply an elongation of the total project duration. *
 
-Management of internal and external communications {#management-of-internal-and-external-communications .ListParagraph}
+Management of internal and external communications
 
 Key elements of the communications plan include:
 

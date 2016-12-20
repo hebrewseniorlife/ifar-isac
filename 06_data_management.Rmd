@@ -250,6 +250,8 @@ comprises a 25-item checklist and flow diagram providing guidance for
 study enrollment, retention, and monitoring as well as derivation of
 analytic data sets and other data structures.
 
+![](images/book/dm1.png)
+
 Study flow diagram
 
 ## Reporting
