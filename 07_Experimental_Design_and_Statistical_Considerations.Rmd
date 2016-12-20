@@ -1,0 +1,217 @@
+# Experimental Design and Statistical Considerations
+
+## Introduction
+
+### What
+
+Experimental design encompasses features of a clinical trial that relate to its structure and operations.
+
+### Why
+
+Careful planning and documentation of design of a clinical intervention study is critical for maintenance of rigor and the obtaining of results that are likely to be reproducible. These considerations are intimately connected to the trial's appropriateness for formal statistical analysis and production of results. It is thus imperative that all aspects of design receive the highest level of scrutiny during the planning phase.
+
+### How
+
+It is critical that aspects of design be tailored to the goals and specific aims of the trial. Below we delineate aspects of experimental and statistical design that should be considered. These are not to be considered comprehensive or as being equally applicable to all scenarios, but should provide a starting point in planning your study. 
+
+## Design of the study
+
+### What 
+
+In this toolkit we consider explicitly randomized experiments conducted with human subjects, most typically clinical trials. 
+
+### Why 
+
+Key design features will ultimately dictate the internal validity and generalizability of trial results. 
+
+### How 
+
+The following items should be considered during the design phase.
+
+1. Rationale for conduct of the trial. _The scientific / biomedical impetus necessitating conduct of the trial_ 
+2. Overall goal. _What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims._ 
+3. Illness condition or state. _The condition modification of which motivates the study._
+4. Sampling population. _Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions)._
+5. General approach to design. _Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc. 
+6. Specific aims. _Detailed aims addressable by evaluation of statistical hypotheses._
+7. Primary and secondary endpoints.
+8. General nature of the planned comparisons. _Key features of the comparisons to be made; e.g. mean performance on a primary endpoint._
+9. Safety concerns. _Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial._
+10. Ethical considerations. _Additional safety of ethical considerations_
+11. Measurement and quantification of effects. _The way in which treatment effects will be quantified._
+12. Determination of statistical significance of comparisons. _Summary nature of quantitative comparisons, fleshed out in statistical analysis plan_
+13. Study staffing and environment
+    i. Leadership. _Designation of membership and roles of investigative team leaders._
+    ii. Staffing. _Designation of study staff, with specific delineation of responsibilities._
+    iii. Environment. _Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate._
+14. Measurement _Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)_
+15. Nature and administration of intervention _Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored_
+16. Study intervention period _Length of time over which intervention would be administered, including run-in and washout periods as applicable_
+17. Frequency of participant interactions, data collection and endpoint measurement _Number and frequency of participant interactions and measurments; often displayed in tabular format_
+18. Participant allocation or randomization _Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process._
+19. Masking / blinding _Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments._ 
+20. Data collection and management _Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module_. 
+21. Statistical design and sample size _See below_
+22. Measurement of trial adherence _Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any_
+23. Training _Provisions for training of study personnel, including human resources for providing the trainging_
+
+### Special considerations for older adults
+
+The number of participants available and who would likely consent to be enrolled in trials can be difficult to estimate among older individuals, particularly in the context of numerous exclusionary factors. 
+
+### Common pitfalls
+
+Lack of specificity in describing intervention; insufficient attention to the potential for attrition, data missingness, or intervention non-adherence; lack of detail in considering manner by which participants may be contacted, recruited, and maintained in the trial.
+
+### Resources
+
+## General Statistical Considerations 
+
+### What
+
+The statistical design works hand-in-hand with the experimental design to establish procedures for data interpretation and analysis. Major considerations include planning the enrollment and sample size, the general analytic approach, a priori consideration of the way in which results will be interpreted, and plans to resolve expected and unexpected problems, including data missingness and untoward measurements. 
+
+### Why
+
+Appropriate sample size and a statistical analysis plan are critical for the validity of conclusions and to prevent bias in operations and conclusions. 
+
+### How
+
+Derivation of the statistical analysis plan is detailed in the sections below. 
+
+## Statistical Analysis Plan
+
+### What
+
+The project Statistical Analysis Plan (**SAP**) provides **detailed** descriptions of statistical analyses to be conducted for the trial, including rationale for choice of methods, plans for dealing with unexpected difficulties, and pre-specified guidance on interpretation of results.
+
+### Why
+
+Guidance on data ascertainment, management, storage, analysis and interpretation are critical to preserve the validity of the design and soundness of scientific conclusions.
+
+### How
+
+A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see **Essential Documents** ).
+
+#### Contents of the document
+
+The contents of the SAP will vary from trial to trial. For a conventional intervention trial designed to assess efficacy, in which participants are allocated to one of two or more groups (e.g. intervention vs. control), contents might be as follows.
+
+1. Introduction
+      a. Background. _Provides explanatory information concerning disease target, patient population, etc. Includes references to authoritative literature._
+      b. Objectives. _Briefly describes overall analytic goals._
+          i. Primary objective. _Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance._
+          ii. Secondary objectives. _As above, for secondary objectives._
+2. Endpoints
+    a. Primary endpoints. _Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics._
+    b. Secondary endpoints. _As above, for secondary endpoints._
+3. Protocol / Grant SAP. _Summarize existing plan as presented in the original protocol or funding application._  
+4. Design elements
+    a. Basic design features. _Discusses overall experimental structure for purposes of comparison._
+        i. Nature of primary comparison. _Describes the basic target of interest, i.e. determination of superiority, equivalence or noninferiority of intervention to control or current standard of care._
+        ii. Participant allocation. _Describes randomization or other procedures by which participants are allocated to trial groups._
+    b. Schedule of events. _Gives a summary of time-points and measurements that will be used._
+    c. Blinding. _Describes the degree to which data scientists and personnel are blinded, and maintenance of same._
+    d. Blocking and stratification / matching. _Describes blocking, matching, etc. and references plans for consideration of design effects in analysis._
+    e. Randomization Scheme. _Describes the randomization scheme and procedures._
+    f. Intended Sample Size. _Describes the intended final sample size, referencing potential hurdles such as attrition, crossover, non-adherence and other sources of bias._
+    g. Effects intended to be estimated. _Describes inferential targets for the analysis._
+        i. Bounds for determination of statistical significance. _Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses._
+        ii. Argument for clinical significance ) _Establishes clinical relevance of effect to be estimated, potentially using the minimum clinically important difference or similar construct_
+        iii. A priori determination of interpretation of results
+5. Analysis Populations / datasets. _Describes analysis populations._
+    a. Full analysis dataset. _Typically all enrolled participants._
+    b. Intention-to-treat dataset. _Typically all participants allocated to trial groups. Meant to simulate the effect of real-world deployment of intervention._
+    c. Per-protocol dataset. _Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal effect of intervention under adherent conditions._
+6. Detailed Analytic Plan. _Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives._
+    a. Primary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Primary Endpoint._
+        i. Main analysis of primary endpoint(s).         _Describes controlling, primary treatment of main analysis._
+        ii. Supportive analysis of primary endpoint(s). _Describes secondary, supporting version of main analysis._
+        iii. Exploratory analysis of primary endpoint(s). _Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc._
+    b. Secondary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Secondary Endpoints._
+        i. Main analysis of secondary endpoint(s). _As above, for secondary endpoints._
+        ii. Supportive analysis of secondary endpoint(s). _As above, for secondary endpoints._
+        iii. Exploratory analysis of secondary endpoint(s). _As above, for secondary endpoints._
+    c. Safety analysis. _Present plan for analyses of safety signals. Refer to relevant guidance._
+        i. Exposure to intervention and trial procedures
+        ii. Adverse events
+        iii. Deaths and Serious Adverse Events
+        iv. Other safety parameters
+    d. Interim analysis. _Describe the rationale for and operationalization of planned interim analysis. Pay particular attention to the objective â€“ e.g. stopping for futility, demonstrated efficacy, etc._
+        i.   Reasons for interim analysis. _Briefly provide rationale._
+        ii.  Objective of the interim analysis. _Describe the objectives of the interim look._
+        iii. Planned schedule of interim analysis. _Provides the schedule and criteria by which this may be revised._
+        iv.  Scope of potential adaptations. _Describes ways in which the design may be altered as a result of the interim analysis._
+        v.  Stopping rule. _Provides the threshold, if any, of evidence that may result in early cessation of the trial for futility and/or for early demonstration of efficacy or other reasons._
+        vi. Adjustments to confidence intervals and p-values. _Describes the method by which interim analyses will be acknowledged in subsequent data presentations, including management of type-I error rates and related quantities._
+        vii. Sample-size re-estimation and conditional power. _Describes procedures for re-estimation and summary of conditional power computations._
+        viii. Documentation of interim analysis results. _Provides template for presentation of results._
+7. Other methodological aspects
+    a. Special considerations in measurement. _Here or elsewhere, addresses considerations such as measurement error, technical considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations_
+    b. Quantification of adherence. _Considers whether adherence to trial procedures should be assessed and analyzed, and if so provides the relevant planning._
+    c. Covariates and subgroups. _Gives descriptions of covariates and subgroups to be considered._
+    d. Handling of missing data. _Describes effect of attrition and other mechanisms dealing with missingness, and analytic plans to take this into account._
+    e. Handling of outliers and unresolved queries. _Describes approaches to dealing with untoward values or unexplained observations. May consider sensitivity analysis or other approaches; should be very specific and explicit._
+    f. Multiplicity adjustments. _Describes plans, if any, to deal with multiple comparisons issues._
+    g. Other considerations
+8. Reporting conventions. _Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc._
+
+### Special considerations for older adults
+
+Aging populations are subject to a number of factors that may induce bias or difficulty in analysis, including enhanced risk of attrition or competing risks, elevated prevalence of multimorbidity, difficulties with participant recall, and other factors [cite Van Ness et al]. These and related considerations must be carefully considered within the SAP and during analysis.
+
+### Common pitfalls
+
+Lack of specificity in describing techniques to be used and controlling decisions. Examples: failure to specify method by which standard errors are to be computed (model-based vs. robust. vs. resampling-based methods), failure to specify the set of covariates to be used in the definitive analysis (or method by which that set of covariates will be derived).
+
+### Resources
+
+## Presentation of Pre-planned Statistical Analyses
+
+### What
+
+Presentation of statistical analyses to collaborators within the trial can range from casual exploratory communications to formal presentation of results as described in the SAP. In general, formal inference should follow the pre-specified plan laid out in the SAP, with particular attention to maintenance of blinding and the potential for introduction of bias, and investigators should consult regulations and guidance as to the degree to which discussion of preliminary analyses by the investigative team are appropriate. Formal presentation of results should follow an established template consistent with the SAP and include critical elements as outlined below.
+
+### Why
+
+Protection against confirmation bias and other hazards is critical for the maintenance of rigor and validity of conclusions. Following the agreed-upon template for analyses (as documented in the SAP) provides this protection.
+
+### How
+
+Analyses should be presented in memoranda constructed in a reproducible fashion, with carefully managed version control and documentation of data sources and other items as described below. Authorship should be a collaboration between the study statistician and other members of the analytic team, and must have as a contributor the persons actually performing the analysis.
+
+#### Contents of the document
+
+Some critical items for inclusion are described below
+
+1. Introduction and objectives. _Brief background for the proposed analysis, with particular attention to measurement or design issues relevant to the presentation of results._
+    a. Data Sources. Describes the studies and data set/s used. Must specify the version of the data structures (i.e. the date upon which the dataset was frozen and/or transmitted to the analyst.
+    b. Software and computing environment. _Describes the analytic tools and machinery employed, including version numbers._
+    c. Aims and Analysis Objectives. _Briefly states the aims and hypothesis of the analysis. Includes a brief prose summary how each aim was addressed in the analyses._
+2. Methods. _Describes analytic sample and methods employed._
+    a. Analytic samples and timeframe. _Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis)_
+    b. Outcome measures. _Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above._
+    c. Control Variables. _Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above._
+    d. Statistical Procedures. _Provides the types of statistical methods/models used as well as any statistical tests performed specific to each analytic aim identified above. Identifies primary, supporting and exploratory analyses (see Section XXX)._
+    e. Sensitivity Analysis. _Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc._
+    f. Treatment of missing data. _Describes methods by which missing data are acknowledged and/or taken into account._
+    g. Deviations from SAP or secondary analytic plan. _Describes and justifies any variation in approach from that previously planned._
+3. Presentation of Results. *Formal presentation of results. Should track closely with SAP ([Section __2__](#statistical-analysis-plan)) or secondary analytic plan as well as the sections described in Methods (above).*
+4. Conclusions. _Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate._
+
+### Special considerations for older adults
+
+See [Section 2.4](#special-considerations-for-older-adults-1).
+
+### Common pitfalls
+
+Failure to acknowledge data sources or describe methods with sufficient detail; failure to conduct and document conclusions in reproducible fashion.
+
+### Resources
+
+## Planning, conduct and presentation of secondary analyses
+
+Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 3.3.1](#contents-of-the-document-1).
+
+## References
+<sup>1</sup> <sub>Some citations</sub>
