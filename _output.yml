@@ -5,7 +5,7 @@ bookdown::gitbook:
       collapse: subsection
       scroll_highlight: true
       before: |
-        <li><a href="/">ISAC Book</a></li>
+        <li><a href="https://ifar-isac.github.io">IFAR ISAC</a></li>
     download: ["pdf","epub"]
 bookdown::pdf_book:
   base_format: tufte::tufte_book
