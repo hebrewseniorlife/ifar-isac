@@ -1,6 +1,6 @@
 --- 
-title: "ISAC Book"
-author: "ISAC Team"
+title: "A Clinical Trials Toolkit"
+author: "The Interventional Studies in Aging Center at IFAR"
 date: "`r Sys.Date()`"
 documentclass: book
 link-citations: yes
