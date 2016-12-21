@@ -7,6 +7,8 @@ link-citations: yes
 site: bookdown::bookdown_site
 ---
 
+\clearpage 
+
 # Introduction
 
 ## Purpose of toolkit
