@@ -1,15 +1,16 @@
 --- 
-title: "ISAC Book"
-author: "ISAC Team"
-date: "`r Sys.Date()`"
+title: "A Clinical Trials Toolkit"
+author: "The Interventional Studies in Aging Center at IFAR"
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site
 ---
 
+\clearpage 
+
 # Introduction
 
-## Purpose of toolkit
+## Purpose of this toolkit
 
 This toolkit is a *general* guide for investigators and project staff at
 Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,

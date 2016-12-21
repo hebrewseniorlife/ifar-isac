@@ -1,0 +1,109 @@
+%%%%%%%%%%%%%%%%%%%%%% Customized tgt 2014.12.16 %%%%%%%%%%%
+
+%% document formatting
+\usepackage{tabularx,tabulary}
+\usepackage{tabu}
+
+%% fonts setup
+
+\usepackage{fontspec}
+\usepackage{xunicode} %xelatex access to accents, etc
+\usepackage{xltxtra}
+\usepackage{unicode-math}
+\usepackage{gensymb} %degree symbol
+
+% \setmainfont[Mapping=tex?text, Numbers={Proportional, OldStyle}, Ligatures=TeX]{Linux Libertine O}
+% \setsansfont[Mapping=tex?text, Numbers={Proportional, OldStyle}, Ligatures=TeX]{Linux Biolinum O}
+% \setmathfont{Asana Math}
+
+% \usepackage{microtype}
+% \usepackage{float} % used to fix floating objects to a specific spot
+
+%% tables and figures
+
+\usepackage{array} % for dealing with table spacing
+\usepackage[flushleft]{threeparttablex} % tables with caption, content, footnotes; captions and footnotes the same width as table body (wrapping)
+\usepackage{makecell} % allow linebreaks in table cells using \thead (headers) and \makecell
+\usepackage{etoolbox}
+\robustify\tnote
+
+\usepackage[compact]{titlesec}
+\usepackage{booktabs, dcolumn, float, microtype} % formatted tables, decimal alignment, dealing with floats, title and section formatting
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor} % colors for tables and text
+
+\newcommand{\head}[1]{% column header environment
+  {\small \setstretch{.85} \begin{tabular}[c]{ @{}c@{}}
+  #1
+  \end{tabular}}%
+}
+
+\setlength{\tabcolsep}{4.5pt} % space between table columns
+ \renewcommand{\arraystretch}{1.5} % space between table rows
+%\setlength{\extrarowheight}{10pt}
+
+% table/figure captions (titles and legends)
+\usepackage{caption}
+\DeclareCaptionFormat{llap}{\llap{#1#2}#3\par} % table / figure number in left margin
+\DeclareCaptionLabelSeparator{spc}{\hspace{.075 in}} % space between table number and caption
+\captionsetup{font={color=blue, sf}, singlelinecheck=off, margin= 15pt, skip=4pt, size=small, labelfont={sc, sf}, format=llap, labelsep=spc,singlelinecheck=no} % same font as headers
+
+% non-table footnotes
+\usepackage[hang]{footmisc}
+
+% [para,online,flushleft]
+
+% headers and footers
+
+%% section headings font and spacing
+ %\usepackage{titlesec}
+% \usepackage{titling}
+
+% \newfontfamily\headingfont[]{Linux Biolinum O}
+% \titleformat*{\section}{\sc \large \color[rgb]{0,0,0} \headingfont}
+% \titleformat*{\subsection}{\large \headingfont}
+% \titleformat*{\subsubsection}{\normalsize \headingfont}
+% \renewcommand{\maketitlehooka}{\headingfont}
+
+% \titlespacing\section{0pt}{8pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{6pt plus 2pt minus 2pt}{-2pt plus 2pt minus 2pt}
+% \titlespacing\subsubsection{0pt}{2pt plus 2pt minus 2pt}{-3pt plus 2pt minus 2pt}
+
+%% definition and spacing of section numbers
+
+% put section numbers in margin
+\makeatletter
+\def\@seccntformat#1{\llap{\csname the#1\endcsname \hspace{.075 in}}}
+\makeatother
+
+
+% spacing of bulleted lists
+\usepackage{enumitem} %control spacing of enumerated items
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+% -------------------------
+
+
+\usepackage{tikz}
+
+% table decimal alignment
+\usepackage[detect-all]{siunitx}
+\sisetup{table-format = 3.3, input-symbols = >()<, tight-spacing = true, table-space-text-pre = $<$} % table-align-text-post = false,
+
+\newlength\tbspace
+\setlength\tbspace{.25in}
+\newcolumntype{T}{S<{\hspace{\tbspace}}}
+\newcolumntype{C}{c<{\hspace{\tbspace}}}
+
+
+\newcolumntype{d}{D{.}{.}{-1}} % decimal justify table contents
+\newcolumntype{z}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+
+
+% units.
+\usepackage{units}
+
+% graphix
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+
+
