@@ -1,7 +1,6 @@
 --- 
 title: "A Clinical Trials Toolkit"
 author: "The Interventional Studies in Aging Center at IFAR"
-date: "`r Sys.Date()`"
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site
@@ -11,7 +10,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-## Purpose of toolkit
+## Purpose of this toolkit
 
 This toolkit is a *general* guide for investigators and project staff at
 Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
