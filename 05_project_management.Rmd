@@ -33,7 +33,7 @@ during trial execution and closeout.
 
 ![](images/book/pm1.png)
 
-*Figure X.X Simplified temporal overview of the management process for
+*Figure 5.1 Simplified temporal overview of the management process for
 an intervention trial *
 
 This module will briefly define the requirements and challenges for
@@ -44,23 +44,23 @@ of personnel and interpersonal communications; and diagnosis and
 correction of problems will be discussed. For each of these, guidelines
 and useful templates are provided. Given their critical importance,
 activities embedded in the pre-trial phase are emphasized (see Figure
-X.1).
+5.2).
 
 ![](images/book/pm2.png)
 
-*Figure X.1. Example flowchart depicting high-level summary of Pretrial
+*Figure 5.2. Example flowchart depicting high-level summary of Pretrial
 activities and their order. In bold are the activities covered in this
 module. For details click on each activity relevant to each trial phase.
 *
 
 ![](images/book/pm3.png)
 
-*Figure X.2. Example flowchart depicting high-level summary of trial
+*Figure 5.3. Example flowchart depicting high-level summary of trial
 activities *
 
 ## Management of trial documentation (see Essential documents module)
 
-*Table X.1 Project management activities relevant for trial
+*Table 5.1 Project management activities relevant for trial
 documentation*
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -194,7 +194,7 @@ An example of a simplified schedule specific to protocol development is
 given in Table X.3; task start and end dates, human resources, and other
 materials would typically be added to this.
 
-*Table X.3 Example of a schedule specific to protocol development*
+*Table 5.3 Example of a schedule specific to protocol development*
 
   ---------------------------------------------------------------------------------------------------------------------------
   **Activity Code**   **Activity/ Deliverable**                               **Duration**   **Predecessor / Prerequisite**
@@ -223,12 +223,12 @@ timeline or process maps include flowcharts, Gantt Charts, and network
 diagrams. We present some examples of the use of these tools below.
 
 **Flowcharts** - are graphical depictions of the process flow
-corresponding to the outline format exemplified by Table X.3. A
-flowchart replicating Table X.3 would consist of a series of boxes laid
+corresponding to the outline format exemplified by Table 5.3. A
+flowchart replicating Table 5.3 would consist of a series of boxes laid
 out in boringly linear fashion and would therefore be of limited
 utility. For more complex development along parallel tracks, by
 contrast, a graphical depiction offers considerable advantages, as shown
-in Figures X.1 and X.2. These flowcharts depict pretrial, execution and
+in Figures 5.2 and 5.3. These flowcharts depict pretrial, execution and
 closeout activities at a high level. Once again, each of the components
 of the activities depicted here could itself be the subject of a
 detailed tabular or graphical breakdown. A key strength of these
@@ -248,10 +248,10 @@ This is defined as the longest sequence of tasks stretching from project
 start to finish. It has the feature that account for the fact that in
 delays in any of the activities along the path will lead delay
 completion of the project, unless this delay can be made up elsewhere
-along the critical path. These concepts are illustrated in Figure X.3.
+along the critical path. These concepts are illustrated in Figure 5.4.
 
 ![](images/book/pm4.png)
-*Figure X.3. The project critical path is outline in orange; any delays
+*Figure 5.4. The project critical path is outline in orange; any delays
 along this path imply an elongation of the total project duration. *
 
 Management of internal and external communications
@@ -359,7 +359,7 @@ organization, and the establishment of metrics to track performance, and
 building and strengthen relationships. Table X.7 provides a list of
 activities to undertake during the different phases of the trial.
 
-*Table X.7 Site Management Plan during the different phases of the
+*Table 5.7 Site Management Plan during the different phases of the
 Clinical Trial*
 
   Pre-trial                                                                                                                                                 Execution                                                                                Closeout
