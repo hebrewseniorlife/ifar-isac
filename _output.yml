@@ -7,8 +7,14 @@ bookdown::gitbook:
       before: |
         <li><a href="https://ifar-isac.github.io">ISAC at IFAR</a></li>
     download: ["pdf","epub"]
+bookdown::epub_book: default
 bookdown::pdf_book:
+  template: biocore.template.tex
   latex_engine: xelatex
+  number_sections: true
+  keep_tex: true
+  highlight: haddock
+  toc: true
+  fig_caption: yes
   includes:
     in_header: biocore.style.20160301.tex
-bookdown::epub_book: default
