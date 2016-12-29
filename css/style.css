@@ -1112,5 +1112,5 @@
 }
 
 .txt-no-trans {
-  text-transform: none;
+  text-transform: none !important;
 }
