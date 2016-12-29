@@ -1110,3 +1110,7 @@
 .no-space {
 	letter-spacing: 0em;
 }
+
+.txt-no-trans {
+  text-transform: none;
+}
