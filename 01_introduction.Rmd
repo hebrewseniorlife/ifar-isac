@@ -25,7 +25,7 @@ Whenever possible, sections of this toolkit follow a similar outline:
 What, Why, How, Special Considerations for Aging Populations, Common
 Pitfalls, and Resources.
 
-## Are you are doing a clinical trial?
+## Are you doing a clinical trial?
 
 Below is the National Institutes of Health (NIH) definition of a
 clinical trial. As clinical trials are subject to additional oversight,
@@ -83,7 +83,7 @@ enhance the conduct and rigor of their clinical trials.
 
 1.  **Good Clinical Practice** (**GCP**) is an international quality
     standard that defines standards for clinical trials involving
-    human subjects. **The NIH require C**[**ertifications in Good
+    human subjects. **The NIH require **[**Certifications in Good
     Clinical
     Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
     **for NIH-funded Investigators and clinical trial site staff who are
