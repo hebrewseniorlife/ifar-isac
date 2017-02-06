@@ -32,28 +32,28 @@ The following items should be considered during the design phase.
 2. Overall goal. _What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims._ 
 3. Illness condition or state. _The condition modification of which motivates the study._
 4. Sampling population. _Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions)._
-5. General approach to design. _Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc. 
+5. General approach to design. _Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc._ 
 6. Specific aims. _Detailed aims addressable by evaluation of statistical hypotheses._
 7. Primary and secondary endpoints.
 8. General nature of the planned comparisons. _Key features of the comparisons to be made; e.g. mean performance on a primary endpoint._
 9. Safety concerns. _Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial._
-10. Ethical considerations. _Additional safety of ethical considerations_
+10. Ethical considerations. _Additional safety of ethical considerations._
 11. Measurement and quantification of effects. _The way in which treatment effects will be quantified._
-12. Determination of statistical significance of comparisons. _Summary nature of quantitative comparisons, fleshed out in statistical analysis plan_
-13. Study staffing and environment
+12. Determination of statistical significance of comparisons. _Summary nature of quantitative comparisons, fleshed out in statistical analysis plan._
+13. Study staffing and environment.
     i. Leadership. _Designation of membership and roles of investigative team leaders._
     ii. Staffing. _Designation of study staff, with specific delineation of responsibilities._
     iii. Environment. _Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate._
-14. Measurement _Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)_
-15. Nature and administration of intervention _Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored_
-16. Study intervention period _Length of time over which intervention would be administered, including run-in and washout periods as applicable_
-17. Frequency of participant interactions, data collection and endpoint measurement _Number and frequency of participant interactions and measurments; often displayed in tabular format_
-18. Participant allocation or randomization _Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process._
-19. Masking / blinding _Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments._ 
-20. Data collection and management _Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module_. 
-21. Statistical design and sample size _See below_
-22. Measurement of trial adherence _Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any_
-23. Training _Provisions for training of study personnel, including human resources for providing the trainging_
+14. Measurement. _Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)_
+15. Nature and administration of intervention. _Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored._
+16. Study intervention period. _Length of time over which intervention would be administered, including run-in and washout periods as applicable._
+17. Frequency of participant interactions, data collection and endpoint measurement. _Number and frequency of participant interactions and measurments; often displayed in tabular format._
+18. Participant allocation or randomization. _Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process._
+19. Masking / blinding. _Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments._ 
+20. Data collection and management. _Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module._ 
+21. Statistical design and sample size. _See below._
+22. Measurement of trial adherence. _Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any._
+23. Training. _Provisions for training of study personnel, including human resources for providing the trainging._
 
 ### Special considerations for older adults
 
@@ -91,7 +91,7 @@ Guidance on data ascertainment, management, storage, analysis and interpretation
 
 ### How
 
-A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see **Essential Documents** ).
+A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see **Essential Documents**.)
 
 #### Contents of the document
 
@@ -125,7 +125,7 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
     c. Per-protocol dataset. _Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal effect of intervention under adherent conditions._
 6. Detailed Analytic Plan. _Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives._
     a. Primary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Primary Endpoint._
-        i. Main analysis of primary endpoint(s).         _Describes controlling, primary treatment of main analysis._
+        i. Main analysis of primary endpoint(s). _Describes controlling, primary treatment of main analysis._
         ii. Supportive analysis of primary endpoint(s). _Describes secondary, supporting version of main analysis._
         iii. Exploratory analysis of primary endpoint(s). _Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc._
     b. Secondary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Secondary Endpoints._
@@ -147,13 +147,13 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
         vii. Sample-size re-estimation and conditional power. _Describes procedures for re-estimation and summary of conditional power computations._
         viii. Documentation of interim analysis results. _Provides template for presentation of results._
 7. Other methodological aspects
-    a. Special considerations in measurement. _Here or elsewhere, addresses considerations such as measurement error, technical considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations_
+    a. Special considerations in measurement. _Here or elsewhere, addresses considerations such as measurement error, technical considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations._
     b. Quantification of adherence. _Considers whether adherence to trial procedures should be assessed and analyzed, and if so provides the relevant planning._
     c. Covariates and subgroups. _Gives descriptions of covariates and subgroups to be considered._
     d. Handling of missing data. _Describes effect of attrition and other mechanisms dealing with missingness, and analytic plans to take this into account._
     e. Handling of outliers and unresolved queries. _Describes approaches to dealing with untoward values or unexplained observations. May consider sensitivity analysis or other approaches; should be very specific and explicit._
     f. Multiplicity adjustments. _Describes plans, if any, to deal with multiple comparisons issues._
-    g. Other considerations
+    g. Other considerations.
 8. Reporting conventions. _Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc._
 
 ### Special considerations for older adults
@@ -189,7 +189,7 @@ Some critical items for inclusion are described below
     b. Software and computing environment. _Describes the analytic tools and machinery employed, including version numbers._
     c. Aims and Analysis Objectives. _Briefly states the aims and hypothesis of the analysis. Includes a brief prose summary how each aim was addressed in the analyses._
 2. Methods. _Describes analytic sample and methods employed._
-    a. Analytic samples and timeframe. _Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis)_
+    a. Analytic samples and timeframe. _Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis)._
     b. Outcome measures. _Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above._
     c. Control Variables. _Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above._
     d. Statistical Procedures. _Provides the types of statistical methods/models used as well as any statistical tests performed specific to each analytic aim identified above. Identifies primary, supporting and exploratory analyses (see Section XXX)._
