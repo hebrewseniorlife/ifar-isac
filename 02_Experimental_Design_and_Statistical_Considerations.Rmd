@@ -28,32 +28,32 @@ Key design features will ultimately dictate the internal validity and generaliza
 
 The following items should be considered during the design phase.
 
-1. Rationale for conduct of the trial. _The scientific / biomedical impetus necessitating conduct of the trial_ 
-2. Overall goal. _What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims._ 
-3. Illness condition or state. _The condition modification of which motivates the study._
-4. Sampling population. _Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions)._
-5. General approach to design. _Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc._ 
-6. Specific aims. _Detailed aims addressable by evaluation of statistical hypotheses._
-7. Primary and secondary endpoints.
-8. General nature of the planned comparisons. _Key features of the comparisons to be made; e.g. mean performance on a primary endpoint._
-9. Safety concerns. _Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial._
-10. Ethical considerations. _Additional safety of ethical considerations._
-11. Measurement and quantification of effects. _The way in which treatment effects will be quantified._
-12. Determination of statistical significance of comparisons. _Summary nature of quantitative comparisons, fleshed out in statistical analysis plan._
-13. Study staffing and environment.
-    i. Leadership. _Designation of membership and roles of investigative team leaders._
-    ii. Staffing. _Designation of study staff, with specific delineation of responsibilities._
-    iii. Environment. _Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate._
-14. Measurement. _Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)_
-15. Nature and administration of intervention. _Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored._
-16. Study intervention period. _Length of time over which intervention would be administered, including run-in and washout periods as applicable._
-17. Frequency of participant interactions, data collection and endpoint measurement. _Number and frequency of participant interactions and measurments; often displayed in tabular format._
-18. Participant allocation or randomization. _Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process._
-19. Masking / blinding. _Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments._ 
-20. Data collection and management. _Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module._ 
-21. Statistical design and sample size. _See below._
-22. Measurement of trial adherence. _Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any._
-23. Training. _Provisions for training of study personnel, including human resources for providing the trainging._
+1. _Rationale for conduct of the trial._ The scientific / biomedical impetus necessitating conduct of the trial. 
+2. _Overall goal._ What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims. 
+3. _Illness condition or state._ The condition modification of which motivates the study.
+4. _Sampling population._ Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions).
+5. _General approach to design._ Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc. 
+_6. Specific aims._ Detailed aims addressable by evaluation of statistical hypotheses.
+7. _Primary and secondary endpoints._
+8. _General nature of the planned comparisons._ Key features of the comparisons to be made; e.g. mean performance on a primary endpoint.
+9. _Safety concerns._ Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial.
+10. _Ethical considerations._ Additional safety of ethical considerations.
+11. _Measurement and quantification of effects. _The way in which treatment effects will be quantified.
+12. _Determination of statistical significance of comparisons._ Summary nature of quantitative comparisons, fleshed out in statistical analysis plan.
+13. _Study staffing and environment.
+    i. _Leadership._ Designation of membership and roles of investigative team leaders.
+    ii. _Staffing._ Designation of study staff, with specific delineation of responsibilities.
+    iii. _Environment._ Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate.
+14. _Measurement._ Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)_
+15. _Nature and administration of intervention._ Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored.
+16. _Study intervention period._ Length of time over which intervention would be administered, including run-in and washout periods as applicable.
+17. _Frequency of participant interactions, data collection and endpoint measurement._ Number and frequency of participant interactions and measurments; often displayed in tabular format.
+18. _Participant allocation or randomization._ Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process.
+19. _Masking / blinding._ Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments. 
+20. _Data collection and management._ Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module. 
+21. _Statistical design and sample size._ See below.
+22. _Measurement of trial adherence._ Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any.
+23. _Training._ Provisions for training of study personnel, including human resources for providing the trainging.
 
 ### Special considerations for older adults
 
