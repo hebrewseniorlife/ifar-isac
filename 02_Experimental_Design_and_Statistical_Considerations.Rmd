@@ -98,7 +98,7 @@ A version of the SAP may be included as an addendum to or embedded within the st
 The contents of the SAP will vary from trial to trial. For a conventional intervention trial designed to assess efficacy, in which participants are allocated to one of two or more groups (e.g. intervention vs. control), contents might be as follows.
 
 1. _Introduction._
-      a. _Background. _Provides explanatory information concerning disease target, patient population, etc. Includes references to authoritative literature.
+      a. _Background._ Provides explanatory information concerning disease target, patient population, etc. Includes references to authoritative literature.
       b. _Objectives._ Briefly describes overall analytic goals.
           i. _Primary objective._ Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance.
           ii. _Secondary objectives._ As above, for secondary objectives.
@@ -114,33 +114,33 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
     c. _Blinding._ Describes the degree to which data scientists and personnel are blinded, and maintenance of same.
     d. _Blocking and stratification / matching._ Describes blocking, matching, etc. and references plans for consideration of design effects in analysis.
     e. _Randomization Scheme._ Describes the randomization scheme and procedures.
-    f. Intended Sample Size. _Describes the intended final sample size, referencing potential hurdles such as attrition, crossover, non-adherence and other sources of bias._
-    g. Effects intended to be estimated. _Describes inferential targets for the analysis._
-        i. Bounds for determination of statistical significance. _Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses._
-        ii. Argument for clinical significance ) _Establishes clinical relevance of effect to be estimated, potentially using the minimum clinically important difference or similar construct_
-        iii. A priori determination of interpretation of results
-5. Analysis Populations / datasets. _Describes analysis populations._
-    a. Full analysis dataset. _Typically all enrolled participants._
-    b. Intention-to-treat dataset. _Typically all participants allocated to trial groups. Meant to simulate the effect of real-world deployment of intervention._
-    c. Per-protocol dataset. _Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal effect of intervention under adherent conditions._
-6. Detailed Analytic Plan. _Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives._
-    a. _Primary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Primary Endpoint._
+    f. _Intended Sample Size._ Describes the intended final sample size, referencing potential hurdles such as attrition, crossover, non-adherence and other sources of bias.
+    g. _Effects intended to be estimated._ Describes inferential targets for the analysis.
+        i. _Bounds for determination of statistical significance._ Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses.
+        ii. _Argument for clinical significance._ Establishes clinical relevance of effect to be estimated, potentially using the minimum clinically important difference or similar construct.
+        iii. _A priori determination of interpretation of results._
+5. _Analysis Populations / datasets._ Describes analysis populations.
+    a. _Full analysis dataset._ Typically all enrolled participants.
+    b. _Intention-to-treat dataset._ Typically all participants allocated to trial groups. Meant to simulate the effect of real-world deployment of intervention.
+    c. _Per-protocol dataset._ Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal effect of intervention under adherent conditions.
+6. _Detailed Analytic Plan._ Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives.
+    a. _Primary endpoint(s)._ Describe primary, supporting and exploratory analyses intended for the Primary Endpoint.
         i. _Main analysis of primary endpoint(s)._ Describes controlling, primary treatment of main analysis.
-        ii. Supportive analysis of primary endpoint(s). _Describes secondary, supporting version of main analysis._
-        iii. Exploratory analysis of primary endpoint(s). _Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc._
-    b. Secondary endpoint(s). _Describe primary, supporting and exploratory analyses intended for the Secondary Endpoints._
-        i. Main analysis of secondary endpoint(s). _As above, for secondary endpoints._
-        ii. Supportive analysis of secondary endpoint(s). _As above, for secondary endpoints._
-        iii. Exploratory analysis of secondary endpoint(s). _As above, for secondary endpoints._
-    c. Safety analysis. _Present plan for analyses of safety signals. Refer to relevant guidance._
-        i. Exposure to intervention and trial procedures
-        ii. Adverse events
-        iii. Deaths and Serious Adverse Events
-        iv. Other safety parameters
-    d. Interim analysis. _Describe the rationale for and operationalization of planned interim analysis. Pay particular attention to the objective â€“ e.g. stopping for futility, demonstrated efficacy, etc._
-        i.   Reasons for interim analysis. _Briefly provide rationale._
-        ii.  Objective of the interim analysis. _Describe the objectives of the interim look._
-        iii. Planned schedule of interim analysis. _Provides the schedule and criteria by which this may be revised._
+        ii. _Supportive analysis of primary endpoint(s)._ Describes secondary, supporting version of main analysis.
+        iii. _Exploratory analysis of primary endpoint(s)._ Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc.
+    b. _Secondary endpoint(s)._ Describe primary, supporting and exploratory analyses intended for the Secondary Endpoints.
+        i. _Main analysis of secondary endpoint(s)._ As above, for secondary endpoints.
+        ii. _Supportive analysis of secondary endpoint(s)._ As above, for secondary endpoints.
+        iii. Exploratory analysis of secondary endpoint(s). _As above, for secondary endpoints.
+    c. _Safety analysis._ Present plan for analyses of safety signals. Refer to relevant guidance.
+        i. _Exposure to intervention and trial procedures._
+        ii. _Adverse events._
+        iii. _Deaths and Serious Adverse Events._
+        iv. _Other safety parameters._
+    d. _Interim analysis._ Describe the rationale for and operationalization of planned interim analysis. Pay particular attention to the objective â€“ e.g. stopping for futility, demonstrated efficacy, etc.
+        i.   _Reasons for interim analysis._ Briefly provide rationale.
+        ii.  _Objective of the interim analysis._ Describe the objectives of the interim look.
+        iii. _Planned schedule of interim analysis._ Provides the schedule and criteria by which this may be revised.
         iv.  Scope of potential adaptations. _Describes ways in which the design may be altered as a result of the interim analysis._
         v.  Stopping rule. _Provides the threshold, if any, of evidence that may result in early cessation of the trial for futility and/or for early demonstration of efficacy or other reasons._
         vi. Adjustments to confidence intervals and p-values. _Describes the method by which interim analyses will be acknowledged in subsequent data presentations, including management of type-I error rates and related quantities._
