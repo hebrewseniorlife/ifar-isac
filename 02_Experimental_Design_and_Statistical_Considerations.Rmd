@@ -100,61 +100,61 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
 1. _Introduction._
       a. _Background._ Provides explanatory information concerning disease target, patient population, etc. Includes references to authoritative literature.
       b. _Objectives._ Briefly describes overall analytic goals.
-          i. _Primary objective._ Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance.
-          ii. _Secondary objectives._ As above, for secondary objectives.
+          i. Primary objective. Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance.
+          ii. Secondary objectives. As above, for secondary objectives.
 2. _Endpoints._
-    a. _Primary endpoints._ Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics.
-    b. _Secondary endpoints._ As above, for secondary endpoints.
+    a. Primary endpoints. Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics.
+    b. Secondary endpoints. As above, for secondary endpoints.
 3. _Protocol / Grant SAP._ Summarize existing plan as presented in the original protocol or funding application.  
 4. _Design elements._
     a. _Basic design features._ Discusses overall experimental structure for purposes of comparison.
-        i. _Nature of primary comparison._ Describes the basic target of interest, i.e. determination of superiority, equivalence or noninferiority of intervention to control or current standard of care.
-        ii. _Participant allocation._ Describes randomization or other procedures by which participants are allocated to trial groups.
+        i. Nature of primary comparison. Describes the basic target of interest, i.e. determination of superiority, equivalence or noninferiority of intervention to control or current standard of care.
+        ii. Participant allocation. Describes randomization or other procedures by which participants are allocated to trial groups.
     b. _Schedule of events._ Gives a summary of time-points and measurements that will be used.
     c. _Blinding._ Describes the degree to which data scientists and personnel are blinded, and maintenance of same.
     d. _Blocking and stratification / matching._ Describes blocking, matching, etc. and references plans for consideration of design effects in analysis.
     e. _Randomization Scheme._ Describes the randomization scheme and procedures.
     f. _Intended Sample Size._ Describes the intended final sample size, referencing potential hurdles such as attrition, crossover, non-adherence and other sources of bias.
     g. _Effects intended to be estimated._ Describes inferential targets for the analysis.
-        i. _Bounds for determination of statistical significance._ Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses.
-        ii. _Argument for clinical significance._ Establishes clinical relevance of effect to be estimated, potentially using the minimum clinically important difference or similar construct.
-        iii. _A priori determination of interpretation of results._
+        i. Bounds for determination of statistical significance. Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses.
+        ii. Argument for clinical significance. Establishes clinical relevance of effect to be estimated, potentially using the minimum clinically important difference or similar construct.
+        iii. _A priori_ determination of interpretation of results.
 5. _Analysis Populations / datasets._ Describes analysis populations.
     a. _Full analysis dataset._ Typically all enrolled participants.
     b. _Intention-to-treat dataset._ Typically all participants allocated to trial groups. Meant to simulate the effect of real-world deployment of intervention.
     c. _Per-protocol dataset._ Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal effect of intervention under adherent conditions.
 6. _Detailed Analytic Plan._ Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives.
     a. _Primary endpoint(s)._ Describe primary, supporting and exploratory analyses intended for the Primary Endpoint.
-        i. _Main analysis of primary endpoint(s)._ Describes controlling, primary treatment of main analysis.
-        ii. _Supportive analysis of primary endpoint(s)._ Describes secondary, supporting version of main analysis.
-        iii. _Exploratory analysis of primary endpoint(s)._ Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc.
+        i. Main analysis of primary endpoint(s). Describes controlling, primary treatment of main analysis.
+        ii. Supportive analysis of primary endpoint(s). Describes secondary, supporting version of main analysis.
+        iii. Exploratory analysis of primary endpoint(s). Describes additional, perhaps hypothesis-generating analyses, sensitivity assessments, etc.
     b. _Secondary endpoint(s)._ Describe primary, supporting and exploratory analyses intended for the Secondary Endpoints.
-        i. _Main analysis of secondary endpoint(s)._ As above, for secondary endpoints.
-        ii. _Supportive analysis of secondary endpoint(s)._ As above, for secondary endpoints.
-        iii. Exploratory analysis of secondary endpoint(s). _As above, for secondary endpoints.
+        i. Main analysis of secondary endpoint(s). As above, for secondary endpoints.
+        ii. Supportive analysis of secondary endpoint(s). As above, for secondary endpoints.
+        iii. Exploratory analysis of secondary endpoint(s). As above, for secondary endpoints.
     c. _Safety analysis._ Present plan for analyses of safety signals. Refer to relevant guidance.
-        i. _Exposure to intervention and trial procedures._
-        ii. _Adverse events._
-        iii. _Deaths and Serious Adverse Events._
-        iv. _Other safety parameters._
+        i. Exposure to intervention and trial procedures.
+        ii. Adverse events.
+        iii. Deaths and Serious Adverse Events.
+        iv. Other safety parameters.
     d. _Interim analysis._ Describe the rationale for and operationalization of planned interim analysis. Pay particular attention to the objective â€“ e.g. stopping for futility, demonstrated efficacy, etc.
-        i.   _Reasons for interim analysis._ Briefly provide rationale.
-        ii.  _Objective of the interim analysis._ Describe the objectives of the interim look.
-        iii. _Planned schedule of interim analysis._ Provides the schedule and criteria by which this may be revised.
-        iv.  Scope of potential adaptations. _Describes ways in which the design may be altered as a result of the interim analysis._
-        v.  Stopping rule. _Provides the threshold, if any, of evidence that may result in early cessation of the trial for futility and/or for early demonstration of efficacy or other reasons._
-        vi. Adjustments to confidence intervals and p-values. _Describes the method by which interim analyses will be acknowledged in subsequent data presentations, including management of type-I error rates and related quantities._
-        vii. Sample-size re-estimation and conditional power. _Describes procedures for re-estimation and summary of conditional power computations._
-        viii. Documentation of interim analysis results. _Provides template for presentation of results._
-7. Other methodological aspects
-    a. Special considerations in measurement. _Here or elsewhere, addresses considerations such as measurement error, technical considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations._
-    b. Quantification of adherence. _Considers whether adherence to trial procedures should be assessed and analyzed, and if so provides the relevant planning._
-    c. Covariates and subgroups. _Gives descriptions of covariates and subgroups to be considered._
-    d. Handling of missing data. _Describes effect of attrition and other mechanisms dealing with missingness, and analytic plans to take this into account._
-    e. Handling of outliers and unresolved queries. _Describes approaches to dealing with untoward values or unexplained observations. May consider sensitivity analysis or other approaches; should be very specific and explicit._
-    f. Multiplicity adjustments. _Describes plans, if any, to deal with multiple comparisons issues._
-    g. Other considerations.
-8. Reporting conventions. _Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc._
+        i.   Reasons for interim analysis. Briefly provide rationale.
+        ii.  Objective of the interim analysis. Describe the objectives of the interim look.
+        iii. Planned schedule of interim analysis. Provides the schedule and criteria by which this may be revised.
+        iv.  Scope of potential adaptations. Describes ways in which the design may be altered as a result of the interim analysis.
+        v.  Stopping rule. Provides the threshold, if any, of evidence that may result in early cessation of the trial for futility and/or for early demonstration of efficacy or other reasons.
+        vi. Adjustments to confidence intervals and p-values. Describes the method by which interim analyses will be acknowledged in subsequent data presentations, including management of type-I error rates and related quantities.
+        vii. Sample-size re-estimation and conditional power. Describes procedures for re-estimation and summary of conditional power computations.
+        viii. Documentation of interim analysis results. Provides template for presentation of results.
+7. _Other methodological aspects._
+    a. _Special considerations in measurement._ Here or elsewhere, addresses considerations such as measurement error, technical considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations.
+    b. _Quantification of adherence._ Considers whether adherence to trial procedures should be assessed and analyzed, and if so provides the relevant planning.
+    c. _Covariates and subgroups._ Gives descriptions of covariates and subgroups to be considered.
+    d. _Handling of missing data._ Describes effect of attrition and other mechanisms dealing with missingness, and analytic plans to take this into account.
+    e. _Handling of outliers and unresolved queries._ Describes approaches to dealing with untoward values or unexplained observations. May consider sensitivity analysis or other approaches; should be very specific and explicit.
+    f. _Multiplicity adjustments._ Describes plans, if any, to deal with multiple comparisons issues.
+    g. _Other considerations._
+8. _Reporting conventions._ Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc.
 
 ### Special considerations for older adults
 
@@ -184,15 +184,15 @@ Analyses should be presented in memoranda constructed in a reproducible fashion,
 
 Some critical items for inclusion are described below
 
-1. _Introduction and objectives. _Brief background for the proposed analysis, with particular attention to measurement or design issues relevant to the presentation of results._
-    a. Data Sources. Describes the studies and data set/s used. Must specify the version of the data structures (i.e. the date upon which the dataset was frozen and/or transmitted to the analyst.
-    b. Software and computing environment. _Describes the analytic tools and machinery employed, including version numbers._
-    c. Aims and Analysis Objectives. _Briefly states the aims and hypothesis of the analysis. Includes a brief prose summary how each aim was addressed in the analyses._
-2. Methods. _Describes analytic sample and methods employed._
-    a. Analytic samples and timeframe. _Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis)._
-    b. Outcome measures. _Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above._
-    c. Control Variables. _Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above._
-    d. Statistical Procedures. _Provides the types of statistical methods/models used as well as any statistical tests performed specific to each analytic aim identified above. Identifies primary, supporting and exploratory analyses (see Section XXX)._
+1. _Introduction and objectives._ Brief background for the proposed analysis, with particular attention to measurement or design issues relevant to the presentation of results.
+    a. _Data Sources._ Describes the studies and data set/s used. Must specify the version of the data structures (i.e. the date upon which the dataset was frozen and/or transmitted to the analyst.
+    b. _Software and computing environment._ Describes the analytic tools and machinery employed, including version numbers.
+    c. _Aims and Analysis Objectives._ Briefly states the aims and hypothesis of the analysis. Includes a brief prose summary how each aim was addressed in the analyses.
+2. _Methods._ Describes analytic sample and methods employed.
+    a. _Analytic samples and timeframe._ Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis).
+    b. _Outcome measures._ Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above.
+    c. _Control Variables._ Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above.
+    d. _Statistical Procedures._ Provides the types of statistical methods/models used as well as any statistical tests performed specific to each analytic aim identified above. Identifies primary, supporting and exploratory analyses (see Section XXX).
     e. Sensitivity Analysis. _Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc._
     f. Treatment of missing data. _Describes methods by which missing data are acknowledged and/or taken into account._
     g. Deviations from SAP or secondary analytic plan. _Describes and justifies any variation in approach from that previously planned._
