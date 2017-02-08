@@ -1,7 +1,7 @@
 # Human Subject Protection and Research Regulation
 
 ## Introduction
-### Module Goal
+### Module goal
 The goal for this module is to introduce the essential elements of human
 subjects’ protections and regulatory requirements pertinent to the
 conduct of clinical trials. Essential aspects of human subjects’
@@ -15,7 +15,7 @@ protections and regulatory requirements provided in this module include:
 -   Informed Consent
 -   Adverse event monitoring and reporting
 
-### General Considerations about federal regulations
+### General considerations about federal regulations
 
 The regulation of clinical trials can be complex. What may be seen by
 investigators as trivial regulations or minor misdemeanors can have
@@ -29,8 +29,8 @@ board (IRB), and making sure you understand existing regulations and
 institutional policies**.
 
 Federal agencies including the U.S. Food and Drug Administration (FDA)
-and the Department of Health and Human Services (HHS (includes National
-Institutes of Health (NIH)), make and enforce regulations to ensure the
+and the Department of Health and Human Services (HHS), which includes National
+Institutes of Health (NIH), make and enforce regulations to ensure the
 safety of participants in clinical trials, and retain final authority
 for determining whether an institution has been compliant.
 **Investigators should review the specific regulations of the funding or
@@ -44,7 +44,7 @@ funded human subjects’ research is codified in 45 CFR Part 46
 “Protection of Human Subjects”
 (<http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/>).
 This set of regulations are based on the [Belmont
-Report](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/)
+Report](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/).
 
 *FDA Regulated Trials:* The FDA has their own set of human subject
 regulations and regulations CFR – Code of Federal Regulations Title 21
