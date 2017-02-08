@@ -38,7 +38,7 @@ The following items should be considered during the design phase.
 8. _General nature of the planned comparisons._ Key features of the comparisons to be made; e.g. mean performance on a primary endpoint.
 9. _Safety concerns._ Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial.
 10. _Ethical considerations._ Additional safety of ethical considerations.
-11. _Measurement and quantification of effects. _The way in which treatment effects will be quantified.
+11. _Measurement and quantification of effects._ The way in which treatment effects will be quantified.
 12. _Determination of statistical significance of comparisons._ Summary nature of quantitative comparisons, fleshed out in statistical analysis plan.
 13. _Study staffing and environment._
     i. _Leadership._ Designation of membership and roles of investigative team leaders.
@@ -97,23 +97,23 @@ A version of the SAP may be included as an addendum to or embedded within the st
 
 The contents of the SAP will vary from trial to trial. For a conventional intervention trial designed to assess efficacy, in which participants are allocated to one of two or more groups (e.g. intervention vs. control), contents might be as follows.
 
-1. Introduction
+1. _Introduction._
       a. _Background. _Provides explanatory information concerning disease target, patient population, etc. Includes references to authoritative literature.
       b. _Objectives._ Briefly describes overall analytic goals.
           i. _Primary objective._ Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance.
           ii. _Secondary objectives._ As above, for secondary objectives.
-2. Endpoints
+2. _Endpoints._
     a. _Primary endpoints._ Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics.
     b. _Secondary endpoints._ As above, for secondary endpoints.
-3. Protocol / Grant SAP. Summarize existing plan as presented in the original protocol or funding application.  
-4. Design elements
+3. _Protocol / Grant SAP._ Summarize existing plan as presented in the original protocol or funding application.  
+4. _Design elements._
     a. _Basic design features._ Discusses overall experimental structure for purposes of comparison.
         i. _Nature of primary comparison._ Describes the basic target of interest, i.e. determination of superiority, equivalence or noninferiority of intervention to control or current standard of care.
-        ii. _Participant allocation. _Describes randomization or other procedures by which participants are allocated to trial groups.
-    b. _Schedule of events. _Gives a summary of time-points and measurements that will be used._
-    c. Blinding. _Describes the degree to which data scientists and personnel are blinded, and maintenance of same._
-    d. Blocking and stratification / matching. _Describes blocking, matching, etc. and references plans for consideration of design effects in analysis._
-    e. Randomization Scheme. _Describes the randomization scheme and procedures._
+        ii. _Participant allocation._ Describes randomization or other procedures by which participants are allocated to trial groups.
+    b. _Schedule of events._ Gives a summary of time-points and measurements that will be used.
+    c. _Blinding._ Describes the degree to which data scientists and personnel are blinded, and maintenance of same.
+    d. _Blocking and stratification / matching._ Describes blocking, matching, etc. and references plans for consideration of design effects in analysis.
+    e. _Randomization Scheme._ Describes the randomization scheme and procedures.
     f. Intended Sample Size. _Describes the intended final sample size, referencing potential hurdles such as attrition, crossover, non-adherence and other sources of bias._
     g. Effects intended to be estimated. _Describes inferential targets for the analysis._
         i. Bounds for determination of statistical significance. _Gives clinical and statistical thresholds for determination of significance of evidence and, where appropriate, rejection of null hypotheses._
