@@ -10,7 +10,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-## Purpose of this toolkit
+## Purpose of this Toolkit
 
 This toolkit is a *general* guide for investigators and project staff at
 Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
@@ -25,7 +25,7 @@ Whenever possible, sections of this toolkit follow a similar outline:
 What, Why, How, Special Considerations for Aging Populations, Common
 Pitfalls, and Resources.
 
-## Are you doing a clinical trial?
+## Are you Doing a Clinical Trial?
 
 Below is the National Institutes of Health (NIH) definition of a
 clinical trial. As clinical trials are subject to additional oversight,
@@ -48,8 +48,6 @@ interventions on health-related biomedical or behavioral outcomes.^5^
 *^4^An intervention is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints.  Examples include:  drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.*
 
 *^5^Health-related biomedical or behavioral outcome is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life.  Examples include:  positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.*
-
-[https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html)
 
 ## Clinical Trial Phases
 
@@ -76,7 +74,7 @@ interventions.
     various populations and any side effects associated with
     long-term use.
 
-## Training requirements and opportunities: 
+## Training Requirements and Opportunities: 
 Aside from clinical trial design and/or biostatistical training, there are varied practical,
 short-term courses for principal investigators and project personnel to
 enhance the conduct and rigor of their clinical trials.
@@ -86,11 +84,9 @@ enhance the conduct and rigor of their clinical trials.
     human subjects. **The NIH require **[**Certifications in Good
     Clinical
     Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
-    **for NIH-funded Investigators and clinical trial site staff who are
+    _for NIH-funded Investigators and clinical trial site staff who are
     responsible for the conduct, management and oversight of NIH-funded
-    clinical trials. The FDA has a similar requirement.** Below is a
-    link to its training that fulfils this requirement:
-    <https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx>
+    clinical trials. The **[**FDA**](https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx)** has a similar requirement.
 
     There are many other extensive courses offered to become GCP
     certified, both internet-based and on-site. Most have a
@@ -99,13 +95,13 @@ enhance the conduct and rigor of their clinical trials.
     GCP certification. Below are examples of a few of these
     many opportunities.
 
-    <https://gcp.nihtraining.com/>
+    National Drug Abuse Treatment Clinical Trails Network **[**Good Clinical Practice (GCP) Course**](https://gcp.nihtraining.com/)
 
-    <http://www.onlinegcp.us/>
+    **[**Online GCP**](http://www.onlinegcp.us/)
 
-    https://www.citiprogram.org/index.cfm?pageID=90
+    Collaborative Institutional Training Initiative (CITI) **[**Good clinical Practice (GCP) Course**](https://www.citiprogram.org/index.cfm?pageID=90)
 
-2.  **Harvard Catalyst Clinical Trial Design:** Clinical Trial Design is
+2.  **Harvard Catalyst Clinical Trial Design:** **[**Clinical Trial Design**](https://catalyst.harvard.edu/services/ctd/)** is
     an opportunity for new clinical investigators, who have an idea for
     development of a clinical trial, to participate in an intensive
     eight-week course. It is offered at *no cost* to members of the
@@ -116,7 +112,6 @@ enhance the conduct and rigor of their clinical trials.
     information on IRB and regulatory topics, and on
     trial implementation. Additional course topics include statistical
     analysis, budgeting, and data management.
-    <https://catalyst.harvard.edu/services/ctd/>
 
 3.  **NIH Clinical Research Training On-Line:** On-line course available
     24/day at no cost with the following objectives: i. To raise
@@ -133,11 +128,9 @@ enhance the conduct and rigor of their clinical trials.
 
 4.  **Barnett International: Design and Conduct of Clinical Trials:
     Design Requirements, Statistical Issues, and Clinical Protocols:**
-    On-site two-day course that provides an introduction to the
+    On-site **[**two-day course**](http://www.barnettinternational.com/Live-Seminars/Design-and-Conduct-of-Clinical-Trials--Design-Requirements,-Statistical-Issues,-and-Clinical-Protocols/)** that provides an introduction to the
     scientific, statistical, and ethical aspects of clinical trials
-    research. Cost (2016) = \$1800
-
-    <http://www.barnettinternational.com/Live-Seminars/Design-and-Conduct-of-Clinical-Trials--Design-Requirements,-Statistical-Issues,-and-Clinical-Protocols/>
+    research. Cost (2016) = \$1800.
 
 ## Clinical Trial Planning Resources
 
