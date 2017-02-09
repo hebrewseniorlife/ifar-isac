@@ -103,8 +103,8 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
           i. Primary objective. Describes primary objective of the trial, being specific concerning such matters as demonstration of feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health relevance.
           ii. Secondary objectives. As above, for secondary objectives.
 2. _Endpoints._
-    a. Primary endpoints. Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics.
-    b. Secondary endpoints. As above, for secondary endpoints.
+    a. _Primary endpoints._ Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, and other performance characteristics.
+    b. _Secondary endpoints._ As above, for secondary endpoints.
 3. _Protocol / Grant SAP._ Summarize existing plan as presented in the original protocol or funding application.  
 4. _Design elements._
     a. _Basic design features._ Discusses overall experimental structure for purposes of comparison.
@@ -193,15 +193,15 @@ Some critical items for inclusion are described below
     b. _Outcome measures._ Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above.
     c. _Control Variables._ Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above.
     d. _Statistical Procedures._ Provides the types of statistical methods/models used as well as any statistical tests performed specific to each analytic aim identified above. Identifies primary, supporting and exploratory analyses (see Section XXX).
-    e. Sensitivity Analysis. _Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc._
-    f. Treatment of missing data. _Describes methods by which missing data are acknowledged and/or taken into account._
-    g. Deviations from SAP or secondary analytic plan. _Describes and justifies any variation in approach from that previously planned._
-3. Presentation of Results. *Formal presentation of results. Should track closely with SAP ([Section __2__](#statistical-analysis-plan)) or secondary analytic plan as well as the sections described in Methods (above).*
-4. Conclusions. _Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate._
+    e. _Sensitivity Analysis._ Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc.
+    f. _Treatment of missing data._ Describes methods by which missing data are acknowledged and/or taken into account.
+    g. _Deviations from SAP or secondary analytic plan._ Describes and justifies any variation in approach from that previously planned.
+3. _Presentation of Results._ Formal presentation of results. Should track closely with SAP ([Section 2.4](#statistical-analysis-plan)) or secondary analytic plan as well as the sections described in Methods (above).
+4. _Conclusions._ Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate.
 
 ### Special considerations for older adults
 
-See [Section 2.4](#special-considerations-for-older-adults-1).
+See [Section 2.2.4](#special-considerations-for-older-adults-1).
 
 ### Common pitfalls
 
@@ -211,7 +211,7 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 
 ## Planning, conduct and presentation of secondary analyses
 
-Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 3.3.1](#contents-of-the-document-1).
+Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 5.2.3.1](#contents-of-the-document-1).
 
 ## References
-<sup>1</sup> <sub>Some citations</sub>
+<sup>1</sup> <sub>Van Ness _et al_</sub>
