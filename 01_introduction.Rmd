@@ -79,14 +79,13 @@ Aside from clinical trial design and/or biostatistical training, there are varie
 short-term courses for principal investigators and project personnel to
 enhance the conduct and rigor of their clinical trials.
 
-1.  **Good Clinical Practice** (**GCP**) is an international quality
+1.  **Good Clinical Practice (GCP)** is an international quality
     standard that defines standards for clinical trials involving
-    human subjects. **The NIH require **[**Certifications in Good
-    Clinical
-    Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
-    _for NIH-funded Investigators and clinical trial site staff who are
+    human subjects. The NIH require [**Certifications in Good
+    Clinical Practice**](<http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2>)
+    for NIH-funded Investigators and clinical trial site staff who are
     responsible for the conduct, management and oversight of NIH-funded
-    clinical trials. The **[**FDA**](https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx)** has a similar requirement.
+    clinical trials. The [**FDA**](<https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx>) has a similar requirement.**
 
     There are many other extensive courses offered to become GCP
     certified, both internet-based and on-site. Most have a
@@ -95,11 +94,11 @@ enhance the conduct and rigor of their clinical trials.
     GCP certification. Below are examples of a few of these
     many opportunities.
 
-    National Drug Abuse Treatment Clinical Trails Network **[**Good Clinical Practice (GCP) Course**](https://gcp.nihtraining.com/)
+    National Drug Abuse Treatment Clinical Trails Network [**Good Clinical Practice (GCP) Course**](https://gcp.nihtraining.com/)
 
-    **[**Online GCP**](http://www.onlinegcp.us/)
+    [**Online GCP**](http://www.onlinegcp.us/)
 
-    Collaborative Institutional Training Initiative (CITI) **[**Good clinical Practice (GCP) Course**](https://www.citiprogram.org/index.cfm?pageID=90)
+    Collaborative Institutional Training Initiative (CITI) [**Good clinical Practice (GCP) Course**](https://www.citiprogram.org/index.cfm?pageID=90)
 
 2.  **Harvard Catalyst Clinical Trial Design:** **[**Clinical Trial Design**](https://catalyst.harvard.edu/services/ctd/)** is
     an opportunity for new clinical investigators, who have an idea for
