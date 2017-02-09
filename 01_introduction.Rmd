@@ -49,7 +49,7 @@ interventions on health-related biomedical or behavioral outcomes.^5^
 
 *^5^Health-related biomedical or behavioral outcome is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life.  Examples include:  positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.*
 
-[https://grants.nih.go v/grants/guide/notice-files/NOT-OD-15-015.html](https://grants.nih.go v/grants/guide/notice-files/NOT-OD-15-015.html)
+[https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html)
 
 ## Clinical Trial Phases
 
@@ -152,3 +152,7 @@ with their clinical trial.
     forms, guidelines and other related information that can be very
     helpful throughout the research process and is referenced throughout
     the ISAC toolkit
+
+## References
+
+[https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html)
