@@ -99,12 +99,10 @@ critical to understand the requirements of the IRB overseeing your
 project. Specific information relevant to HSL IRB can be found on the
 IRB section of the [HSL
 website](http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board)
-(<http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board>)
 as well as the: [internal HSL
-“HUB”](http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board)
-(<http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board>).
+“HUB”](http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board).
 
-#### Categories of IRB oversight
+#### Categories of IRB Oversight
 
 Depending on the study design and degree to which human subjects are
 involved, the IRB will review the research and will make a determination
@@ -123,7 +121,7 @@ IRB applications include:
 -   Initial application
 -   Annual/continuing review
 -   Amendments/modifications to the protocol or study materials
--   Incident Reports for:
+-   Incident reports for:
     -   Unanticipated problems
     -   Non-Compliance
 
@@ -169,8 +167,7 @@ anticipate key review considerations.
 The HSL IFAR IRB uses an electronic submissions system (Cayuse). Forms
 are templated and will guide you through the required elements.
 Application submissions must meet deadlines stipulated in the [HSL IFAR
-IRB Standard Operating
-Procedures](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx).
+IRB Standard Operating Procedures](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx).
 
 #### IRB Review for Multi-Site Trials 
 
@@ -219,9 +216,8 @@ institutionalization. Under those conditions, a number of issues must be
 taken into consideration. See [OHRPs related
 guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
 Standard Operating Procedures
-(SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). *See
-also Informed Consent Section related to the decision making capacity
-section 7.4)*:
+(SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
+also *Informed Consent Section* related to the decision making capacity).
 
 ### Common Pitfalls
 
