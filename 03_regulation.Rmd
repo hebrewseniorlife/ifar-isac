@@ -1,7 +1,7 @@
 # Human Subject Protection and Research Regulation
 
 ## Introduction
-### Module goal
+### Module Goal
 The goal for this module is to introduce the essential elements of human
 subjects’ protections and regulatory requirements pertinent to the
 conduct of clinical trials. Essential aspects of human subjects’
@@ -9,13 +9,13 @@ protections and regulatory requirements provided in this module include:
 
 -   Institutional Review Boards
 -   Health Insurance Portability and Accountability Act (HIPAA)
--   Data Use Agreements
+-   Data Use Agreements (DUA)
 -   ClinicalTrials Registration
 -   Data Safety Monitoring
 -   Informed Consent
--   Adverse event monitoring and reporting
+-   Adverse Event Monitoring and Reporting
 
-### General considerations about federal regulations
+### General Considerations About Federal Regulations
 
 The regulation of clinical trials can be complex. What may be seen by
 investigators as trivial regulations or minor misdemeanors can have
@@ -24,8 +24,8 @@ institutions, sponsors, and trial subjects. Therefore, it is wise to be
 over-cautious and anticipate problems before they arise. **As regulatory
 issues can play a critical role in your trial design, it is strongly
 advised to consider these issues from the very start of project planning
-(e.g. grant preparation) by consulting with your institutional review
-board (IRB), and making sure you understand existing regulations and
+(e.g. grant preparation) by consulting with your Institutional Review
+Board (IRB), and making sure you understand existing regulations and
 institutional policies**.
 
 Federal agencies including the U.S. Food and Drug Administration (FDA)
@@ -40,9 +40,9 @@ mind that when more than one regulation, guidance, or policy applies the
 most stringent must be followed.**
 
 *HHS regulated trials (includes NIH):* HHS requirements for federally
-funded human subjects’ research is codified in 45 CFR Part 46
-“Protection of Human Subjects”
-(<http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/>).
+funded human subjects’ research is codified in [45 CFR Part 46
+“Protection of Human Subjects”]
+(http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/).
 This set of regulations are based on the [Belmont
 Report](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/).
 
@@ -66,13 +66,14 @@ funded trials, refer to the [OHRP website](http://www.hhs.gov/ohrp/).
 (GCP):* While federal regulations provide the standards by which human
 subjects research is to be conducted, guidance documents and
 institutional policies add specificity and provide direction on how to
-apply regulatory requirements. One such guidance is the ICH GCP guidance
-Compliance with the ICH GCP assures that the rights and well-being of
-trial subjects are protected and that the clinical trial data are
-credible.
-(<http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html>).
+apply regulatory requirements. One such guidance is the ICH GCP guidance.
+Compliance with the [ICH GCP](http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html) 
+assures that the rights and well-being of trial subjects are protected and 
+that the clinical trial data are credible.
 
 ### Resources
+-   Code of Federal Regulations, Title 45 Part 46,
+    <http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/>
 -   Belmont Report,
     <http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/>
 -   International Conference on Harmonization (ICH) guidelines for
@@ -81,12 +82,11 @@ credible.
 -   OHRP, <http://www.hhs.gov/ohrp/>.
 -   US Food and Drug Administration regulations,
     <http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/ucm155713.htm>
--   World Health Organization, (<http://www.who.int/about/en/>)
 
 ## Institutional Review Board (IRB)
 ### What
 
-An institutional review board (IRB) is an appropriately constituted
+An Institutional Review Board (IRB) is an appropriately constituted
 group formally designated to review, approve and monitor research
 involving human subjects to ensure it is conducted in accordance with
 applicable federal regulations, institutional policies, and ethical
@@ -94,8 +94,7 @@ guidelines.
 
 While all IRBs are responsible to adhere to the same regulations as
 defined by [OHRP](http://www.hhs.gov/ohrp/regulations-and-policy),
-(http://www.hhs.gov/ohrp/regulations-and-policy.), each IRB is required
-to have its own institutional policies and operates differently. It is
+each IRB is required to have its own institutional policies and operates differently. It is
 critical to understand the requirements of the IRB overseeing your
 project. Specific information relevant to HSL IRB can be found on the
 IRB section of the [HSL
@@ -523,8 +522,10 @@ NONE
 -   Failing submit results
 
 ### Resources 
--   ClinicalTrials.gov
--   <https://grants.nih.gov/ClinicalTrials_fdaaa/docs/registration_flow_chart.pdf>
+-   ClinicalTrials.gov,
+    <https://grants.nih.gov/ClinicalTrials_fdaaa/docs/registration_flow_chart.pdf>
+-   World Health Organization, 
+    <http://www.who.int/about/en/>
 
 ## Data Safety Monitoring
 ### What
