@@ -77,9 +77,9 @@ that the clinical trial data are credible.
 -   Belmont Report,
     <http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/>
 -   International Conference on Harmonization (ICH) guidelines for
-    Clinical Good Practice (GCP)
+    Clinical Good Practice (GCP),
     <http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html>
--   OHRP, <http://www.hhs.gov/ohrp/>.
+-   OHRP, <http://www.hhs.gov/ohrp/>
 -   US Food and Drug Administration regulations,
     <http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/ucm155713.htm>
 
@@ -217,7 +217,7 @@ taken into consideration. See [OHRPs related
 guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
 Standard Operating Procedures
 (SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
-also *Informed Consent Section* related to the decision making capacity).
+also [Informed Consent Section](## Informed Consent) related to the decision making capacity).
 
 ### Common Pitfalls
 
@@ -234,14 +234,14 @@ also *Informed Consent Section* related to the decision making capacity).
 
 ### Resources 
 External
--   HHS, OHRP, Regulations and Policy <http://www.hhs.gov/ohrp/regulations-and-policy/guidance/index.html>
--   NIH Policy on the Use of a Single IRB for Multi-site Research <http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-094.html>
--   U.S. Food and Drug Administration <http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/>
+-   HHS, OHRP, Regulations and Policy, <http://www.hhs.gov/ohrp/regulations-and-policy/guidance/index.html>
+-   NIH Policy on the Use of a Single IRB for Multi-site Research, <http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-094.html>
+-   U.S. Food and Drug Administration (FDA), <http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/>
 
 Internal
--   HSL IRB: <http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board> and its internal HSL “HUB” at <http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board>
--   [HSL IFAR IRB Standard Operating
-    Procedures](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx)
+-   HSL IRB, <http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board>
+-   HSL “HUB”, <http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board>
+-   HSL IFAR IRB Standard Operating Procedures, (<http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>)
 
 ## The Health Insurance Portability and Accountability Act (HIPAA)
 ### What 
@@ -273,9 +273,8 @@ have access to medical information necessary to conduct vital research.
 The [Privacy Rule](http://www.hhs.gov/hipaa/for-professionals/privacy/) builds upon the
 protections provided to human subjects in the [Common Rule (45 CFR Part
 46, Subpart
-A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the [Food and Drug Administration’s (FDA) human subject
-protection regulations (21 CFR Parts 50 and
-56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects).
+A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the Food and Drug Administration’s (FDA) human 
+subject protection regulations [(21 CFR Parts 50 and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects).
 There are three main areas for researchers to consider:
 
 #### Screening patients for recruitment 
