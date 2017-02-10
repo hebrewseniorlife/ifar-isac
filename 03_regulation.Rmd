@@ -41,8 +41,7 @@ most stringent must be followed.**
 
 *HHS regulated trials (includes NIH):* HHS requirements for federally
 funded human subjects’ research is codified in [45 CFR Part 46
-“Protection of Human Subjects”]
-(http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/).
+“Protection of Human Subjects”](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/).
 This set of regulations are based on the [Belmont
 Report](http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/).
 
@@ -99,10 +98,9 @@ critical to understand the requirements of the IRB overseeing your
 project. Specific information relevant to HSL IRB can be found on the
 IRB section of the [HSL
 website](http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board)
-as well as the: [internal HSL
-“HUB”](http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board).
+as well as the internal HSL [“HUB”](http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board).
 
-#### Categories of IRB Oversight
+#### Categories of IRB oversight
 
 Depending on the study design and degree to which human subjects are
 involved, the IRB will review the research and will make a determination
@@ -114,7 +112,7 @@ on the appropriate review level. The basic levels of review include:
 Full Board (review/approval by the convened IRB) Most clinical trials
 will require full IRB review.
 
-#### IRB Applications and Reviews
+#### IRB applications and reviews
 
 IRB applications include:
 
@@ -125,7 +123,7 @@ IRB applications include:
     -   Unanticipated problems
     -   Non-Compliance
 
-##### Initial Review of Research Application
+##### Initial review of research application
 
 All human subjects’ research must be reviewed and approved by an IRB
 before human subjects activities can begin. This includes recruitment
@@ -133,7 +131,7 @@ efforts, and receiving or collecting data. Per Federal and Institutional
 policy, no funds for research involving human subjects activities will
 be released until the appropriate IRB approval has been secured.
 
-##### Annual/Continuing Review
+##### Annual/Continuing review
 
 Investigators must receive continuing approval of their research at
 least annually. On some occasions, more frequent review may be required
@@ -142,7 +140,7 @@ human subjects are complete (this includes access to data with
 participant identifiers or with codes that can be linked back to
 research participants).
 
-##### Amendment Submissions
+##### Amendment submissions
 
 Investigators must submit all changes to the research or research
 materials and receive IRB approval for those changes prior to
@@ -157,7 +155,7 @@ guidelines, to protect the rights and welfare of research subjects.
 
 ### How
 
-#### IRB Review for Single Site Trials
+#### IRB review for single site trials
 
 The procedures for IRB review differ by institution but have common main
 elements. It is wise before you embark on your IRB application to
@@ -169,7 +167,7 @@ are templated and will guide you through the required elements.
 Application submissions must meet deadlines stipulated in the [HSL IFAR
 IRB Standard Operating Procedures](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx).
 
-#### IRB Review for Multi-Site Trials 
+#### IRB review for multi-site trials 
 
 Many clinical trials involve multiple sites and/or investigators from
 multiple institutions. Many clinical trials involve multiple sites that
@@ -203,21 +201,17 @@ through a formalized agreement (Individual Investigator Agreement)
 between the two parties. Alternatively, a commercial IRB may be engaged
 in a contract to provide oversight for that external site. Sites that
 receive direct federal awards for research purposes may also need a
-[FederalWide
-Assurances](http://www.hhs.gov/ohrp/register-irbs-and-obtain-fwas/fwas/fwa-protection-of-human-subjecct/index.html).
-These determinations will be made by the prime IRB responsible for the
-trial.
+[FederalWide Assurances](http://www.hhs.gov/ohrp/register-irbs-and-obtain-fwas/fwas/fwa-protection-of-human-subjecct/index.html).
+These determinations will be made by the prime IRB responsible for the trial.
 
-### Special considerations for older subjects
+### Special Considerations for Older Subjects
 
 There are two special considerations for special protections governing
 research with elderly subjects: cognitive impairment and
 institutionalization. Under those conditions, a number of issues must be
-taken into consideration. See [OHRPs related
-guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
-Standard Operating Procedures
-(SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
-also [Informed Consent Section](## Informed Consent) related to the decision making capacity).
+taken into consideration. See [OHRPs related guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
+Standard Operating Procedures (SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
+also Informed Consent [(Section 3.7)](## Informed Consent) related to the decision making capacity).
 
 ### Common Pitfalls
 
@@ -272,10 +266,8 @@ have access to medical information necessary to conduct vital research.
 
 The [Privacy Rule](http://www.hhs.gov/hipaa/for-professionals/privacy/) builds upon the
 protections provided to human subjects in the [Common Rule (45 CFR Part
-46, Subpart
-A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the Food and Drug Administration’s (FDA) human 
-subject protection regulations [(21 CFR Parts 50 and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects).
-There are three main areas for researchers to consider:
+46, Subpart A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the Food and Drug Administration’s 
+(FDA) human subject protection regulations [(21 CFR Parts 50 and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects). There are three main areas for researchers to consider.
 
 #### Screening patients for recruitment 
 
@@ -314,7 +306,7 @@ disclosed is presented in the “[Summary of the HIPAA Privacy
 Rule](http://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).
 HSL-specific policies regarding HIPAA, and the use of PHI in research
 can be found in the [HSL IRB
-SOP](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx) 
+SOP](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). 
 
 ### Special considerations for older subjects
 NONE
@@ -322,30 +314,23 @@ NONE
 ### Common Pitfalls
 -   Inadequate protection PHI (e.g., transporting patient files with
     identifiers in an unsecure manner, unencrypted laptops or databases
-    that contain PHI etc.)).
+    that contain PHI etc).
 
 ### Resources 
 Regulatory/Policy
--   [Food and Drug Administration’s (FDA) human subject protection
-    regulations (21 CFR Parts 50
-    and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects)
--   HHS Code of Federal Regulations HIPAA for Professionals,
-    <http://www.hhs.gov/hipaa/for-professionals/special-topics/research/index.html>
--   HHS Summary of the HIPAA Privacy Rule,
-    <http://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html>
--   HHS Protecting Person Health Information in Research: Understanding
-    HIPAA Privacy Rule,
-    <https://privacyruleandresearch.nih.gov/pdf/HIPAA_Privacy_Rule_Booklet.pdf>
--   HHS NIH, HIPAA Authorization for Research,
-    <https://privacyruleandresearch.nih.gov/authorization.asp>.
--   [Common Rule (45 CFR Part 46,
-    Subpart A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/)
+
+-   Food and Drug Administration’s (FDA) human subject protection regulations (21 CFR Parts 50 and 56),<http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects>
+-   HHS Code of Federal Regulations HIPAA for Professionals, <http://www.hhs.gov/hipaa/for-professionals/special-topics/research/index.html>
+-   HHS Summary of the HIPAA Privacy Rule, <http://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html>
+-   HHS Protecting Person Health Information in Research: Understanding HIPAA Privacy Rule, <https://privacyruleandresearch.nih.gov/pdf/HIPAA_Privacy_Rule_Booklet.pdf>
+-   HHS NIH, HIPAA Authorization for Research, <https://privacyruleandresearch.nih.gov/authorization.asp>.
+-   Common Rule (45 CFR Part 46, Subpart A), (http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/)
 
 Internal
 
 -   HSL IRB SOP, <http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>
 
-## Data Use Agreements
+## Data Use Agreements (DUA)
 ### What 
 A data use agreement (DUA) is a contractual agreement required under the
 Privacy Rule between a HIPAA covered entity (e.g., HSL) and a third
@@ -354,7 +339,7 @@ a Limited Data Set (LDS). DUAs address issues such as limitations on use
 of the data, obligations to safeguard the data, liability for harm
 arising from the use of the data, publication, and privacy rights that
 are associated with transfers of confidential or protected data. Refer
-to [HIPAA, Section 45 CFR part 160 Subparts A and E of Part
+to HIPAA, [Section 45 CFR part 160 Subparts A and E of Part
 164](http://www.hhs.gov/ocio/eplc/EPLC%20Archive%20Documents/55-Data%20Use%20Agreement%20(DUA)/eplc_dua_practices_guide.pdf)
 for details. A common example of a study that requires a DUA, is one
 that utilizes Medicare data for which a DUA must be set up with the
@@ -378,20 +363,18 @@ found on the HUB.
 NONE
 
 ### Common Pitfalls
--   Not realizing a DUA is needed
--   Being unaware the time required to process a DUA, especially with CMS
+-   Not realizing a DUA is needed.
+-   Being unaware the time required to process a DUA, especially with CMS.
 -   Being unaware the cost required to use data from certain entities,
-    especially CMS
+    especially CMS.
 -   Narrowly written DUAs which do not account for the possibility of
     future analytic plans.
 
 ### Resources 
 External
 -   Academy Health, Privacy Tools: Guidance on HIPAA Data Use
-    Agreements,
-    <http://www.hsrmethods.org/PrivacyInResearch/Privacy%20Tools/Guidance%20on%20HIPAA%20Data%20Use%20Agreements.aspx>
--   \*\*CMS.gov DUAs,
-    <https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/DUAs.html>
+    Agreements, <http://www.hsrmethods.org/PrivacyInResearch/Privacy%20Tools/Guidance%20on%20HIPAA%20Data%20Use%20Agreements.aspx>
+-   CMS.gov DUAs, <https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/DUAs.html>
 -   HHS CMS DUA, Agreement for use of Centers for Medicare and Medicaid
     Services (CMS) Data containing individual identifiers,
     <https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/Downloads/Data-Use-Agreement.pdf>
@@ -400,12 +383,12 @@ External
     <https://privacyruleandresearch.nih.gov/pr_08.asp>
 -   HHS Practice Guide Data Use Agreement,
     <http://www.hhs.gov/ocio/eplc/EPLC%20Archive%20Documents/55-Data%20Use%20Agreement%20(DUA)/eplc_dua_practices_guide.pdf>
--   \*\*Research Data Assistance Center, Tips for completing the Data
+-   Research Data Assistance Center, Tips for completing the Data
     Use Agreement with Addendum,
     <http://www.resdac.org/resconnect/articles/154>
 
 Internal
--   \*Hebrew Senior Life, Creation, Use, Disclosure and Receipt of
+-   Hebrew Senior Life, Creation, Use, Disclosure and Receipt of
     Limited Data Sets and Data Use Agreements doc,
     <http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPCMS.ashx>
 
@@ -417,10 +400,10 @@ Library of Medicine. It was launched in 2000 and expanded by the Federal
 Drug Administration Amendment Act (FDAAA 801) in 2007 and is endorsed by
 the International Committee of Medical Journal Editors (ICMJE).
 
-#### Which Trials Must be Registered?
+#### Which trials must be registered?
 
-It is strongly recommended that ALL clinical trials are registered on
-ClinicalTrials.gov. By law, only trials that meet the FDAAA 801
+It is strongly recommended that **ALL** clinical trials are registered on
+[ClinicalTrials.gov](https://clinicaltrials.gov/). By law, only trials that meet the FDAAA 801
 definition of an "applicable clinical trial" must be registered which
 generally include interventional studies (with one or more arms) of
 FDA-regulated drugs, biological products, or devices. However, in 2014,
@@ -432,12 +415,10 @@ recommended that ALL clinical trials are registered on
 ClinicalTrials.gov.**
 
 ### Why
-There are numerous [reasons for registering a
-trial](https://clinicaltrials.gov/ct2/manage-recs/background). Refer to
-Clinicaltrials.gov for elaboration.
+There are numerous reasons for registering a trial. Refer to [Clinicaltrials.gov]((https://clinicaltrials.gov/ct2/manage-recs/background) for elaboration.
 
 #### Required by Law
-[Section 801 of the Food and Drug Administration Amendments Act (FDAAA
+Section 801 of the Food and Drug Administration Amendments Act [(FDAAA
 801)](http://www.gpo.gov/fdsys/pkg/PLAW-110publ85/pdf/PLAW-110publ85.pdf#page=82)
 requires Responsible Parties to register and submit summary results of
 clinical trials with ClinicalTrials.gov. The law applies to certain
