@@ -209,7 +209,7 @@ research with elderly subjects: cognitive impairment and
 institutionalization. Under those conditions, a number of issues must be
 taken into consideration. See [OHRPs related guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
 Standard Operating Procedures (SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
-also Informed Consent [(Section 3.7)](## Informed Consent) related to the decision making capacity).
+also Informed Consent [(Section 3.7)](#Informed Consent) related to the decision making capacity).
 
 ### Common Pitfalls
 
@@ -600,8 +600,8 @@ Documents binder.
 #### Create DSMB Report Templates and Meeting Documentation
 The next step is for the research team to work with the DSMB members to
 create templates for the Open and Closed Sessions of the DSMB meetings.
-Templates for these reports are described in [section 5.2] of the
-Essential Documents section \[add link\]. Finally, a system to maintain
+Templates for these reports are described in the [Data Safety and Monitoring Documents](#Data Safety and Monitoring Documents) 
+section of the Essential Documents Module. Finally, a system to maintain
 agendas and minutes from the DSMB meetings should be established. All
 DSMB reports, agendas and minutes must be maintained in the Essential
 Documents binder.
@@ -637,17 +637,17 @@ consideration at the meeting.
 The recommended meeting format consists of three sessions: Open Session,
 Closed Session, and Closed Executive Session.
 
-**A. Open Session *(****see
-https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring
-for report template)*: This session is generally attended by the PI (s),
+**A. Open Session** (see NIH [Clinical Research Study Investigator's Toolbox]
+(https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring)
+for report template). This session is generally attended by the PI (s),
 project statistician, external DSMB members, and the PO. The opens
 session basically involves a complete review and discussion of all the
 elements in the open session report presented in the aggregate for both
 arms of the study.
 
-**B. Closed Session *(****see
-https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring
-for report template)*: Generally only external voting members attend
+**B. Closed Session** (see NIH [Clinical Research Study Investigator's Toolbox]
+(https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring)
+for report template). Generally only external voting members attend
 this meeting. However the DSMB may invite others to participate. The
 data reviewed in the closed session is similar to that presented in the
 open session, but is presented by study-arm in a semi-blinded fashion.
@@ -732,10 +732,8 @@ times throughout the course of a study.
 
 Informed consent is a critical and complex regulatory component of human
 subjects’ research, a full discussion of which goes beyond the scope of
-this module. [Sections 45 CFR §46.116 and 45 CFR §46.117 of the Code of
-Federal
-Regulations](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
-Protection of Human Subjects
+this module. [Sections 45 CFR §46.116 and 45 CFR §46.117](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html) 
+of the Code of Federal Regulations Protection of Human Subjects
 addresses informed consent. There are many other resources that provide
 a thorough review of this topic, several of which, including the [HSL
 IRB SOPs](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx)
@@ -774,8 +772,7 @@ best choice for the research project. In these cases, with the guidance
 and approval of the IRB, some or all aspects of informed consent may be
 altered or waived. See also
 [45](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
-[CFR 46.116 sections C and D, and 45 CFR 46.117 section
-C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
+[CFR 46.116 sections C and D, and 45 CFR 46.117 section C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
 of the Code of Federal Regulations Protection of Human Subjects.
 
 ##### Written Informed Consent Forms
@@ -792,8 +789,7 @@ adhered to.
 There are very specific regulations that provide for circumstances under
 which informed consent, or elements of informed consent, may be waived.
 The determination of a waiver of consent is made by the overseeing IRB.
-Also see [45 CFR 46.116 sections C and D, and 45 CFR 46.117 section
-C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
+Also see [45 CFR 46.116 sections C and D, and 45 CFR 46.117 section C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
 of the Code of Federal Regulations Protection of Human Subjects.
 
 In the vast majority of cases, a waiver of consent is only possible for
@@ -801,10 +797,8 @@ clinical trials that meet the criteria for a “[minimal
 risk](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html#46.102)”
 study
 as defined in the Code of Federal Regulation, Protection of Human
-subjects at ([45 CFR
-§46.102(i)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102))
-*“**Minimal risk means that
-the probability and magnitude of harm or discomfort anticipated in the
+subjects at ([45 CFR §46.102(i)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102))
+*“**Minimal risk means that the probability and magnitude of harm or discomfort anticipated in the
 research are not greater in and of themselves than those ordinarily
 encountered in daily life or during the performance of routine physical
 or psychological examinations or tests*.”
@@ -819,19 +813,15 @@ on this issue.
 
 ##### Informed consent in cluster RCTs 
 
-In [cluster RCTs
-](http://www.cochrane-net.org/openlearning/html/modA2-4.htm)the unit of
+In [cluster RCTs ](http://www.cochrane-net.org/openlearning/html/modA2-4.htm)the unit of
 random assignment is a group (the “cluster”), such as a clinic,
 hospital, physician practice or even a geographical region, rather than
 an individual. This increasingly used design in health services research
 raises many special ethical and regulatory considerations, including
-informed consent. (See [The Ottawa Statement on Ethical Design and
-Conduct of Cluster Randomized
-Trials](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001346),
-[When is Informed Consent Required in Cluster randomized trial in health
-research?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184061/pdf/1745-6215-12-202.pdf)
-and “[Ethical issues posed by cluster
-RCTs](http://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-12-100),”
+informed consent. See [The Ottawa Statement on Ethical Design and
+Conduct of Cluster Randomized Trials](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001346),
+[When is Informed Consent Required in Cluster randomized trial in health research?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184061/pdf/1745-6215-12-202.pdf)
+and “[Ethical issues posed by cluster RCTs](http://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-12-100).”
 
 The following example illustrates some of these considerations
 
@@ -844,8 +834,6 @@ The following example illustrates some of these considerations
         and data are being collected from them?
 
 -   *Obtaining informed consent*.
-
-<!-- -->
 
 -   Can informed consent from individual patients be waived? Does the
     trial meet criteria for a minimal risk study?
