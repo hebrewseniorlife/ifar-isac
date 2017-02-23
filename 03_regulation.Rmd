@@ -7,13 +7,13 @@ subjects’ protections and regulatory requirements pertinent to the
 conduct of clinical trials. Essential aspects of human subjects’
 protections and regulatory requirements provided in this module include:
 
--   Institutional Review Boards
--   Health Insurance Portability and Accountability Act (HIPAA)
--   Data Use Agreements (DUA)
--   ClinicalTrials Registration
--   Data Safety Monitoring
--   Informed Consent
--   Adverse Event Monitoring and Reporting
+-   Institutional Review Boards.
+-   Health Insurance Portability and Accountability Act (HIPAA).
+-   Data Use Agreements (DUA).
+-   ClinicalTrials Registration.
+-   Data Safety Monitoring.
+-   Informed Consent.
+-   Adverse Event Monitoring and Reporting.
 
 ### General Considerations About Federal Regulations
 
@@ -26,7 +26,7 @@ issues can play a critical role in your trial design, it is strongly
 advised to consider these issues from the very start of project planning
 (e.g. grant preparation) by consulting with your Institutional Review
 Board (IRB), and making sure you understand existing regulations and
-institutional policies**.
+institutional policies.**
 
 Federal agencies including the U.S. Food and Drug Administration (FDA)
 and the Department of Health and Human Services (HHS), which includes National
@@ -71,12 +71,10 @@ assures that the rights and well-being of trial subjects are protected and
 that the clinical trial data are credible.
 
 ### Resources
--   Code of Federal Regulations, Title 45 Part 46,
-    <http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/>
+-   Code of Federal Regulations, Title 45 Part 46,<http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/>
 -   Belmont Report,
     <http://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/>
--   International Conference on Harmonization (ICH) guidelines for
-    Clinical Good Practice (GCP),
+-   International Conference on Harmonization (ICH) guidelines for Clinical Good Practice (GCP),
     <http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html>
 -   OHRP, <http://www.hhs.gov/ohrp/>
 -   US Food and Drug Administration regulations,
@@ -106,8 +104,8 @@ Depending on the study design and degree to which human subjects are
 involved, the IRB will review the research and will make a determination
 on the appropriate review level. The basic levels of review include:
 
--   Exempt (determination by IRB Chair or her designee)
--   Expedited (review/approval by IRB Chair or her designee)
+-   Exempt (determination by IRB Chair or her designee).
+-   Expedited (review/approval by IRB Chair or her designee).
 
 Full Board (review/approval by the convened IRB) Most clinical trials
 will require full IRB review.
@@ -116,12 +114,12 @@ will require full IRB review.
 
 IRB applications include:
 
--   Initial application
--   Annual/continuing review
--   Amendments/modifications to the protocol or study materials
+-   Initial application.
+-   Annual/continuing review.
+-   Amendments/modifications to the protocol or study materials.
 -   Incident reports for:
-    -   Unanticipated problems
-    -   Non-Compliance
+    -   Unanticipated problems.
+    -   Non-Compliance.
 
 ##### Initial review of research application
 
@@ -176,9 +174,9 @@ are recruiting subjects, implementing an intervention, or collecting
 data). Regulatory oversight of these trials can be done either by:
 
 -   Single IRB review (one IRB reviews the research, and the other IRBs
-    rely on the reviewing IRB)
+    rely on the reviewing IRB).
 -   Multiple IRB reviews (e.g. each institution conducts its own
-    IRB review/approval)
+    IRB review/approval).
 
 In June 2016, the NIH established a
 [policy](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-094.html)
@@ -228,11 +226,13 @@ also Informed Consent [(Section 3.7)](## Informed Consent) related to the decisi
 
 ### Resources 
 External
--   HHS, OHRP, Regulations and Policy, <http://www.hhs.gov/ohrp/regulations-and-policy/guidance/index.html>
+
+-   HHS OHRP Regulations and Policy, <http://www.hhs.gov/ohrp/regulations-and-policy/guidance/index.html>
 -   NIH Policy on the Use of a Single IRB for Multi-site Research, <http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-094.html>
 -   U.S. Food and Drug Administration (FDA), <http://www.fda.gov/ScienceResearch/SpecialTopics/RunningClinicalTrials/>
 
 Internal
+
 -   HSL IRB, <http://www.instituteforagingresearch.org/resources/research-administration/institutional-review-board>
 -   HSL “HUB”, <http://thehslhub/Departments/Roslindale/HSL-IFAR/Institutional-Review-Board>
 -   HSL IFAR IRB Standard Operating Procedures, (<http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>)
@@ -276,7 +276,7 @@ patients with specific characteristics (e.g., a diagnosis) from a large
 patient population using data considered PHI. To facilitate such
 efforts, covered entities are permitted to use and disclose PHI for
 research purposes pursuant to a waiver of authorization by an IRB or
-Privacy Board. At HSL, the IRB also serves as the Privacy Board
+Privacy Board. At HSL, the IRB also serves as the Privacy Board.
 
 #### Inclusion of HIPAA assurances in informed consent forms
 
@@ -317,9 +317,8 @@ NONE
     that contain PHI etc).
 
 ### Resources 
-Regulatory/Policy
 
--   Food and Drug Administration’s (FDA) human subject protection regulations (21 CFR Parts 50 and 56),<http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects>
+-   Regulatory/Policy, Food and Drug Administration’s (FDA) human subject protection regulations (21 CFR Parts 50 and 56),<http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects>
 -   HHS Code of Federal Regulations HIPAA for Professionals, <http://www.hhs.gov/hipaa/for-professionals/special-topics/research/index.html>
 -   HHS Summary of the HIPAA Privacy Rule, <http://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html>
 -   HHS Protecting Person Health Information in Research: Understanding HIPAA Privacy Rule, <https://privacyruleandresearch.nih.gov/pdf/HIPAA_Privacy_Rule_Booklet.pdf>
@@ -371,7 +370,9 @@ NONE
     future analytic plans.
 
 ### Resources 
+
 External
+
 -   Academy Health, Privacy Tools: Guidance on HIPAA Data Use
     Agreements, <http://www.hsrmethods.org/PrivacyInResearch/Privacy%20Tools/Guidance%20on%20HIPAA%20Data%20Use%20Agreements.aspx>
 -   CMS.gov DUAs, <https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/DUAs.html>
@@ -384,13 +385,12 @@ External
 -   HHS Practice Guide Data Use Agreement,
     <http://www.hhs.gov/ocio/eplc/EPLC%20Archive%20Documents/55-Data%20Use%20Agreement%20(DUA)/eplc_dua_practices_guide.pdf>
 -   Research Data Assistance Center, Tips for completing the Data
-    Use Agreement with Addendum,
-    <http://www.resdac.org/resconnect/articles/154>
+    Use Agreement with Addendum, <http://www.resdac.org/resconnect/articles/154>
 
 Internal
+
 -   Hebrew Senior Life, Creation, Use, Disclosure and Receipt of
-    Limited Data Sets and Data Use Agreements doc,
-    <http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPCMS.ashx>
+    Limited Data Sets and Data Use Agreements doc, <http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPCMS.ashx>
 
 ## Clinical Trial Registration
 ### What
@@ -410,7 +410,7 @@ FDA-regulated drugs, biological products, or devices. However, in 2014,
 the NIH proposed expanding clinicaltrials.gov registration requirements
 to include all NIH-funded clinical trials. Thus, even clinical trials in
 which the intervention is a behavior modification or clinical education
-program merits registration on ClinicalTrials.org**. It is strongly
+program merits registration on ClinicalTrials.org. **It is strongly
 recommended that ALL clinical trials are registered on
 ClinicalTrials.gov.**
 
@@ -426,8 +426,7 @@ clinical trials of drugs (including biological products) and medical
 devices.
 
 #### Required for Journal Publication
-The International Committee of Medical Journal Editors (ICMJE) [requires
-trial registration](http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html)
+The International Committee of Medical Journal Editors [(ICMJE)](http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html) requires trial registration
 as a condition of the publication of research results generated by a
 clinical trial. ClinicalTrials.gov is a registry where organizations and
 individuals can provide the World Health Organization (WHO) [Trial
@@ -458,8 +457,7 @@ The clinical trial must be registered no later than 21 days after
 enrollment of the first participant. Note this rule is strictly enforced
 by major journals. If initial registration is not done within this
 timeframe, the trial results will be disqualified from consideration for
-publication. The application and direction are online at
-<https://clinicaltrials.gov/ct2/manage-recs/how-apply>.
+publication. The application and direction are online at [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/manage-recs/how-apply).
 
 #### Registration Updates
 
@@ -470,9 +468,9 @@ change to any of the following:
     Status](http://prsinfo.clinicaltrials.gov/definitions.html#FacilityStatus)
     and [Overall Recruitment
     Status](http://prsinfo.clinicaltrials.gov/definitions.html#OverallStatus)
-    data elements
--   Completion Date
--   Outcomes Definitions
+    data elements.
+-   Completion Date.
+-   Outcomes Definitions.
 -   Other changes or updates to the record must be made at least every
     12 months.
 
@@ -482,22 +480,23 @@ months after the Completion Date, defined in as the date of final data
 collection for the pre-specified "primary outcome measure" (see [Primary
 Completion Date data
 element](http://prsinfo.clinicaltrials.gov/definitions.html#PrimaryCompletionDate)
-on ClinicalTrials.gov). Scientific information is submitted as four
-separate modules: Participant Flow, Baseline Characteristics, Outcome
-Measures and Statistical Analyses, and Adverse Events
-<https://clinicaltrials.gov/ct2/manage-recs/how-report\#Overview>
+on ClinicalTrials.gov). Scientific information is submitted as [four
+separate modules](https://clinicaltrials.gov/ct2/manage-recs/how-report\#Overview): Participant Flow, Baseline Characteristics, Outcome
+Measures and Statistical Analyses, and Adverse Events.
+
 
 ### Special considerations for older subjects 
 NONE
 
 ### Common Pitfalls
--   Failing to register the trial
+-   Failing to register the trial.
 -   Failing to register the trial within a 21 days of enrolling the
-    first participant
--   Failing to maintain and update trial registration details
--   Failing submit results
+    first participant.
+-   Failing to maintain and update trial registration details.
+-   Failing submit results.
 
 ### Resources 
+
 -   ClinicalTrials.gov,
     <https://grants.nih.gov/ClinicalTrials_fdaaa/docs/registration_flow_chart.pdf>
 -   World Health Organization, 
@@ -563,14 +562,14 @@ are available on the NIH website*. DSMPs* generally include the
 following elements:
 
 -   Data or events to be captured under the monitoring provisions (e.g.,
-    unanticipated problems and adverse events)
+    unanticipated problems and adverse events).
 -   The entity responsible (e.g., investigators, sponsor, a coordinating
     or statistical center, an independent monitor, DSMB) for monitoring
-    the data collected and the time frames for reporting
+    the data collected and the time frames for reporting.
 -   The frequency of assessments of data or events captured by the
-    monitoring provisions
+    monitoring provisions.
 -   Definition of specific triggers or stopping rules that dictate when
-    action is required
+    action is required.
 -   Procedures for communicating to the IRB(s), the study sponsor, the
     investigator(s), and other appropriate officials the outcome of the
     reviews by the monitoring entity.
@@ -601,7 +600,7 @@ Documents binder.
 #### Create DSMB Report Templates and Meeting Documentation
 The next step is for the research team to work with the DSMB members to
 create templates for the Open and Closed Sessions of the DSMB meetings.
-Templates for these reports are described in section 5.2 of the
+Templates for these reports are described in [section 5.2] of the
 Essential Documents section \[add link\]. Finally, a system to maintain
 agendas and minutes from the DSMB meetings should be established. All
 DSMB reports, agendas and minutes must be maintained in the Essential
