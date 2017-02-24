@@ -26,11 +26,11 @@ deemed essential. These documents demonstrate that the trial conduct
 complies with the standards of GCP and all regulatory requirements. This
 module focuses on describing the following **Essential Documents**:
 
--   Study Protocol
--   Manual of Operations
--   Statistical Analytic Protocol
+-   [Study Protocol](#Protocol)
+-   [Manual of Operations](#Manual-of-Operational-Procedures)
+-   [Statistical Analytic Protocol](#Statistical Analytic Protocol)
 -   Data Safety Monitoring Board Charter and Regular Reports (refer to
-    other chapter for details)
+    other modules for details)
 -   Event Tracking
 
 ### Resources
