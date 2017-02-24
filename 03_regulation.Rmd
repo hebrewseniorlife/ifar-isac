@@ -209,7 +209,7 @@ research with elderly subjects: cognitive impairment and
 institutionalization. Under those conditions, a number of issues must be
 taken into consideration. See [OHRPs related guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
 Standard Operating Procedures (SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
-also Informed Consent [(Section 3.7)](#Informed Consent) related to the decision making capacity).
+also [Informed Consent](#Informed-Consent-1) related to the decision making capacity.
 
 ### Common Pitfalls
 
@@ -592,16 +592,16 @@ of the membership and operating procedures.
 #### Create DSMB Charter
 Before the trial begins a DSMB charter must be prepared that details the
 roles and responsibilities of the DSMB. The charter is usually drafted
-by the PO and subject to approval by PIs and DSMB members (see section
-5.1 in Essential Documents that details the contents of the DSMB
-Charter) (link). The DSMB Charter should be maintained in the Essential
+by the PO and subject to approval by PIs and DSMB members (see [DSMB/DSAC Charter](#DSMB/DSAC-Charter-1)
+in the Essential Documents Module that details the contents of the DSMB
+Charter). The DSMB Charter should be maintained in the Essential
 Documents binder.
 
 #### Create DSMB Report Templates and Meeting Documentation
 The next step is for the research team to work with the DSMB members to
 create templates for the Open and Closed Sessions of the DSMB meetings.
 Templates for these reports are described in the [Data Safety and Monitoring Documents](#Data Safety and Monitoring Documents) 
-section of the Essential Documents Module. Finally, a system to maintain
+section of the Essential Documentations Module. Finally, a system to maintain
 agendas and minutes from the DSMB meetings should be established. All
 DSMB reports, agendas and minutes must be maintained in the Essential
 Documents binder.
