@@ -91,7 +91,7 @@ Guidance on data ascertainment, management, storage, analysis and interpretation
 
 ### How
 
-A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see **Essential Documents**.)
+A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see [Essential Documentations](#Essential Documentations). 
 
 #### Contents of the document
 
@@ -216,12 +216,12 @@ Some critical items for inclusion are described below
     e. _Sensitivity Analysis._ Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc.
     f. _Treatment of missing data._ Describes methods by which missing data are acknowledged and/or taken into account.
     g. _Deviations from SAP or secondary analytic plan._ Describes and justifies any variation in approach from that previously planned.
-3. _Presentation of Results._ Formal presentation of results. Should track closely with SAP ([Section 2.4](#statistical-analysis-plan)) or secondary analytic plan as well as the sections described in Methods (above).
+3. _Presentation of Results._ Formal presentation of results. Should track closely with [SAP](#Statistical Analysis Plan) or secondary analytic plan as well as the sections described in Methods (above).
 4. _Conclusions._ Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate.
 
 ### Special considerations for older adults
 
-See [Section 2.2.4](#special-considerations-for-older-adults-1).
+See Special considerations for older adults](#special-considerations-for-older-adults-1) under the Statistical Analysis Plan section.
 
 ### Common pitfalls
 
@@ -231,7 +231,7 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 
 ## Planning, conduct and presentation of secondary analyses
 
-Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in [Section 5.2.3.1](#contents-of-the-document-1).
+Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in the [Contents of the document](#contents-of-the-document-1) section.
 
 ## References
-<sup>1</sup> <sub>Van Ness _et al_</sub>
+^<sup>1</sup> <sub>^Van Ness _et al_</sub>
