@@ -737,7 +737,7 @@ of the Code of Federal Regulations Protection of Human Subjects
 addresses informed consent. There are many other resources that provide
 a thorough review of this topic, several of which, including the [HSL
 IRB SOPs](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx)
-are provided at the end of the module.
+provided at the end of the module.
 
 ### Why
 Informed consent is required under federal regulations for all
@@ -771,8 +771,7 @@ however obtaining written informed consent is not always feasible or the
 best choice for the research project. In these cases, with the guidance
 and approval of the IRB, some or all aspects of informed consent may be
 altered or waived. See also
-[45](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
-[CFR 46.116 sections C and D, and 45 CFR 46.117 section C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
+[45 CFR 46.116 sections C and D, and 45 CFR 46.117 section C](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html)
 of the Code of Federal Regulations Protection of Human Subjects.
 
 ##### Written Informed Consent Forms
@@ -798,7 +797,7 @@ risk](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index
 study
 as defined in the Code of Federal Regulation, Protection of Human
 subjects at ([45 CFR §46.102(i)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102))
-*“**Minimal risk means that the probability and magnitude of harm or discomfort anticipated in the
+*“Minimal risk means that the probability and magnitude of harm or discomfort anticipated in the
 research are not greater in and of themselves than those ordinarily
 encountered in daily life or during the performance of routine physical
 or psychological examinations or tests*.”
@@ -813,15 +812,15 @@ on this issue.
 
 ##### Informed consent in cluster RCTs 
 
-In [cluster RCTs ](http://www.cochrane-net.org/openlearning/html/modA2-4.htm)the unit of
+In [cluster RCTs](http://www.cochrane-net.org/openlearning/html/modA2-4.htm) the unit of
 random assignment is a group (the “cluster”), such as a clinic,
 hospital, physician practice or even a geographical region, rather than
 an individual. This increasingly used design in health services research
 raises many special ethical and regulatory considerations, including
-informed consent. See [The Ottawa Statement on Ethical Design and
+informed consent. See The Ottawa Statement on [Ethical Design and
 Conduct of Cluster Randomized Trials](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001346),
-[When is Informed Consent Required in Cluster randomized trial in health research?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184061/pdf/1745-6215-12-202.pdf)
-and “[Ethical issues posed by cluster RCTs](http://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-12-100).”
+When is Informed Consent Required in [Cluster randomized trial in health research?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184061/pdf/1745-6215-12-202.pdf)
+and “Ethical issues posed by [cluster RCTs](http://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-12-100).”
 
 The following example illustrates some of these considerations
 
@@ -923,9 +922,8 @@ requirements that may vary by sponsor, internal IRB requirements and
 study risk profile.
 
 Detailed descriptions [NIAs requirements for reporting of the different
-categories of adverse
-events](https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/adverse-events)
-can be found in the NIA Clinical Research Study Investigator’s Toolbox.
+categories of adverse events can be found in the NIA [Clinical Research
+Study Investigator’s Toolbox](https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/adverse-events).
 HSL’s IRB requirements are documented in the [HSL IRB
 SOP](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx).
 
@@ -942,6 +940,7 @@ NONE
 
 ### Resources
 External
+
 -   FDA Guidance for Clinical Investigators, Sponsors, and IRBs, Adverse
     Event Reporting to IRBs – Improving Human Subject Protection,
     <http://www.fda.gov/downloads/RegulatoryInformation/Guidances/UCM126572.pdf>
@@ -959,5 +958,4 @@ External
 
 Internal
 
--   [HSL IRB
-    SOP](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx)
+-   [HSL IRB SOP],<http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx>
