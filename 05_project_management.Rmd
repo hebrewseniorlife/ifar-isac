@@ -20,11 +20,11 @@ planning through execution and closeout.
 **Overview of the project management process **
 
 For the purposes of management, it is useful to consider explicitly
-three phases of the trial execution process: a **pre-trial** phase,
-characterized by setup activities; the **trial execution** phase,
+three phases of the trial execution process: a pre-trial phase,
+characterized by setup activities; the trial execution phase,
 comprising those activities (enrollment, measurement etc.) that
 constitute the major trial activities, and relying heavily on study
-**monitoring** and **evaluation**; and a **study closeout** phase,
+monitoring and evaluation; and a study closeout phase,
 consisting of activities such activities as creation of final regulatory
 reports, publication and archiving (Figure 5.1). Investigators
 should anticipate a heavy investment of resources during the pre-trial
@@ -63,13 +63,15 @@ activities *
 *Table 5.1 Project management activities relevant for trial
 documentation*
 
-|**Trial Document / Activity |: Project Management Activities, by Phase                                                        |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|		                       |:Pre-trial                      |:Execution	                  |:Closeout**                        |
+|**Trial Document /        |: Project Management Activities, by Phase                                                        |          
+|Activity                  |:                                                                                                |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Regulatory Binder**     |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
-|                          |:storage and security	          |: changes on key trial       |:binder                           |
-|                          |:                               |: documents	                |:                                 |
+|		                   |:Pre-trial                      |:Execution	                  |:Closeout                         |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|Regulatory Binder**       |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
+|                          |:storage and security	        |: changes on key trial       |:binder                           |
+|                          |:                               |: documents	              |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Protocol**              |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
 |                          |:parties                        |:amendments; obtain relevant |:documentation ; submit to        |  
@@ -79,30 +81,30 @@ documentation*
 |**competencies**          |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
 |                          |:conflict of interest forms,    |:responsibilities chart      |:                                 |
 |                          |:evidence of completion of      |:                            |:                                 |
-|                          |:required certifications)	      |:                            |:                                 | 
+|                          |:required certifications)	    |:                            |:                                 | 
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Investigator Brochure/**|:Develop marketing materials/   |:Manage and document updates;|:                                 |
 |**Marketing**             |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Manual of Procedures**  |:Develop MOP; test procedures 	|:Update and track changes    |:Archive                          |
 |                          |:                               |:throughout trial; maintain  |:                                 | 
-|                          |:                               |:version control	            |:                                 |
+|                          |:                               |:version control	          |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Statistical Analysis**  |:Review SAP; generate signoff   |:Update and track changes    |:Archive                          |
 |**Plan Statistical**      |:by relevant parties            |:throughout trial; maintain  |:                                 | 
-|** Analytic Protocol**    |: 	                            |:version control	            |:                                 |
+|** Analytic Protocol**    |: 	                            |:version control	          |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Data Safety and**       |:Author charter; recruit DSMB   |:Circulate open and closed   |:Archive                          |
 |**Monitoring Documents**  |:members, assign chairpersonship|:session reports at          |:                                 |
-|                          |:in partnership with funders	  |:previously agreed upon      |:                                 |
+|                          |:in partnership with funders	  |:previously agreed upon    |:                                 |
 |                          |:                               |:interval prior to meetings. |:                                 |
 |                          |:                               |:Submit to relevant          |:                                 | 
 |                          |:                               |:authorities (e.g. DSMB, IRB,|:                                 | 
 |                          |:                               |:funding agencies)	          |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**DSMB Report** 	         |:Develop template report;       |:Update and track changes    |:Develop and disseminate final    |
+|**DSMB Report** 	       |:Develop template report;       |:Update and track changes    |:Develop and disseminate final    |
 |                          |:obtain relevant approvals	    |:throughout trial; maintain  |:DSMB report; Archive             |
-|                          |:                               |:version control	            |:                                 |
+|                          |:                               |:version control	          |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Meeting Templates**     |:Design meeting templates       |:Co-author and maintain      |:                                 |
 |                          |:(agendas and minutes)	        |:meeting records; disseminate|:                                 |
@@ -111,27 +113,28 @@ documentation*
 |**Tracking / Monitoring** |:Develop tracking and monitoring|:Maintain record of findings |:                                 | 
 |**Reports**               |:templates for enrollment, study|:as motivation for process   |:                                 |
 |                          |:visit attendance, protocol     |:improvement, changes to     |:                                 |
-|                          |:adherence, etc.	              |:procedures and protocol     |:                                 |
+|                          |:adherence, etc.	            |:procedures and protocol     |:                                 |
 |                          |:                               |:amendments                  |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Data Quality Reports**  |:Develop reporting of data      |:Maintain record of findings |:                                 |
-|                          |:completeness and quality	      |:as motivation for process   |:                                 |
+|                          |:completeness and quality	    |:as motivation for process   |:                                 |
 |                          |:                               |:improvement, changes to     |:                                 |
 |                          |:                               |:procedures and protocol     |:                                 |
 |                          |:                               |:amendments                  |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Additional Documentation**|:Develop study logs,          |:Update and track changes    |:Maintain and archive record of   |
-|                          |:documentation of adverse       |:throughout trial; maintain  |:all relevant reporting           |
+|**Additional**            |:Develop study logs,            |:Update and track changes    |:Maintain and archive record of   |
+|**Documentation**         |:documentation of adverse       |:throughout trial; maintain  |:all relevant reporting           |
 |                          |:events, tracking of participant|:version control             |:                                 |
 |                          |:disposition, IRB submissions   |:                            |:                                 |
-|                          |:and approvals, etc.	          |: 	                          |:                                 |
+|                          |:and approvals, etc.	        |: 	                          |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-
 
 
 ## Management and maintenance of human subject protections and other regualtory interactions.
 
-(SEE Essential Documents Module, Human Subjects and Regulatory modules)
+See [Essential Documentations](#Essential Documentations) and 
+[Human Subject Protection and Research Regulation](#Human Subject Protection and Research Regulation) 
+Modules. 
 
 ## Management of trials activities during pretrial and execution
 
