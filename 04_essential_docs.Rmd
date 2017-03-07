@@ -296,8 +296,8 @@ allow them to evaluate safety, study conduct, scientific validity and
 integrity of the trial. The reports convey data of relevant study
 activities and outcomes as agreed upon at the outset as in the purview
 of the DSMB. There are two types of the interim reports produced; one
-for the open session of the DSMB, and one for the closed session **(see
-Module XX).** Sections generally included in these reports are listed
+for the open session of the DSMB, and one for the closed session. 
+Sections generally included in these reports are listed
 below. Those marked by an asterisk are usually only included in the open
 report and not repeated in the closed reports:
 
@@ -322,7 +322,7 @@ The open session report provides information on study conduct,
 including: recruitment and demographic data, subject/facility
 characteristics, protocol compliance, site performance, quality control,
 adverse event data, and outcome data when appropriate aggregated for
-both arms of the RCT (i.e.. all subjects).
+both arms of the RCT (i.e. all subjects).
 
 ##### Closed Session Report
 
@@ -351,7 +351,7 @@ The research team prepares the data for the DSMB reports which should be
 sent to DSMB members 1 to 2 weeks prior to the meeting to allow
 sufficient time for review. There are software applications such as that
 can be automated to fill in the recurring data needed for these reports
-(see Data Management module).
+(see [Data Management](#Data Management) Module).
 
 The Closed Session Report is confidential. Printed copies of this report
 should be destroyed after the meeting. Procedures for securing and
@@ -419,8 +419,8 @@ The PI and Project Director (PD) should compile a list of all essential
 documents specific to the RCT as indicated by the sponsors and
 regulatory authorities. Many sponsors supply investigators with binders
 and organization strategies (see Resources). Additionally NIH provides a
-regulatory binder checklist.Harvard Catalyst provides a template for a
-regulatory binder (http://catalyst.harvard.edu/services/regbinder/).
+regulatory binder checklist. [Harvard Catalyst](http://catalyst.harvard.edu/services/regbinder/) 
+provides a template for a regulatory binder.
 
 The Project Director should be responsible for the creation and
 maintenance of the binder under the PI’s supervision. It is helpful to
@@ -450,16 +450,16 @@ Lack of adequate organization or management plan.
 
 ### Resources
 -   Boston University Clinical Research Resources Office, regulatory
-    binder resource\*,
-    http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/
--   Harvard Catalyst Regulatory Binder resource\*,
+    binder resource\,
+    <http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/>
+-   Harvard Catalyst Regulatory Binder resource\,
     <https://catalyst.harvard.edu/docs/regulatory_support/Regulatory_Binder.pdf>
 -   ICH GCP guideline, section 8 titled “Essential Documents for the
     Conduct of a Clinical Trial.”
-    <http://www.fda.gov/cder/guidance/959fnl.pdf>.
+    <http://www.fda.gov/cder/guidance/959fnl.pdf>
 -   NIH Regulatory Binder Checklist,
-    nccih.nih.gov/sites/nccam.nih.gov/files/CRtoolbox/Regulatory\_Binder\_Checklist\_051112.docx
+    <https://nccih.nih.gov/sites/nccam.nih.gov/files/CRtoolbox/Regulatory\_Binder\_Checklist\_051112.docx>
 -   University of California, San Francisco, Regulatory Binder
-    Requirements\*, <https://hub.ucsf.edu/virtual-regulatory-binder>
+    Requirements\, <https://hub.ucsf.edu/virtual-regulatory-binder>
 -   University of California, San Francisco, Study management
     <http://hub.ucsf.edu/clinical-study-management>
