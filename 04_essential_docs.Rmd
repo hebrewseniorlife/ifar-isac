@@ -228,8 +228,8 @@ and dated in a timely manner in the SAP. These changes must be conceived
 and documented prior to the active phase of data analyses.
 
 ## Data Safety and Monitoring Documents
-These are documents related to Data Safety Monitoring Board (DSMB) (or
-similar bodies such as a Data Safety Advisory Council (DSAC)) activities
+These are documents related to Data Safety Monitoring Board (DSMB), or
+similar bodies such as a Data Safety Advisory Council (DSAC), activities
 within an RCT. Two main documents are required; the DSMB charter and
 interim data reports.
 
@@ -241,7 +241,7 @@ defines the relationships between the DSMB and other parties responsible
 for study oversight, including the sponsor, clinical research
 organizations, steering committee, study investigators, IRBs/ECs,
 appropriate regulatory agencies, and the DSMB management organization
-(when applicable). Sections generally included in the charter include:
+(when applicable). Sections generally included in the charter:
 
 -   Role of DSMB
 -   DSMB Responsibilities
@@ -285,7 +285,6 @@ information inclusion.
 
 -   National Institute of Dental and Craniofacial Research Toolkit for
     Clinical Researchers, DSMB guideline, <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
-
 -   Institute of Translational Health Sciences, study documents and
     templates, <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
@@ -297,8 +296,8 @@ allow them to evaluate safety, study conduct, scientific validity and
 integrity of the trial. The reports convey data of relevant study
 activities and outcomes as agreed upon at the outset as in the purview
 of the DSMB. There are two types of the interim reports produced; one
-for the open session of the DSMB, and one for the closed session *(see
-Module XX).* . Sections generally included in these reports are listed
+for the open session of the DSMB, and one for the closed session **(see
+Module XX).** Sections generally included in these reports are listed
 below. Those marked by an asterisk are usually only included in the open
 report and not repeated in the closed reports:
 
