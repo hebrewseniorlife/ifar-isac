@@ -60,73 +60,74 @@ activities *
 
 ## Management of trial documentation (see [Essential Documentations Module](#Essential Documentations))
 
-|Trial Document / Activity |: Project Management Activities, by Phase                                                        |
+*Table 5.1 Project management activities relevant for trial
+documentation*
+
+|**Trial Document / Activity |: Project Management Activities, by Phase                                                        |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|		                       |:Pre-trial                      |:Execution	                  |:Closeout                         |
+|		                       |:Pre-trial                      |:Execution	                  |:Closeout**                        |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|Regulatory Binder         |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
+|**Regulatory Binder**     |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
 |                          |:storage and security	          |: changes on key trial       |:binder                           |
 |                          |:                               |: documents	                |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|Protocol 	               |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
+|**Protocol**              |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
 |                          |:parties                        |:amendments; obtain relevant |:documentation ; submit to        |  
 |                          |:                               |:approvals	                  |:relevant authorities as necessary|
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|Credentials and           |:Gather research team           |:Maintain study roster,      |:Archive                          |
-|competencies              |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
+|**Credentials and**       |:Gather research team           |:Maintain study roster,      |:Archive                          |
+|**competencies**          |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
 |                          |:conflict of interest forms,    |:responsibilities chart      |:                                 |
 |                          |:evidence of completion of      |:                            |:                                 |
 |                          |:required certifications)	      |:                            |:                                 | 
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|Investigator Brochure /   |:Develop marketing materials/   |:Manage and document updates;|:                                 |
-|Marketing	               |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
-|Manual of Procedures 	Develop MOP; test procedures 	Update and track changes throughout trial; maintain version control	Archive
-Statistical Analysis Plan
-Statistical Analytic Protocol	Review SAP; generate signoff by relevant parties	Update and track changes throughout trial; maintain version control	Archive
-Data Safety and Monitoring Documents	Author charter; recruit DSMB members, assign chairpersonship in partnership with funders	Circulate open and closed session reports at previously agreed upon interval prior to meetings. Submit to relevant authorities (e.g. DSMB, IRB, funding agencies)	Archive
-DSMB Report 	Develop template report; obtain relevant approvals	Update and track changes throughout trial; maintain version control	Develop and disseminate final DSMB report; Archive
-Meeting Templates 	Design meeting templates (agendas and minutes)	Co-author and maintain meeting records; disseminate key information	--
-Tracking / 
-Monitoring Reports 	Develop tracking and monitoring templates for enrollment, study visit attendance, protocol adherence, etc.	Maintain record of findings as motivation for process improvement, changes to procedures and protocol amendments	--
-Data Quality Reports	Develop reporting of data completeness and quality	Maintain record of findings as motivation for process improvement, changes to procedures and protocol amendments	--
-Additional Documentation	Develop study logs, documentation of adverse events, tracking of participant disposition, IRB submissions and approvals, etc.	Update and track changes throughout trial; maintain version control	Maintain and archive record of all relevant reporting
+|**Investigator Brochure/**|:Develop marketing materials/   |:Manage and document updates;|:                                 |
+|**Marketing**             |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Manual of Procedures**  |:Develop MOP; test procedures 	|:Update and track changes    |:Archive                          |
+|                          |:                               |:throughout trial; maintain  |:                                 | 
+|                          |:                               |:version control	            |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Statistical Analysis**  |:Review SAP; generate signoff   |:Update and track changes    |:Archive                          |
+|**Plan Statistical**      |:by relevant parties            |:throughout trial; maintain  |:                                 | 
+|** Analytic Protocol**    |: 	                            |:version control	            |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Data Safety and**       |:Author charter; recruit DSMB   |:Circulate open and closed   |:Archive                          |
+|**Monitoring Documents**  |:members, assign chairpersonship|:session reports at          |:                                 |
+|                          |:in partnership with funders	  |:previously agreed upon      |:                                 |
+|                          |:                               |:interval prior to meetings. |:                                 |
+|                          |:                               |:Submit to relevant          |:                                 | 
+|                          |:                               |:authorities (e.g. DSMB, IRB,|:                                 | 
+|                          |:                               |:funding agencies)	          |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**DSMB Report** 	         |:Develop template report;       |:Update and track changes    |:Develop and disseminate final    |
+|                          |:obtain relevant approvals	    |:throughout trial; maintain  |:DSMB report; Archive             |
+|                          |:                               |:version control	            |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Meeting Templates**     |:Design meeting templates       |:Co-author and maintain      |:                                 |
+|                          |:(agendas and minutes)	        |:meeting records; disseminate|:                                 |
+|                          |:                               |:key information             |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Tracking / Monitoring** |:Develop tracking and monitoring|:Maintain record of findings |:                                 | 
+|**Reports**               |:templates for enrollment, study|:as motivation for process   |:                                 |
+|                          |:visit attendance, protocol     |:improvement, changes to     |:                                 |
+|                          |:adherence, etc.	              |:procedures and protocol     |:                                 |
+|                          |:                               |:amendments                  |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Data Quality Reports**  |:Develop reporting of data      |:Maintain record of findings |:                                 |
+|                          |:completeness and quality	      |:as motivation for process   |:                                 |
+|                          |:                               |:improvement, changes to     |:                                 |
+|                          |:                               |:procedures and protocol     |:                                 |
+|                          |:                               |:amendments                  |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Additional Documentation**|:Develop study logs,          |:Update and track changes    |:Maintain and archive record of   |
+|                          |:documentation of adverse       |:throughout trial; maintain  |:all relevant reporting           |
+|                          |:events, tracking of participant|:version control             |:                                 |
+|                          |:disposition, IRB submissions   |:                            |:                                 |
+|                          |:and approvals, etc.	          |: 	                          |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 
-*Table 5.1 Project management activities relevant for trial
-documentation*
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Trial Document / Activity              Project Management Activities, by Phase
-  -------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
-                                         **Pre-trial**
-
-  Regulatory Binder)                     Set up; establish location for storage and security                                                             
-
-  Protocol                               Review and approval by relevant parties
-
-  Credentials and competencies           Gather research team documentation (i.e., resumes, conflict of interest forms, evidence of completion of required certifications)
-
-  Investigator Brochure / Marketing      Develop marketing materials/ investigators brochure
-
-  Manual of Procedures                   Develop MOP; test procedures
-
-  Statistical Analysis Plan              Review SAP; generate signoff by relevant parties
-                                         
-  Statistical Analytic Protocol          
-
-  Data Safety and Monitoring Documents   Author charter; recruit DSMB members, assign chairpersonship in partnership with funders
-
-  DSMB Report                            Develop template report; obtain relevant approvals
-
-  Meeting Templates                      Design meeting templates (agendas and minutes)
-
-  Tracking /                             Develop tracking and monitoring templates for enrollment, study visit attendance, protocol adherence, etc.
-                                         
-  Monitoring Reports                     
-
-  Data Quality Reports                   Develop reporting of data completeness and quality
-
-  Additional Documentation               Develop study logs, documentation of adverse events, tracking of participant disposition, IRB submissions and approvals, etc.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Management and maintenance of human subject protections and other regualtory interactions.
 
