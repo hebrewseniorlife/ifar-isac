@@ -2,20 +2,20 @@
 
 ## Project management for Clinical trials
 
-What
+### What
 
 Project management is the application of processes, methods, knowledge,
 skills and experience to achieve the project objectives
 (Warburton\_2014, PMBOk\_2013).
 
-Why
+### Why
 
 Given their complexity, Clinical Trials benefit from well-developed
 project management plans and monitoring processes. In this module we
 delineate provide guidance for management of funded clinical trial from
 planning through execution and closeout.
 
-How
+### How
 
 **Overview of the project management process **
 
@@ -26,7 +26,7 @@ comprising those activities (enrollment, measurement etc.) that
 constitute the major trial activities, and relying heavily on study
 **monitoring** and **evaluation**; and a **study closeout** phase,
 consisting of activities such activities as creation of final regulatory
-reports, publication and archiving **(Figure X.X**). Investigators
+reports, publication and archiving (Figure 5.1). Investigators
 should anticipate a heavy investment of resources during the pre-trial
 phase, but with proper planning this investment will pay dividends
 during trial execution and closeout.
@@ -58,7 +58,38 @@ module. For details click on each activity relevant to each trial phase.
 *Figure 5.3. Example flowchart depicting high-level summary of trial
 activities *
 
-## Management of trial documentation (see Essential documents module)
+## Management of trial documentation (see [Essential Documentations Module](#Essential Documentations))
+
+|Trial Document / Activity |: Project Management Activities, by Phase                                                        |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|		                       |:Pre-trial                      |:Execution	                  |:Closeout                         |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|Regulatory Binder         |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
+|                          |:storage and security	          |: changes on key trial       |:binder                           |
+|                          |:                               |: documents	                |:                                 |
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|Protocol 	               |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
+|                          |:parties                        |:amendments; obtain relevant |:documentation ; submit to        |  
+|                          |:                               |:approvals	                  |:relevant authorities as necessary|
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|Credentials and           |:Gather research team           |:Maintain study roster,      |:Archive                          |
+|competencies              |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
+|                          |:conflict of interest forms,    |:responsibilities chart      |:                                 |
+|                          |:evidence of completion of      |:                            |:                                 |
+|                          |:required certifications)	      |:                            |:                                 | 
+|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|Investigator Brochure /   |:Develop marketing materials/   |:Manage and document updates;|:                                 |
+|Marketing	               |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
+|Manual of Procedures 	Develop MOP; test procedures 	Update and track changes throughout trial; maintain version control	Archive
+Statistical Analysis Plan
+Statistical Analytic Protocol	Review SAP; generate signoff by relevant parties	Update and track changes throughout trial; maintain version control	Archive
+Data Safety and Monitoring Documents	Author charter; recruit DSMB members, assign chairpersonship in partnership with funders	Circulate open and closed session reports at previously agreed upon interval prior to meetings. Submit to relevant authorities (e.g. DSMB, IRB, funding agencies)	Archive
+DSMB Report 	Develop template report; obtain relevant approvals	Update and track changes throughout trial; maintain version control	Develop and disseminate final DSMB report; Archive
+Meeting Templates 	Design meeting templates (agendas and minutes)	Co-author and maintain meeting records; disseminate key information	--
+Tracking / 
+Monitoring Reports 	Develop tracking and monitoring templates for enrollment, study visit attendance, protocol adherence, etc.	Maintain record of findings as motivation for process improvement, changes to procedures and protocol amendments	--
+Data Quality Reports	Develop reporting of data completeness and quality	Maintain record of findings as motivation for process improvement, changes to procedures and protocol amendments	--
+Additional Documentation	Develop study logs, documentation of adverse events, tracking of participant disposition, IRB submissions and approvals, etc.	Update and track changes throughout trial; maintain version control	Maintain and archive record of all relevant reporting
 
 *Table 5.1 Project management activities relevant for trial
 documentation*
@@ -68,7 +99,7 @@ documentation*
   -------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
                                          **Pre-trial**
 
-  Regulatory Binder)                     Set up; establish location for storage and security
+  Regulatory Binder)                     Set up; establish location for storage and security                                                             
 
   Protocol                               Review and approval by relevant parties
 
