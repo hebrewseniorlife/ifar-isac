@@ -82,8 +82,8 @@ enhance the conduct and rigor of their clinical trials.
 1.  **Good Clinical Practice (GCP)** is an international quality
     standard that defines standards for clinical trials involving
     human subjects. The NIH require [**Certifications in Good
-    Clinical Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
-    _for NIH-funded Investigators and clinical trial site staff who are
+    Clinical Practice**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)_
+    for NIH-funded Investigators and clinical trial site staff who are
     responsible for the conduct, management and oversight of NIH-funded
     clinical trials. The [**FDA**](https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx) has a similar requirement.
 
