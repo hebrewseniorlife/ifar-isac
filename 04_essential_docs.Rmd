@@ -379,7 +379,7 @@ or ineffectual information inclusion.
     <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
 
 -   Institute of Translational Health Sciences, study documents and
-    templates
+    templates,
     <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
 ## Regulatory Binder
