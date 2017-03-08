@@ -381,52 +381,30 @@ vary on the type of trial, the number of sites involved, and the
 sponsor’s specifications. Among the recommended items to include are:
 
 - Clinical data management definition and procedures
-
     - Systems for data collection and management
-
     - Data entry procedures
-
     - Data security procedures
-
     - Data cleaning and quality control procedures
-
     - Data import and exports procedures
-
     - Case Report Forms (CRF)
-
 - Monitoring of study participants
-
     - Screening/Recruitment
-
     - Randomization/Blinding procedures
-
     - Cessation of Intervention
-
     - Withdrawals
-
     - Tracking
-
 - Reporting
-
     - Safety
-
     - Adverse events and Serious Adverse Events
-
     - Screening and Enrollment
-
     - Data Quality and Completeness
-
     - Progress and Final Reports
-
     - Additional Reports
-
 - Trial Documents and Data Retention
-
     - Retention of Trial Documents
-
     - Data Use Agreements (DUA)
 
-For details see the Data management module. Other resources include
+For details see the [Data Management Module](#Data Management). Other resources include
 IFAR’s Sensitive Data Security Policy (IFAR\_sensitive\_data\_security),
 Boston Children’s Hospital Guideline for Developing a Manual of
 Operations (BCH\_RPG-05).
@@ -436,27 +414,27 @@ None
 
 ## Common Pitfalls
 
-Lack of management follow-up and poor communications systems.
+- Lack of management follow-up and poor communications systems.
 
-Failure to submit amendments or keep up with study documentation
+- Failure to submit amendments or keep up with study documentation
 updates.
 
-Not keeping up with staff certifications.
+- Not keeping up with staff certifications.
 
-Personnel turnover and a lack of redundancies buildup.
+- Personnel turnover and a lack of redundancies buildup.
 
-Lack of compliance with regulations.
+- Lack of compliance with regulations.
 
-Missing reports deadlines due to a lack of organization in the calendar.
+- Missing reports deadlines due to a lack of organization in the calendar.
 
-Research sites closures during the trial collection cycle.
+- Research sites closures during the trial collection cycle.
 
-Unanticipated scope changes that affect the budget and schedule.
+- Unanticipated scope changes that affect the budget and schedule.
 
-Ineffective recruitment.
+- Ineffective recruitment.
 
-Ineffective mechanism to maintain blinding.
+- Ineffective mechanism to maintain blinding.
 
-Ineffective use of technologies.
+- Ineffective use of technologies.
 
-Failure to update security systems.
+- Failure to update security systems.
