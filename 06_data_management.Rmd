@@ -284,7 +284,7 @@ The EDC and CDMS should be constructed to facilitate regular reporting
 of study progress, and specifically screening, enrollment and
 participant visit tracking. A reasonable model for said reports is
 contained in the DSMB reporting templates provided as part of the [NIA
-Toolbox]<https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>.
+Toolbox](https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup).
 
 ### Data Quality and Completeness
 
@@ -353,13 +353,9 @@ At IFAR servers and network resources are accessible to approved staff
 only. The list of IFAR preapproved network resources includes:
 
 -   IFAR file servers (e.g. IFAR NAS)
-
 -   Application servers (e.g. REDCap, SharePoint, Accellion)
-
 -   Database servers (e.g. MySQL, SQL Server)
-
 -   Application Security and User Federation
-
 -   IFAR Extranet and User Repository (LDAP)
 
 According to IFAR’s sensitive data security policy projects are
