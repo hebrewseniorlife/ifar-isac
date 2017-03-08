@@ -63,9 +63,8 @@ activities *
 *Table 5.1 Project management activities relevant for trial
 documentation*
 
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Trial Document /        |: Project Management Activities, by Phase                                                        |          
-|Activity                  |:                                                                                                |
+
+|**Trial Document/Activity |: Project Management Activities by Phase                                                         |          
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |		                   |:Pre-trial                      |:Execution	                  |:Closeout                         |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
