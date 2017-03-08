@@ -91,7 +91,7 @@ Modules.
 
 #### What
 
-A project management plan is a document that results in a dynamic set of
+A Project Management Plan is a document that results in a dynamic set of
 documents that clearly define the goals and provide direction for the
 project. It articulates the specific deliverables, as well as
 procedures, timelines, and resources necessary to produce those
@@ -101,12 +101,9 @@ defined in the protocol. The following tasks are critical to creating a
 project management plan:
 
 1.  Define the project goals/deliverables/milestones
-
 2.  Management using outline-based and/or graphical tools for calendars
     and schedules
-
 3.  Management of internal and external communications
-
 4.  Management of project personnel and responsibilities
 
 #### Why
@@ -120,19 +117,19 @@ things focused and moving forward.
 
 #### How
 
-**Define project goals/ deliverables/ milestones**
+### Define project goals/ deliverables/ milestones
 
 The project goals, deliverables and milestones are described in the
 trial protocol. The protocol should be taken as the essential and
 controlling guide implicating the relevant protocol management
 activities.
 
-**Organizing structure**
+#### Organizing structure
 
 Project managers should be guided by an overarching structure. For
 instance, in a large and complex trial with a large number of
-deliverables, investigators and managers may utilize a formal **Work
-Breakdown Structure** (WBS). The WBS is a hierarchical decomposition
+deliverables, investigators and managers may utilize a formal Work
+Breakdown Structure (WBS). The WBS is a hierarchical decomposition
 list of necessary tasks, with each descending level representing an
 increasing detailed definition of the work. Importantly, the WBS is
 designed to be focused on generation of deliverables, i.e. tangible
@@ -142,8 +139,8 @@ components; the duration and cost of each step in the process can thus
 be better established at a granular level.
 
 For a smaller project, it may not be the case that a formal WBS is
-necessary or efficient, but the **detailed breakdown of specific tasks,
-along with resources required, is almost never wasted effort**. Thus the
+necessary or efficient, but the detailed breakdown of specific tasks,
+along with resources required, is almost never wasted effort. Thus the
 following sections outline a system that is almost always relevant to
 project management, but that may be adopted more or less formally as
 circumstances dictate. The WBS can be developed using calendaring,
@@ -156,13 +153,10 @@ schedule. The project manager should:
 
 -   Define all activities required to produce each of the project’s
     deliverables.
-
 -   Define the order or sequence in which the activities must happen and
     the relationship between them.
-
 -   Establish the resources (both human and material) necessary to
     accomplish each activity.
-
 -   Estimate the activity duration.
 
 These items may be applied both at the high level of the project –
@@ -181,20 +175,13 @@ materials would typically be added to this.
 *Table 5.3 Example of a schedule specific to protocol development*
 
   ---------------------------------------------------------------------------------------------------------------------------
-  **Activity Code**   **Activity/ Deliverable**                               **Duration**   **Predecessor / Prerequisite**
-                                                                                             
-                                                                              **(days)**     
-  ------------------- ------------------------------------------------------- -------------- --------------------------------
-  A                   Draft Protocol                                          30             --
-
-  B                   Circulate Protocol Draft for Feedback and Input         14             A
-
-  C                   Integrate changes                                       18             B
-
-  D                   Circulate Draft Protocol for final Feedback and Input   14             C
-
-  E                   Finalize Protocol                                       8              D
-  ---------------------------------------------------------------------------------------------------------------------------
+  |**Activity Code** |  **Activity/ Deliverable** |**Duration (days) ** |**Predecessor / Prerequisite**|
+  |  A | Draft Protocol | 30 | -- |
+  |  B | Circulate Protocol Draft for Feedback and Input | 14 | A |
+  |  C | Integrate changes | 18 | B |
+  |  D | Circulate Draft Protocol for final Feedback and Input | 14 | C |
+  |  E | Finalize Protocol | 8 | D | 
+  
 
 In the above example, the activities occur in a linear fashion where one
 must precede the next. Other activities and tasks may more easily and
