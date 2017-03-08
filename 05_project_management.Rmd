@@ -175,13 +175,14 @@ materials would typically be added to this.
 *Table 5.3 Example of a schedule specific to protocol development*
 
 
-  |**Activity Code** |  **Activity/ Deliverable** |**Duration (days) ** |**Predecessor / Prerequisite**|
-  |------------------|:---------------------------|:--------------------|:-----------------------------|
-  |  A               |: Draft Protocol            |: 30                 |:                             |
-  |  B               |: Circulate Protocol Draft for Feedback and Input |: 14                     |: A |
-  |  C               |: Integrate changes         |: 18                 |: B                           |
-  |  D               |: Circulate Draft Protocol for final Feedback and Input |: 14 |: C               |
-  |  E               |: Finalize Protocol         |: 8                  |: D                           | 
+|------------------|:---------------------------|:--------------------|:-----------------------------|
+|**Activity Code** |  **Activity/ Deliverable** |**Duration (days) ** |**Predecessor / Prerequisite**|
+|------------------|:---------------------------|:--------------------|:-----------------------------|
+|  A               |: Draft Protocol            |: 30                 |:                             |
+|  B               |: Circulate Protocol Draft for Feedback and Input |: 14                     |: A |
+|  C               |: Integrate changes         |: 18                 |: B                           |
+|  D               |: Circulate Draft Protocol for final Feedback and Input |: 14 |: C               |
+|  E               |: Finalize Protocol         |: 8                  |: D                           | 
   
 
 In the above example, the activities occur in a linear fashion where one
