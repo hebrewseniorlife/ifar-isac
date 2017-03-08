@@ -63,7 +63,7 @@ activities *
 *Table 5.1 Project management activities relevant for trial
 documentation presented by Phase
 
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+
 |**Trial Document/Activity |:Pre-trial                      |:Execution	                  |:Closeout                         |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |Regulatory Binder**       |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
