@@ -61,16 +61,14 @@ activities *
 ## Management of trial documentation (see [Essential Documentations Module](#Essential Documentations))
 
 *Table 5.1 Project management activities relevant for trial
-documentation*
+documentation presented by Phase
 
-
-|**Trial Document/Activity |: Project Management Activities by Phase                                                         |          
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|		                   |:Pre-trial                      |:Execution	                  |:Closeout                         |
+|**Trial Document/Activity |:Pre-trial                      |:Execution	                  |:Closeout                         |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |Regulatory Binder**       |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
-|                          |:storage and security	        |: changes on key trial       |:binder                           |
-|                          |:                               |: documents	              |:                                 |
+|                          | storage and security	        |  changes on key trial       | binder                           |
+|                          |                                |  documents	              |                                  |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Protocol**              |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
 |                          |:parties                        |:amendments; obtain relevant |:documentation ; submit to        |  
