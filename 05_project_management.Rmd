@@ -64,14 +64,10 @@ activities *
 documentation presented by Phase
 
 
-|**Trial Document/Activity |Pre-trial                       |Execution	                  |Closeout**                        |
+|**Trial Document/Activity** |**Pre-trial**  |**Execution**	|**Closeout**|
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Regulatory Binder**     |Set up; establish location for storage and security  |Review/update and document changes on key trial documents  |Complete and archive regulatory binder|
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Protocol**              |Review and approval by relevant |Manage and document protocol |Archive all relevant              |
-|                          |parties                         |amendments; obtain relevant  |documentation ; submit to         |  
-|                          |                                |approvals	                  |relevant authorities as necessary |
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Protocol**              |Review and approval by relevant parties|Manage and document protocol amendments; obtain relevant approvals  |Archive all relevant documentation; submit to relevant authorities as necessary |
 |**Credentials and**       |:Gather research team           |:Maintain study roster,      |:Archive                          |
 |**competencies**          |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
 |                          |:conflict of interest forms,    |:responsibilities chart      |:                                 |
