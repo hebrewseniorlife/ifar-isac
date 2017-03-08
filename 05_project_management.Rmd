@@ -68,12 +68,7 @@ documentation presented by Phase
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Regulatory Binder**     |Set up; establish location for storage and security  |Review/update and document changes on key trial documents  |Complete and archive regulatory binder|
 |**Protocol**              |Review and approval by relevant parties|Manage and document protocol amendments; obtain relevant approvals  |Archive all relevant documentation; submit to relevant authorities as necessary |
-|**Credentials and**       |:Gather research team           |:Maintain study roster,      |:Archive                          |
-|**competencies**          |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
-|                          |:conflict of interest forms,    |:responsibilities chart      |:                                 |
-|                          |:evidence of completion of      |:                            |:                                 |
-|                          |:required certifications)	    |:                            |:                                 | 
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Credentials and competencies** |Gather research team documentation (i.e., resumes,onflict of interest forms, evidence of completion of required certifications) |:Maintain study roster, record of competencies, and responsibilities chart |Archive| 
 |**Investigator Brochure/**|:Develop marketing materials/   |:Manage and document updates;|:                                 |
 |**Marketing**             |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
