@@ -177,11 +177,11 @@ materials would typically be added to this.
 
 |**Activity Code** |  **Activity/ Deliverable** |**Duration (days)** |**Predecessor / Prerequisite**|
 |------------------|:---------------------------|:-------------------|:---------------|
-| <p style= text-align: center;> <A></p> | Draft Protocol            | 30                 |             |
-| <p style= text-align: center;> </style> B </p> | Circulate Protocol Draft for Feedback and Input | 14   | A   |
-| <p style= text-align: center;> </style> C </p> | Integrate changes         | 18                 | B           |
-| <p style= text-align: center;> </style> D </p> | Circulate Draft Protocol for final Feedback and Input |14 | C  |
-| <p style= text-align: center;> </style> E </p> | Finalize Protocol         |8                  | D           | 
+| A| Draft Protocol            | 30                 |             |
+| B| Circulate Protocol Draft for Feedback and Input | 14   | A   |
+| C| Integrate changes         | 18                 | B           |
+| D | Circulate Draft Protocol for final Feedback and Input |14 | C  |
+| E | Finalize Protocol         |8                  | D           | 
   
 
 In the above example, the activities occur in a linear fashion where one
