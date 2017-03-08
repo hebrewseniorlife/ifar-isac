@@ -72,7 +72,7 @@ documentation presented by Phase
 |**Investigator Brochure/Marketing**|Develop marketing materials/ investigators brochure|Manage and document updates; obtain relevant approvals| |
 |**Manual of Procedures**  |Develop MOP; test procedures 	|Update and track changes throughout trial; maintain version control  |Archive |
 |**Statistical Analysis Plan Statistical Analytic Protocol**  |Review SAP; generate signoff by relevant parties |Update and track changes throughout trial; maintain version control |Archive |
-|**Data Safety and Monitoring Documents** |Author charter; recruit DSMB members, assign chairpersonship in partnership with funders |Circulate open and closed session reports at previously agreed upon interval prior to meetings. Submit to relevant authorities (e.g. DSMB, IRB,funding agencies) |:Archive|
+|**Data Safety and Monitoring Documents** |Author charter; recruit DSMB members, assign chairpersonship in partnership with funders |Circulate open and closed session reports at previously agreed upon interval prior to meetings. Submit to relevant authorities (e.g. DSMB, IRB,funding agencies) |Archive|
 |**DSMB Report** |Develop template report; obtain relevant approvals|Update and track changes throughout trial; maintain   |Develop and disseminate final version control DSMB report; Archive |
 |**Meeting Templates**  |Design meeting templates (agendas and minutes) |Co-author and maintain meeting records; disseminate key information| |
 |**Tracking / Monitoring Reports** |Develop tracking and monitoring templates for enrollment, study visit attendance, protocol adherence, etc. |:Maintain record of findings as motivation for process improvement, changes to procedures and protocol amendments | |
