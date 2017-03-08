@@ -4,7 +4,7 @@
 
 ### What 
 
-Clinical Data Management (**CDM**) is the collection, cleaning, and
+Clinical Data Management (CDM) is the collection, cleaning, and
 management of subject data in compliance with regulatory standards
 (Krishnankutty\_2012). It is a critical component of clinical research.
 
@@ -110,9 +110,9 @@ Children’s Hospital (BCH) Clinical Research Center websites.
 
 Clinical trials may use paper-based or electronic data capture, with
 most studies today using the latter. An electronic data capture
-(**EDC**) system will be designed to facilitate data collection, often
+(EDC) system will be designed to facilitate data collection, often
 using web-based technology. A Clinical Data Management Systems
-(**CDMS**) comprises the software tools for data maintenance, quality
+(CDMS) comprises the software tools for data maintenance, quality
 assurance and reporting. EDC and CDMS may be combined under a single
 informatics environment.
 
@@ -123,7 +123,7 @@ these systems and a security system that prevents unauthorized access to
 the data (E6\_R2: 5.5).
 
 When describing the data collection system in applications or protocols,
-data management personnel should define
+data management personnel should define:
 
 -   **The system specifications:** the version number, security system,
     audit trail, data entry access, the annotated case report forms
@@ -163,7 +163,7 @@ participants.
 
 Procedures for maintenance of data security – incorporating both
 prevention of deletion and prevention of theft – should follow and
-expand upon the Data Safety Monitoring Plan (**DSMP**) of the study
+expand upon the Data Safety Monitoring Plan (DSMP) of the study
 protocol. Details on protocol development are provided in the Essential
 Documents module.
 
@@ -243,7 +243,7 @@ participants and recording of data relevant to said contacts.
 The CDMS should facilitate tracking of participants’ enrollment and
 progress through the trial consistent with NIH and ICH guidance and with
 the reporting paradigm laid out in the Consolidated Standards of
-Reporting Trials (**CONSORT**) Statement. CONSORT is a set of
+Reporting Trials (CONSORT) Statement. CONSORT is a set of
 recommendations for reporting the information for randomized trials
 including its design, methods, results, and conclusions (Consort). It
 comprises a 25-item checklist and flow diagram providing guidance for
@@ -252,7 +252,7 @@ analytic data sets and other data structures.
 
 ![](images/book/dm1.png)
 
-Study flow diagram
+*Figure 6.1 Study flow diagram*
 
 ## Reporting
 
@@ -283,9 +283,8 @@ modules.
 The EDC and CDMS should be constructed to facilitate regular reporting
 of study progress, and specifically screening, enrollment and
 participant visit tracking. A reasonable model for said reports is
-contained in the DSMB reporting templates provided as part of the NIA
-Toolbox
-(https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup).
+contained in the DSMB reporting templates provided as part of the [NIA
+Toolbox]<https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>.
 
 ### Data Quality and Completeness
 
