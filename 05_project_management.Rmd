@@ -66,9 +66,7 @@ documentation presented by Phase
 
 |**Trial Document/Activity |Pre-trial                       |Execution	                  |Closeout**                        |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Regulatory Binder**     |Set up; establish location for storage and security  |Review/update and document   |Complete and archive regulatory   |
-|                          | 	        |changes on key trial         | binder                           |
-|                          |                                |documents	                  |                                  |
+|**Regulatory Binder**     |Set up; establish location for storage and security  |Review/update and document changes on key trial documents  |Complete and archive regulatory binder|
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Protocol**              |Review and approval by relevant |Manage and document protocol |Archive all relevant              |
 |                          |parties                         |amendments; obtain relevant  |documentation ; submit to         |  
