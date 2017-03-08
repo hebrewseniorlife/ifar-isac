@@ -66,16 +66,11 @@ documentation presented by Phase
 
 |**Trial Document/Activity** |**Pre-trial**  |**Execution**	|**Closeout**|
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Regulatory Binder**     |Set up; establish location for storage and security  |Review/update and document changes on key trial documents  |Complete and archive regulatory binder|
-|**Protocol**              |Review and approval by relevant parties|Manage and document protocol amendments; obtain relevant approvals  |Archive all relevant documentation; submit to relevant authorities as necessary |
-|**Credentials and competencies** |Gather research team documentation (i.e., resumes,onflict of interest forms, evidence of completion of required certifications) |:Maintain study roster, record of competencies, and responsibilities chart |Archive| 
-|**Investigator Brochure/**|:Develop marketing materials/   |:Manage and document updates;|:                                 |
-|**Marketing**             |:investigators brochure	        |:obtain relevant approvals	  |:                                 |
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Manual of Procedures**  |:Develop MOP; test procedures 	|:Update and track changes    |:Archive                          |
-|                          |:                               |:throughout trial; maintain  |:                                 | 
-|                          |:                               |:version control	          |:                                 |
-|--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
+|**Regulatory Binder**|Set up; establish location for storage and security  |Review/update and document changes on key trial documents  |Complete and archive regulatory binder|
+|**Protocol**|Review and approval by relevant parties|Manage and document protocol amendments; obtain relevant approvals  |Archive all relevant documentation; submit to relevant authorities as necessary |
+|**Credentials and competencies** |Gather research team documentation (i.e., resumes,onflict of interest forms, evidence of completion of required certifications) |Maintain study roster, record of competencies, and responsibilities chart |Archive| 
+|**Investigator Brochure/Marketing**|Develop marketing materials/ investigators brochure|:Manage and document updates; obtain relevant approvals| |
+|**Manual of Procedures**  |:Develop MOP; test procedures 	|:Update and track changes throughout trial; maintain version control  |:Archive |
 |**Statistical Analysis**  |:Review SAP; generate signoff   |:Update and track changes    |:Archive                          |
 |**Plan Statistical**      |:by relevant parties            |:throughout trial; maintain  |:                                 | 
 |** Analytic Protocol**    |: 	                            |:version control	          |:                                 |
