@@ -117,14 +117,14 @@ things focused and moving forward.
 
 #### How
 
-### Define project goals/ deliverables/ milestones
+##### Define project goals/ deliverables/ milestones
 
 The project goals, deliverables and milestones are described in the
 trial protocol. The protocol should be taken as the essential and
 controlling guide implicating the relevant protocol management
 activities.
 
-#### Organizing structure
+##### Organizing structure
 
 Project managers should be guided by an overarching structure. For
 instance, in a large and complex trial with a large number of
@@ -169,10 +169,10 @@ smaller sub-tasks. Accordingly the work invested in breaking out tasks
 in detail may well be worth it in a complex project.
 
 An example of a simplified schedule specific to protocol development is
-given in Table X.3; task start and end dates, human resources, and other
+given in Table 5.2; task start and end dates, human resources, and other
 materials would typically be added to this.
 
-*Table 5.3 Example of a schedule specific to protocol development*
+*Table 5.2 Example of a schedule specific to protocol development*
 
 
 |**Activity Code** |  **Activity/ Deliverable** |**Duration (days)** |**Predecessor / Prerequisite**|
@@ -188,7 +188,7 @@ In the above example, the activities occur in a linear fashion where one
 must precede the next. Other activities and tasks may more easily and
 efficiently proceed along multiple, parallel tracks.
 
-***Management using Graphical Tools***
+#### Management using Graphical Tools
 
 Other management tools that may be helpful in creating the project
 timeline or process maps include flowcharts, Gantt Charts, and network
@@ -230,7 +230,7 @@ Management of internal and external communications
 
 Key elements of the communications plan include:
 
-**Opportunities for communication. **
+#### Opportunities for communication
 
 The management team should assist in developing a schedule of
 interactions between members of the investigative team, as well as with
@@ -238,14 +238,14 @@ internal and external stakeholders. This should include transmission of
 formal reports, and also the times, locations, duration, and attendees
 of meetings and other interactions.
 
-**Means of communications.**
+#### Means of communications
 
 The management team should assist in procuring, testing and maintaining
 the means of project communications. These should be chosen such that
 capabilities correspond to project needs. Ease of use and reliability
 are additional key features that must be emphasized.
 
-**Recording of communications and trial progress. **
+#### Recording of communications and trial progress
 
 The project management team should take an active role in maintenance of
 the record of communications, including meeting minutes and agendas.
@@ -334,21 +334,23 @@ activities to undertake during the different phases of the trial.
 *Table 5.7 Site Management Plan during the different phases of the
 Clinical Trial*
 
-  Pre-trial                                                                                                                                                 Execution                                                                                Closeout
-  --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Define sample size (Krishnankutty\_2012) and recruitment strategies.                                                                                      Review/ monitor data collection issues.                                                  Complete final source data verification of Case Report Forms (CRFs/ eCRFs), ensuring protocol adherence, and managing the collection of final safety data.
-  Review site feasibility and qualifications for the study.                                                                                                                                                                                          
-  Define recruitment timeline.                                                                                                                                                                                                                       
-  Establish Site contact/ develop relationships with sites.                                                                                                 Keep an updated list of staff turnover for the sites.                                    
-  Create site training and provision of study documents for the in-service presentation (i.e., Introductory letters/ handouts/ brochures/ HIPAA waivers).   Re-in-service sites as often as needed (to keep momentum of the trial).                  
-  Recruit sites.                                                                                                                                            Monitor site (remotely or on-site) according to regulations.                             Ensure all documentation (regulatory correspondence) is filed appropriately and ready for the clinical monitor or Clinical Research Associate (CRA) to review during the close-out visit.
-  Follow-up site with phone calls to administrators and track those communications in a log.                                                                                                                                                         
-  Hire/ Train/ Develop field staff.                                                                                                                                                                                                                  
-  Set meeting schedule for the staff.                                                                                                                       Meet with staff weekly at first to problem solve. Then change to bi-weekly or monthly.   
-  Develop site monitoring/Quality Assurance log                                                                                                             Update log                                                                               
-  Define roles of study field staff vs. sites responsibilities.                                                                                                                                                                                      
-  Inform sites on performance and contractual issues.                                                                                                       Track problems/ issues and their resolutions.                                            
-                                                                                                                                                                                                                                                     Ensure return or destruction of all study related materials (i.e., unused lab kits and CRFs).
+|**Pre-trial** |**Execution**  |**Closeout** |
+|--------------------------|:-------------------------------|:----------------------------|
+|Define sample size (Krishnankutty_2012) and recruitment strategies |Review/ monitor data collection issues |Complete final source data verification of Case Report Forms (CRFs/ eCRFs), ensuring protocol adherence, and managing the collection of final safety data|
+|Review site feasibility and qualifications for the study |  |	 |	
+|Define recruitment timeline|  |   |		
+|Establish Site contact/ develop relationships with sites |Keep an updated list of staff turnover for the sites |  |
+|Create site training and provision of study documents for the in-service presentation (i.e., Introductory letters/ handouts/ brochures/ HIPAA waivers) |Re-in-service sites as often as needed (to keep momentum of the trial) |  | 	
+|Recruit sites |Monitor site (remotely or on-site) according to regulations |Ensure all documentation (regulatory correspondence) is filed appropriately and ready for the clinical monitor or Clinical Research Associate (CRA) to review during the close-out visit |
+|Follow-up site with phone calls to administrators and track those communications in a log |  |  |
+|Hire/ Train/ Develop field staff  |  |  |
+|Set meeting schedule for the staff |Meet with staff weekly at first to problem solve.  Then change to bi-weekly or monthly |  |
+|Develop site monitoring/Quality Assurance log |Update log |  | 
+|Define roles of study field staff vs. sites responsibilities |  |	|	
+|Inform sites on performance and contractual issues |Track problems/ issues and their resolutions |  | 	
+|  |  |Ensure return or destruction of all study related materials (i.e., unused lab kits and CRFs)|
+
+
 
 The appropriate level of site management and oversight empowers sites to
 effectively recruit, treat, and retain subjects, while ensures
