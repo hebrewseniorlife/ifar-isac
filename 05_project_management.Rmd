@@ -64,15 +64,15 @@ activities *
 documentation presented by Phase
 
 
-|**Trial Document/Activity |:Pre-trial                      |:Execution	                  |:Closeout                         |
+|**Trial Document/Activity |Pre-trial                       |Execution	                  |Closeout**                        |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|Regulatory Binder**       |:Set up; establish location for |:Review/update and document  |:Complete and archive regulatory  |
-|                          | storage and security	        |  changes on key trial       | binder                           |
-|                          |                                |  documents	              |                                  |
+|**Regulatory Binder**     |Set up; establish location for  |Review/update and document   |Complete and archive regulatory   |
+|                          | storage and security	        |changes on key trial         | binder                           |
+|                          |                                |documents	                  |                                  |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
-|**Protocol**              |:Review and approval by relevant|:Manage and document protocol|:Archive all relevant             |
-|                          |:parties                        |:amendments; obtain relevant |:documentation ; submit to        |  
-|                          |:                               |:approvals	                  |:relevant authorities as necessary|
+|**Protocol**              |Review and approval by relevant |Manage and document protocol |Archive all relevant              |
+|                          |parties                         |amendments; obtain relevant  |documentation ; submit to         |  
+|                          |                                |approvals	                  |relevant authorities as necessary |
 |--------------------------|:-------------------------------|:----------------------------|:---------------------------------|
 |**Credentials and**       |:Gather research team           |:Maintain study roster,      |:Archive                          |
 |**competencies**          |:documentation (i.e., resumes,  |:record of competencies, and |:                                 |
