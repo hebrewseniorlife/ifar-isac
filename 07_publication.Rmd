@@ -82,15 +82,9 @@ NIH Policy was also published in the [NIH Guide for Grants and Contracts](http:/
 NIH has made available the following resources to help explain these
 changes. 
 
--   [A summary of the Final Rule and NIH
-    policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
-
--   [A table of the key elements of the Final Rule and NIH
-    policy](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
-
--   [A summary table of changes from current practice described in the
-    Final
-    Rule](https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
+-   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   [A table of the key elements of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   [A summary table of changes from current practice described in the Final Rule](https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
 
 #### Methods for Data Sharing
 
@@ -100,19 +94,16 @@ Researchers can manage requests for data personally on an individual
 request basis, or through use of a secure data archive or enclave.
 Investigators should select a mode of data sharing that is appropriate
 based on the size, complexity and sensitivity of the data, as well as
-the volume of data use requests anticipated. See the [NIH data sharing
-guidance](<http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods>)
+the volume of data use requests anticipated. See the [NIH data sharing guidance](<http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods>)
 for details.
 
-The NIH provides numerous [data sharing
-repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+The NIH provides numerous [data sharing repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
 which make data accessible for reuse. If you are doing an NIH funded
 trial, consult your Project Officer to discuss options for sharing data.
 
 IFAR has created several sensitive data policies (including data access,
 encryption, sharing, security, suppression, retention and destruction,
-etc.) please see these policies on the [HSL HUB policy and
-forms](http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms).
+etc.) please see these policies on the [HSL HUB policy and forms](http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms).
 
 #### Human Subjects and Privacy Issues
 
@@ -121,9 +112,7 @@ and organizational regulations. All compliances and restrictions should
 be addressed in the data sharing plan section of the funding
 application. There are two basic approaches to protecting sensitive
 data: restricting information in the shared dataset, and restricting
-access to the data. See [NIH data sharing
-guidance](file:///\\hebrewseniorlife.local\home\research-users\ElaineBergman\ISAC\Data%20Sharing%20Publication%20and%20dissemination)
-(<http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods>)
+access to the data. See [NIH data sharing guidance](<http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods>)
 for details.
 
 The plan for data sharing may include stripping a dataset of all
@@ -139,41 +128,38 @@ level. Data Use Agreements restrict the use of data to those
 specifically identified in the agreement, and require that data be used
 only for research purposes.
 
-Please see the [IFAR policy on Limited Data Sets and Data Use
-agreements](http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms)
-on the HSL HUB
-as well as the [HSL IRB SOPs on HIPAA and the use of data in
-research](http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP).
+Please see the [IFAR policy on Limited Data Sets and Data Use Agreements](http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms)
+on the HSL HUB as well as the [HSL IRB SOPs on HIPAA and the use of data in research](http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP).
 
-### Special considerations for older subjects 
+## Special Considerations for Older Subjects 
 
 NONE
 
-### Common Pitfalls
+## Common Pitfalls
+
 -   Not being aware of and planning for up-to-date data sharing requirements by funding agencies, regulators, and ICMJE
 -   Failure to develop a clear well documented dataset can undermine the researchers ability to share the data or others to use it.
 -   Failure to plan for the time and expense of data sharing
 
 ### Resources 
 
-External:
+External
 
--   NIH Data Sharing Policy and resource page [NIH Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
+-   NIH data sharing policy and resource page NIH Guide for Grants and Contracts, (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
+-   A summary of the Final Rule and NIH policy, (https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   A table of the key elements of the Final Rule and NIH policy, (https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   A summary table of changes from current practice described in the Final Rule, (https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
+-   Clinicaltrials.gov, (https://clinicaltrials.gov/)
 
-    -   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
-    -   [A table of the key elements of the Final Rule and NIH
-    policy](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
-    -   [A summary table of changes from current practice described in the Final
-    Rule](https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
--   Clinicaltrials.gov, <https://clinicaltrials.gov/>
+Internal: Hebrew Senior Life
 
-Hebrew Senior Life:
-
--   HSL IFAR Data Policies <http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms>
--   HSL IRB Policies and Procedures <http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP>
+-   HSL IFAR Data Policies, (http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms)
+-   HSL IRB Policies and Procedures, (http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP)
 
 ## Scientific Publications and Presentations
-### General Considerations
+
+### General considerations
+
 All paper and abstracts emanating from your trial should be planned
 early on in the study to maximize the productivity from the trial and
 avoid iterative papers. In planning, it is useful to outline the topic
@@ -189,24 +175,22 @@ authorship guidelines. Certain funding agencies and industry sponsors
 trials may have very specific requirements regarding their own review
 and approval of manuscripts prior to submission.
 
-Section III of the [ACRIN publication
-policy](https://www.acrin.org/RESEARCHERS/POLICIES/PUBLICATIONSPOLICY/PUBLICATIONSPOLICYDOCUMENT.aspx)
+Section III of the [ACRIN publication policy](https://www.acrin.org/RESEARCHERS/POLICIES/PUBLICATIONSPOLICY/PUBLICATIONSPOLICYDOCUMENT.aspx)
 provides details related to the roles and responsibilities of
 publication committees.
 
-### Specific Reporting Guidelines for Clinical Trials
+### Specific reporting guidelines for clinical trials
+
 Clinical trials reporting has specific standard guidelines that differ
 by the type of trial design and which are continually being updated. For
 example, there are set standards for the flow diagrams presenting
 subject participation in a clinical trial that differ between
 traditional parallel design randomized trials, non-inferiority trials,
 cluster randomized trials, stepped wedge designs etc. Journals generally
-follow the guidelines described in the [**CONSORT** (Consolidated
-Standards of Reporting Trials)
-statement](http://www.consort-statement.org/).
+follow the guidelines described in the Consolidated
+Standards of Reporting Trials ([**CONSORT**](http://www.consort-statement.org/)) statement].
 
-The [EQUATOR](http://www.equator-network.org/) (Enhancing the QUAlity
-and Transparency Of health Research)
+The Enhancing the QUAlity and Transparency Of health Research [(EQUATOR](http://www.equator-network.org/)
 is also a very useful comprehensible searchable website with up-to-date
 links the CONSORT statements and extensions.
 
