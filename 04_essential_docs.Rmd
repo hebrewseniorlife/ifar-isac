@@ -2,13 +2,13 @@
 
 ## Introduction to Essential Documentation in a Randomized Clinical Trial
 
-### Module Goal
+### Module goal
 
 This module provides guidance for the development and management of
 *essential* documentation before, during, and at the close of a
 randomized clinical trial (RCT).
 
-### General Considerations
+### General considerations
 
 Documentation provides validation that research is conducted maintaining
 the highest ethical and clinical standards as established by the World
@@ -105,7 +105,7 @@ supervision.
 ### Special considerations for older subjects
 None
 
-### Common Pitfalls
+### Common pitfalls
 Common pitfalls include: incomplete or unclear initial protocols,
 inadequate documentation of protocol amendments, and inconsistency with
 other study key documents (e.g. manual of operations and IRB
@@ -189,7 +189,7 @@ study file system.
 ### Special considerations for older subjects
 None
 
-### Common Pitfalls
+### Common pitfalls
 Common pitfalls for MOP development include: lack of adequate formatting
 or tracking, lack of required appendices, and finding the right balance
 of necessary detail to include.
@@ -233,7 +233,7 @@ similar bodies such as a Data Safety Advisory Council (DSAC), activities
 within an RCT. Two main documents are required; the DSMB charter and
 interim data reports.
 
-### DSMB/DSAC Charter
+### DSMB/DSAC charter
 #### What
 
 The Charter describes the responsibilities of the DSMB. The charter also
@@ -268,11 +268,11 @@ the lead in developing the charter. There are general guidelines and
 many templates available (see Resources below). If funded by the NIH,
 the Project Officer may recommend a preferred format or template.
 
-#### Special Considerations for Older Subjects
+#### Special considerations for older Subjects
 
 None
 
-#### Common Pitfalls
+#### Common pitfalls
 
 Common pitfalls for DSMB charter development include a lack of adequate
 planning or corroboration with DSMB members and sponsor and insufficient
@@ -288,7 +288,7 @@ information inclusion.
 -   Institute of Translational Health Sciences, study documents and
     templates, <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
-### Interim Data Reports
+### Interim data reports
 #### What
 
 Interim data reports provide members of the DSMB with information to
@@ -316,7 +316,7 @@ report and not repeated in the closed reports:
 -   Protocol Deviations
 -   Outcomes (may or may not be included)
 
-##### Open Session Report
+##### Open session report
 
 The open session report provides information on study conduct,
 including: recruitment and demographic data, subject/facility
@@ -324,7 +324,7 @@ characteristics, protocol compliance, site performance, quality control,
 adverse event data, and outcome data when appropriate aggregated for
 both arms of the RCT (i.e. all subjects).
 
-##### Closed Session Report
+##### Closed session report
 
 The closed session report contains data similar to that presented in the
 open session report but is presented separately for each study arm in a
@@ -358,11 +358,11 @@ should be destroyed after the meeting. Procedures for securing and
 eliminating closed reports distributed to telephone and video conference
 participants should be specified in advance of the meeting.
 
-#### Special Considerations for Older Subjects
+#### Special considerations for older subjects
 
 None
 
-#### Common Pitfalls
+#### Common pitfalls
 
 Common pitfalls for DSMB charter development include a lack of adequate
 planning or corroboration with DSMB members and sponsor and insufficient
