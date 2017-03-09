@@ -1,13 +1,12 @@
 # Publication and Dissemination   
 
 ## Introduction
-Research dissemination can be defined as follows: “A planned process
+Research dissemination can be defined as follows: *“A planned process
 that involves consideration of target audiences and the settings in
 which research findings are to be received and, where appropriate,
 communicating and interacting with wider policy and health service
 audiences in ways that will facilitate research uptake in decision-
-making processes and practice”. *Wilson et al, Implementation Science
-2010, 5:91*
+making processes and practice”*. (Wilson *et al.* 2010, 5:91).
 
 Traditionally, research dissemination centers on the publication of
 results in peer reviewed journals and academic conference presentations.
@@ -40,10 +39,8 @@ Resources for dissemination planning beyond journal publication:
     Publication: Strategies for Disseminating Research Findings,”
     <https://ctsacorus.org/resources/252/download/CARE_Dissemination_Strategies_FINAL_eversion_2.pdf>
 
--   *Disseminating research findings: What should researchers do? A
-    systematic scoping review of conceptual frameworks. Wilson et al,
-    Implementation Science 2010, 5:91,*
-    [*http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/)
+-   Wilson, P.M., M. Petticrew, M.W. Calnan, and I, Nazareth (2010) Disseminating research findings: What should researchers do? A
+    systematic scoping review of conceptual frameworks. [*Implementation Science*, 5:91](<http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/>).
 
 ## Data Sharing
 ### What
