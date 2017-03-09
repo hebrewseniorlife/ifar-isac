@@ -60,13 +60,13 @@ standard states:
 > protocols, to provide report generation, data warehousing, and data
 > entry forms, and to monitor data collection.” (NIH\_standars\_CR)*
 >
-> The NIA **Clinical Research Study Investigator’s Toolbox** provides
+> The NIA Clinical Research Study Investigator’s [Toolbox](http://webcache.googleusercontent.com/search?q=cache:LN9CyBbTsN4J:https://www.nia.nih.gov/sites/default/files/manualofproceduresmopfinal2_0.doc+&cd=1&hl=en&ct=clnk&gl=us) provides
 > guidance with specific reference to clinical trials in aging, and in
 > particular useful tips for data management. Investigators pursuing or
 > conducting federally funded projects should make use of this resource
 > (NIA-Guide MOP).
 
-## CLINICAL Data Management definition and procedures
+## Clinical Data Management Definition and Procedures
 
 ### What
 
@@ -164,15 +164,15 @@ participants.
 Procedures for maintenance of data security – incorporating both
 prevention of deletion and prevention of theft – should follow and
 expand upon the Data Safety Monitoring Plan (DSMP) of the study
-protocol. Details on protocol development are provided in the Essential
-Documents module.
+protocol. Details on protocol development are provided in the [Essential
+Documentations Module](#Essential Documentations).
 
 These procedures should delineate pertinent risks as well as the plan
 for prevention of theft or loss, including identification of the
 individuals responsible for maintaining and routinely confirming data
 security.
 
-### Data cleaning and quality control procedures
+#### Data cleaning and quality control procedures
 
 These describe the programmed and/or built-in procedures of the EDC
 system and CDMS ensuring data validity. Again, automated procedures
@@ -187,14 +187,15 @@ measured by a third party laboratory that provides data in a flat file
 external to the main trial database). Security and preservation of data
 quality must be accounted for here.
 
-#### Case Report Forms (CRF)
+#### Case Report Forms
 
-CRF are the ‘source’ documents – which may be electronic forms - for
+Case Report Forms (CRF) are the ‘source’ documents – which may be electronic forms - for
 recording the protocol-required information to be reported to the
 trial’s sponsor on each trial subject.
 
 Paper or electronic documents should be consistent with the source
-documents (NIH\_protocol\_template). Investigator must warrant that the
+documents [(NIH\_protocol\_template)](http://osp.od.nih.gov/sites/default/files/Protocol_Template_05Feb2016_508.pdf). 
+Investigator must warrant that the
 case reports be accurate, complete and legible.\
 \
 Edits and corrections are to be documented by study personnel with
@@ -206,12 +207,11 @@ At IFAR, the design, analysis, and preparation of the interim and final
 clinical trial reports should be done with the guidance of the Research
 Informatics and Biostatistics cores as appropriate.
 
-## Monitoring Of study participants 
+## Monitoring of Study Participants 
 
 Participant monitoring is a critical task for trial personnel. The CDMS should support and facilitate this task. Some exemplary functions are described below.
 
 ### Screening/Recruitment 
-
 
 The EDC and CDMS should reinforce the inclusion/exclusion criteria such
 that only eligible participants are enrolled.
@@ -221,9 +221,9 @@ that only eligible participants are enrolled.
 The EDC should facilitate assignment of participants to treatments and
 control regimes in a transparent and error-free manner, while
 facilitating maintenance of blinding of study personnel as appropriate.
-See Experimental design and Statistical Considerations module.
+See [Experimental Design and Statistical Considerations](#Experimental Design and Statistical Considerations) Module.
 
-### Cessation of Intervention
+### Cessation of intervention
 
 The CDMS should provide for notation and monitoring of cessation of
 intervention or other trial procedures as indicated by safety
@@ -270,7 +270,7 @@ safety reports include all concerned investigator(s)/institutions(s),
 the IRB(s)/IEC(s) where required, and regulatory authorities. See Human
 Subjects and Essential Documents modules for detail.
 
-#### Adverse events and Serious Adverse Events. 
+#### Adverse Events and Serious Adverse Events. 
 
 The CDMS should facilitate reporting of AEs and SAEs consistent with the
 study protocol and regulatory requirements (ICH\_E2A). Consideration
@@ -283,16 +283,16 @@ modules.
 The EDC and CDMS should be constructed to facilitate regular reporting
 of study progress, and specifically screening, enrollment and
 participant visit tracking. A reasonable model for said reports is
-contained in the DSMB reporting templates provided as part of the [NIA
-Toolbox](https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup).
+contained in the DSMB reporting templates provided as part of the 
+[NIA Toolbox](https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup).
 
-### Data Quality and Completeness
+### Data quality and completeness
 
 The EDC and CDSM should be structured to facilitate production of data
 quality reporting to insure data accuracy, protocol compliance and
 adherence to regulatory requirements.
 
-### Progress and Final Reports
+### Progress and final reports
 
 Most federally funded projects require yearly progress and final project
 reports. State usually done by the PI and grants administrator as they
@@ -300,7 +300,7 @@ require scientific and administrative progress. Again, data management
 systems should be structured to interact with statistical software and
 reporting to facilitate production of these reports.
 
-### Additional Reports
+### Additional reports
 
 Project-specific reporting is par for the course in any clinical trial,
 and will reflect specific complexities of each design. Complex
@@ -312,7 +312,7 @@ parallel technology (e.g. statistical analysis software).
 
 ## Trial Documents and Data Retention
 
-### Retention of Trial Documents. 
+### Retention of trial documents. 
 
 Source data should be attributable, legible, contemporaneous, original,
 accurate, and complete. Changes to source data should be traceable,
@@ -329,7 +329,7 @@ regulatory requirement(s). See Essential Documents module.
 SEE Data Use Agreements in the Human Subjects and Regulatory module
 (Also, IFAR\_DUA, IFAR\_sensitive\_data\_sharing).
 
-## Special considerations for older subjects
+## Special Considerations for Older Subjects
 
 Section 164.514(a) of the Health Insurance Portability and
 Accountability Act of 1996 (HIPAA) Privacy Rule provides the standard
@@ -345,9 +345,9 @@ category of age 90 or older” (HHS\_hipaa).
 As noted above, the NIA Toolbox is an excellent resource for guidance of
 specific relevance to federal research in aging.
 
-## APPENDIX I
+## Appendix I
 
-### NETWORK RESOURCES
+### Network resources
 
 At IFAR servers and network resources are accessible to approved staff
 only. The list of IFAR preapproved network resources includes:
@@ -365,9 +365,9 @@ materials. Investigators must also follow HSL/IFAR procedures to request
 employee access to network resources (see
 IFAR\_sensitive\_data\_security).
 
-### SYSTEMS AVAILABLE AT IFAR
+### Systems available at IFAR
 
-#### Electronic Data Capture (EDC)
+#### Electronic data capture (EDC)
 
 **Research Electronic Data Capture (REDCap)** is a web application for
 building and managing online surveys and databases via secure web
@@ -413,9 +413,7 @@ programing functions.
 conjunction with other open source infrastructure like MySQL and JBoss
 to retrieve data, and develop reports (Swenson\_2002). The JasperReports
 provides resports and analytics that can be embedded into a web or
-mobile application in a variety of formats and in real-time.
-
-(Jaspersoft).
+mobile application in a variety of formats and in real-time (Jaspersoft).
 
 **Shiny by RStudio** is a web application framework for R that
 transforms analyses into interactive web applications (Shiny). The
@@ -437,3 +435,317 @@ word processor applications and presentation software (Google\_Docs).
 wiki tool. It is used to create, organize, and discuss the contents of
 projects and/or knowledge base of different IFAR centers. The advantage
 of Confluence is that documents are edited in real time.
+
+## References
+@article{Krishnankutty_2012,
+	doi = {10.4103/0253-7613.93842},
+	url = {http://dx.doi.org/10.4103/0253-7613.93842},
+	year = 2012,
+	publisher = {Medknow},
+	volume = {44},
+	number = {2},
+	pages = {168-172},
+	author = {Binny Krishnankutty and BR Naveen Kumar and LathaS Moodahadu and Shantala Bellary},
+	title = {Data management in clinical research: An overview},
+	journal = {Indian Journal of Pharmacology},
+}
+@article{ Gerritsen_1993,
+	doi = {},
+	PMID:{8130557}
+PMCID: {PMC2850658}
+url = { https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850658/pdf/procascamc00002-0670.pdf},
+	year =1993,
+	pages = {659–62},
+	author = {Gerritsen MG, Sartorius OE, vd Veen FM, Meester GT.},
+	title = {Data management in multi-center clinical trials and the role of a nation-wide computer network A 5 year evaluation},
+	journal = {Proc Annu Symp Comput Appl Med Care},
+}
+
+@website{NIH_standars_CR,
+title = {Standards for Clinical Research within the NIH Intramural Research Program},
+organization = {National Intitutes of Health, Clinical Center},
+year = {2009}
+url = {http://www.cc.nih.gov/ccc/clinicalresearch/standards1.html#info}
+}
+
+@website{E6_R2),
+title = {Integrated Addendum to ICH E6(R1): Guideline for Good Clinical Practice E6(R2). Current Step 2 version},
+organization = {International Conference on Harmonisation of Technical Requirements For Registration of Pharmaceuticals for Human Use},
+year = {2015},
+month = {June},
+url = {http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E6/E6_R2__Addendum_Step2.pdf}
+}
+
+@website{ICH_E2A,
+title = {ICH E2A Guidelines – Safety Data Management: Definitions and standards for expedited reporting},
+organization = {International Council of Harmonisation}
+year = {1995},
+month = {June},
+url = {http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500002749.pdf},
+}
+
+@website{NIH_protocol_template,
+title = {Clinical Trials Protocol template – Office of Science Policy},
+organization = {National Intitutes of Health - Office of Science Policy},
+month = {February}
+day = {5}
+year = {2016}
+url = {http://osp.od.nih.gov/sites/default/files/Protocol_Template_05Feb2016_508.pdf}
+}
+
+@website{IFAR_sensitive_data_sharing, 
+title = {Institute for Aging Research Policies and Procedures - Sensitive Data Sharing Policy},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSharing.ashx},
+}
+
+@website{IFAR_sensitive_data_security, 
+title = {Institute for Aging Research Policies and Procedures - Sensitive Data Security Policy},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSecurity.ashx},
+}
+
+@website{IFAR_sensitive_data_retention, 
+title = {Institute for Aging Research Policies and Procedures - Sensitive Data Retention and Destruction Policy},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataRetentionandDestruction.ashx},
+}
+
+@website{IFAR_DUA, 
+title = {Institute for Aging Research Policies and Procedures - Limited Data Sets and Data Use Agreements},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPLimitedDataSetsandDataUseAgreements.ashx},
+}
+
+@website{IFAR_data_encrypt, 
+title = {Institute for Aging Research Policies and Procedures - Data Encryption},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPDataEncryption.ashx},
+}
+
+@website{IFAR_data_ret_destr, 
+title = {Institute for Aging Research Policies and Procedures - Data Retention and Destruction},
+organization = {Institute for Aging Research}
+Location = {Roslindale, MA}
+url = {http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataRetentionandDestruction.ashx},
+}
+
+@Website{ITHS_checklist, 
+title = {Study Start-up checklist},  
+organization = {Institute of Translational Health Sciences},
+address = {Seattle, WA}
+url = {https://www.iths.org/investigators/forms-templates/study-document-templates/},
+grant = {UL1TR000423}
+}
+
+@Website{FDA-study subjects,
+title = {Recruiting Study Subjects – Information Sheet},
+organization = {U.S. Food and Drug Administration. U.S. Department of Health and Human Services},
+address = {},
+url = {http://www.fda.gov/RegulatoryInformation/Guidances/ucm126428.htm}
+}	
+
+@website{NIA-Guide MOP,
+title = {Guidelines for Developing a Manual of Operations and Procedures (MOP), Version 2},
+organization = {National Institute on Aging},
+year = {2011},
+month = {September},
+day = {30},
+url = {http://webcache.googleusercontent.com/search?q=cache:LN9CyBbTsN4J:https://www.nia.nih.gov/sites/default/files/manualofproceduresmopfinal2_0.doc+&cd=1&hl=en&ct=clnk&gl=us}
+}	
+
+@webpage{FDA_CDER_CBER,
+title = {Guidance for Industry E6 Good Clinical Practice: Consolidated Guidance},
+organization = {U.S. Department of Health and Human Services Food and Drug Administration Center for Drug Evaluation and Research (CDER) Center for Biologics Evaluation and Research (CBER)},
+year = {1996},
+month = {April},
+url = {http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf}
+}
+
+@book{Domansky_2009,
+title = {Successful Randomized Trials, A handbook for the 21st Century},
+author = {{Domansky, M and S McKinlay}},
+publisher = {Lippincott Williams & Wilkins},
+address = {Philadelphia, PA},
+year = 2009
+}
+
+@website{CFR21_part11,
+url = {https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11},
+title = {The United States Code of Federal Regulations 21 {CFR}, Part 211},
+}
+
+@website{Health_Catalyst,
+title = {Clinical Data Management: 3 Improvements Startegies},
+url = {https://www.healthcatalyst.com/improve-clinical-data-management-healthcare-reduce-waste?gclid=CLTestHd-ssCFUYehgodqzoO8Q}
+}
+
+@website{Consort,
+title = {Consort transparent Reporting of trials},
+organization = {Consort},
+url = {http://www.consort-statement.org/consort-statement/flow-diagram}
+}
+
+@website{Harvard_Catalyst,
+title = {The Harvard Clinical and Translational Science Center. An Investigators’ Guide to Research Data Management Practices},
+organization = {Harvard Catalyst},
+url = {https://catalyst.harvard.edu/pdf/regulatory/Investigators%20Guide%20to%20RDM%20practice.pdf}
+}
+
+@website{UWA_toolkit,
+title = {Research Data Management Toolkit: Research Lifecycle},
+organization = {The University of Western Australia},
+url = {http://guides.is.uwa.edu.au/content.php?pid=319161&sid=2616069}
+}
+
+@website{nidcr_toolkit,
+title = {Toolkit for Clinical Researchers},
+organization = {National Institute of Dental and Craniofacial Research},
+url = {http://www.nidcr.nih.gov/research/toolkit/}
+}
+
+@website{hipaa_deid
+title = {Health Information privacy:  The De-identification Standard},
+organization = {U.S. Department of Health & Human Services},
+url = {http://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html}
+}
+
+@article{Krishnankutty_2012,
+	doi = {10.4103/0253-7613.93842},
+	url = {http://dx.doi.org/10.4103/0253-7613.93842},
+	year = 2012,
+	publisher = {Medknow},
+	volume = {44},
+	number = {2},
+	pages = {168},
+	author = {Binny Krishnankutty and BR Naveen Kumar and LathaS Moodahadu and Shantala Bellary},
+	title = {Data management in clinical research: An overview},
+	journal = {Indian Journal of Pharmacology}
+
+@website{Clinical_Tools,
+title = {Guidelines for Responsible Data Management in Scientific Research},
+organization = {Clinical Tools Inc}
+Funded = {Office of Research Integrity, US Department of Health and Human Services}
+url = {http://ori.hhs.gov/images/ddblock/data.pdf},
+}
+
+@article{Gallagher_2014,
+	doi = {10.1016/j.urolonc.2012.11.019},
+	url = {http://dx.doi.org/10.1016/j.urolonc.2012.11.019},
+	year = 2014,
+	month = {jan},
+	publisher = {Elsevier {BV}},
+	volume = {32},
+	number = {1},
+	pages = {32.e1--32.e9},
+	author = {Sarah A. Gallagher and Angela B. Smith and Jonathan E. Matthews and Clarence W. Potter and Michael E. Woods and Mathew Raynor and Eric M. Wallen and W. Kimryn Rathmell and Young E. Whang and William Y. Kim and Paul A. Godley and Ronald C. Chen and Andrew Wang and Chaochen You and Daniel A. Barocas and Raj S. Pruthi and Matthew E. Nielsen and Matthew I. Milowsky},
+	title = {Roadmap for the development of the University of North Carolina at Chapel Hill Genitourinary {OncoLogy} Database{\textemdash}{UNC} {GOLD}},
+	journal = {Urologic Oncology: Seminars and Original Investigations}
+}
+
+@website{HHS_hipaa, 
+tittle = {Health Information privacy:  The De-identification Standard}, 
+organization = {U.S. Department of Health & Human Services}, 
+url = {http://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html}, 
+}
+
+@website{Catalyst, 
+title = {Harvard Catalyst Regulatory Atlas}
+organization = {The Harvard Clinical and Translational Science Center},
+url = {http://connects.catalyst.harvard.edu/regulatoryatlas/?mode=c&id=51}
+}
+
+@website{BCH_RPG, 
+title = {Research Practive Guidelines}
+organization = {Boston Children's Hospital},
+url = {http://www.childrenshospital.org/research-and-innovation/research/clinical/clinical-research-center/research-practice-guidelines}
+}
+
+@website{BCH_RPG-05, 
+title = {Guideline for Developing a Manual of Operations (MOO)-RPG-05}
+organization = {Boston Children's Hospital},
+url = {http://www.childrenshospital.org/~/media/research-and-innovation/clinical-research-center/rpg_03_final-12115/rpg052014.ashx?la=en}
+}
+
+@website{BCH_RPG-07, 
+title = {Guidelines for Research Data Collection-RPG-07}
+organization = {Boston Children's Hospital},
+url = {http://www.childrenshospital.org/~/media/research-and-innovation/clinical-research-center/rpg0711-14-14final.ashx?la=en}
+}
+
+@website{NIA_NIH_toolbox, 
+title = {Clinical Research Study Investigator's Toolbox}
+organization = {National Institute on Aging},
+url = {https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup}
+}
+
+@website{OpenClinica, 
+title = {Fundamentals Aspects of Electronic Data Capture}
+organization = {Open Clinica},
+url = {https://www.openclinica.com/electronic_data_capture/}
+}
+
+@website{REDCap, 
+title = {REDCap}
+organization = {REDCap },
+url = {https://projectredcap.org}
+}
+
+@website{Stata, 
+title = {Stata}
+organization = {Stata},
+url = {http://www.stata.com/) 
+}
+
+@website{iu_kb, 
+title = {Indiana University Knowledge base}
+organization = {Indiana University},
+url = {https://kb.iu.edu/d/afly}
+}
+
+@website{sas, 
+title = {SAS the Power to Know, Introduction to the SASA System}
+organization = {SAS},
+url = {http://support.sas.com/documentation/cdl/en/basess/58133/HTML/default/viewer.htm#a002645411.htm}
+}
+
+@website{R, 
+title = {What is R}
+organization = {R},
+url = {https://www.r-project.org/about.html}
+}
+
+@article{Swenson_2002, 
+url = {http://www.javaworld.com/article/2074594/java-security/reports-made-easy-with-jasperreports.html},
+title = {Reports made easy with JasperReports, The open source JasperReports uses XML templates for your reporting needs}
+publisher = {JavaWorld},
+}
+
+@website{Jaspersoft, 
+title = {JasperReports ® Server}
+organization = {Jaspersoft Community},
+url = {http://community.jaspersoft.com/project/jasperreports-server}
+}
+
+@website{Shiny, 
+title = {Shiny by RStudio}
+organization = {Rstudio},
+url = {http://shiny.rstudio.com/}
+}
+
+@website{Google_Docs, 
+title = {Google Docs}
+organization = {WhatIs.com},
+url = {http://whatis.techtarget.com/definition/Google-Docs}
+}
+
+@website{Confluence, 
+title = {Confluence}
+organization = {Atlassian Confluence},
+url = { https://www.atlassian.com/software/confluence}
+}
