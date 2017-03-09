@@ -18,8 +18,8 @@ module will focus on two aspects of dissemination particularly relevant
 to Clinical Trials: 1. Data sharing and 2. Publication in scientific
 journals
 
-Regardless of the scope, researchers are encouraged to *develop a
-dissemination plan early in the course of all trials.* Trials that are
+Regardless of the scope, researchers are encouraged to **develop a
+dissemination plan early in the course of all trials.** Trials that are
 closer to later phases of research translation (i.e., implementation)
 and those supported by certain agencies (e.g., Patient-Centered Outcomes
 Research Institute (PCORI)) may require more robust dissemination plans
@@ -30,17 +30,14 @@ Resources for dissemination planning beyond journal publication:
 
 -   Agency for Healthcare Research and Quality
     <http://www.ahrq.gov/professionals/quality-patient-safety/patient-safety-resources/resources/advances-in-patient-safety/vol4/planningtool.html>
-
 -   Communications Handbook for Clinical Trials, Chapter 6, Preparing
     for and Disseminating Study Results,
     <http://www.fhi360.org/sites/default/files/media/documents/CommhandbkChapterSix.pdf>
-
 -   Community Alliance for Research and Engagement, Beyond a Scientific
     Publication: Strategies for Disseminating Research Findings,”
     <https://ctsacorus.org/resources/252/download/CARE_Dissemination_Strategies_FINAL_eversion_2.pdf>
-
 -   Wilson, P.M., M. Petticrew, M.W. Calnan, and I, Nazareth (2010) Disseminating research findings: What should researchers do? A
-    systematic scoping review of conceptual frameworks. [*Implementation Science*, 5:91](<http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/>).
+    systematic scoping review of conceptual frameworks. [*Implementation Science*, 5:91](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/).
 
 ## Data Sharing
 ### What
@@ -49,9 +46,9 @@ public and investigator access to clinical trial data. The extent of
 data sharing can range from sharing aggregated data describing subject
 characteristics and outcomes, to providing de-identified patient-level
 data. Data sharing requirements depend on evolving policies of funding
-agencies (i.e., NIH) and other regulators. *Researchers are strongly
+agencies (i.e., NIH) and other regulators. **Researchers are strongly
 encouraged to consult the most up-to-date requirements as early as
-possible in planning of their clinical trial (see section 2.3 below).*
+possible in planning of their clinical trial** (see How below).
 
 ### Why
 The intent of data sharing is to maximize the transparency and benefits
@@ -73,17 +70,14 @@ When done appropriately, data sharing:
 
 In September 2016 the Department of Health and Human Services (HHS)
 issued a new regulation and the NIH has issued a new policy to increase
-the availability of information about clinical trials.  The HHS [Final
-Rule](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission)
+the availability of information about clinical trials.  The HHS [Final Rule](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission)
 describes requirements for registering and submitting summary results
 information for certain clinical trials to
 [ClinicalTrials.gov](file:///C:\Users\elainebergman\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\SJPDZYVY\ClinicalTrials.gov). 
-A complimentary [NIH
-policy](https://www.federalregister.gov/documents/2016/09/21/2016-22379/dissemination-of-nih-funded-clinical-trial-information)
+A complimentary [NIH policy](https://www.federalregister.gov/documents/2016/09/21/2016-22379/dissemination-of-nih-funded-clinical-trial-information)
 that applies to all clinical trials funded by NIH, regardless of whether
 they are subject to the Final Rule was also published today. The Final
-NIH Policy was also published in the [NIH Guide for Grants and
-Contracts](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
+NIH Policy was also published in the [NIH Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
 
 NIH has made available the following resources to help explain these
 changes. 
