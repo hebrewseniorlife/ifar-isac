@@ -6,7 +6,7 @@ that involves consideration of target audiences and the settings in
 which research findings are to be received and, where appropriate,
 communicating and interacting with wider policy and health service
 audiences in ways that will facilitate research uptake in decision-
-making processes and practice”*. (Wilson *et al.* 2010, 5:91).
+making processes and practice”* (Wilson *et al.* 2010, 5:91).
 
 Traditionally, research dissemination centers on the publication of
 results in peer reviewed journals and academic conference presentations.
@@ -16,7 +16,7 @@ decision-makers and stakeholders in a way that encourages them to factor
 the research implications into their work and clinical practice. This
 module will focus on two aspects of dissemination particularly relevant
 to Clinical Trials: 1. Data sharing and 2. Publication in scientific
-journals
+journals.
 
 Regardless of the scope, researchers are encouraged to **develop a
 dissemination plan early in the course of all trials.** Trials that are
@@ -35,7 +35,7 @@ Resources for dissemination planning beyond journal publication:
     <http://www.fhi360.org/sites/default/files/media/documents/CommhandbkChapterSix.pdf>
 -   Community Alliance for Research and Engagement, Beyond a Scientific
     Publication: Strategies for Disseminating Research Findings,”
-    <https://ctsacorus.org/resources/252/download/CARE_Dissemination_Strategies_FINAL_eversion_2.pdf>
+    <https://ictr.wisc.edu/wp-content/uploads/2016/10/CAREStrategiesForDisseminating.pdf>
 -   Wilson, P.M., M. Petticrew, M.W. Calnan, and I, Nazareth (2010) Disseminating research findings: What should researchers do? A
     systematic scoping review of conceptual frameworks. [*Implementation Science*, 5:91](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/).
 
@@ -72,21 +72,20 @@ In September 2016 the Department of Health and Human Services (HHS)
 issued a new regulation and the NIH has issued a new policy to increase
 the availability of information about clinical trials.  The HHS [Final Rule](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission)
 describes requirements for registering and submitting summary results
-information for certain clinical trials to
-[ClinicalTrials.gov](file:///C:\Users\elainebergman\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\SJPDZYVY\ClinicalTrials.gov). 
+information for certain clinical trials to [ClinicalTrials.gov](https://clinicaltrials.gov/). 
 A complimentary [NIH policy](https://www.federalregister.gov/documents/2016/09/21/2016-22379/dissemination-of-nih-funded-clinical-trial-information)
 that applies to all clinical trials funded by NIH, regardless of whether
-they are subject to the Final Rule was also published today. The Final
+they are subject to the Final Rule was also published on September 2016. The Final
 NIH Policy was also published in the [NIH Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
 
 NIH has made available the following resources to help explain these
 changes. 
 
 -   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
--   [A table of the key elements of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   [Summary table of HHS/NIH initiatives to enhance availability of Clinical tial information](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
 -   [A summary table of changes from current practice described in the Final Rule](https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
 
-#### Methods for Data Sharing
+#### Methods for data sharing
 
 There are numerous approaches to data sharing, each of which has
 different levels of privacy protection and mechanisms for sharing.
@@ -105,15 +104,17 @@ IFAR has created several sensitive data policies (including data access,
 encryption, sharing, security, suppression, retention and destruction,
 etc.) please see these policies on the [HSL HUB policy and forms](http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms).
 
-#### Human Subjects and Privacy Issues
+#### Human subjects and privacy issues
 
 All data sharing activities must be compliant with HIPAA, local, state
 and organizational regulations. All compliances and restrictions should
 be addressed in the data sharing plan section of the funding
 application. There are two basic approaches to protecting sensitive
 data: restricting information in the shared dataset, and restricting
-access to the data. See [NIH data sharing guidance](<http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods>)
+access to the data. See NIH [data sharing guidance](<https://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#methods)
 for details.
+
+**Restricting Information in the Dataset**
 
 The plan for data sharing may include stripping a dataset of all
 potential participant identifiers. Depending on the data and study
@@ -122,6 +123,8 @@ the database varies. Studies involving participants with unusual
 characteristics (Samples drawn from small geographic areas, rare
 populations, and linked datasets) will likely involve a greater degree
 of anonymizing to ensure the privacy of study participants.
+
+**Restricting Access to the Dataset**
 
 Data archives and enclaves can be set up to restrict access at any
 level. Data Use Agreements restrict the use of data to those
@@ -145,13 +148,13 @@ NONE
 
 External
 
--   NIH data sharing policy and resource page NIH Guide for Grants and Contracts, (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
--   A summary of the Final Rule and NIH policy, (https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
+-   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
 -   A table of the key elements of the Final Rule and NIH policy, (https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
 -   A summary table of changes from current practice described in the Final Rule, (https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
 -   Clinicaltrials.gov, (https://clinicaltrials.gov/)
+-   NIH Policy on the dissemination of NIH funded clinical trial information, (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
 
-Internal: Hebrew Senior Life
+Internal
 
 -   HSL IFAR Data Policies, (http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms)
 -   HSL IRB Policies and Procedures, (http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP)
@@ -169,10 +172,10 @@ Larger trials should have a *Publications Steering Committee* whose
 members are usually the lead investigators and establish written
 guidelines for vetting papers emanating from the trial. This procedure
 for planning, reviewing and approving all scientific publications
-(papers and abstracts) prior to submission to ensure they are accurate
+(papers and abstracts) prior to submission is to ensure they are accurate
 (i.e., align with protocol), not duplicative, and respect ICMJE
-authorship guidelines. Certain funding agencies and industry sponsors
-trials may have very specific requirements regarding their own review
+authorship guidelines. Certain funding agencies and industry trial sponsors
+may have very specific requirements regarding their own review
 and approval of manuscripts prior to submission.
 
 Section III of the [ACRIN publication policy](https://www.acrin.org/RESEARCHERS/POLICIES/PUBLICATIONSPOLICY/PUBLICATIONSPOLICYDOCUMENT.aspx)
@@ -181,8 +184,8 @@ publication committees.
 
 ### Specific reporting guidelines for clinical trials
 
-Clinical trials reporting has specific standard guidelines that differ
-by the type of trial design and which are continually being updated. For
+There are specific reporting guidelines for clinical trials that differ
+by the trial type which are continually being updated. For
 example, there are set standards for the flow diagrams presenting
 subject participation in a clinical trial that differ between
 traditional parallel design randomized trials, non-inferiority trials,
@@ -190,9 +193,9 @@ cluster randomized trials, stepped wedge designs etc. Journals generally
 follow the guidelines described in the Consolidated
 Standards of Reporting Trials ([**CONSORT**](http://www.consort-statement.org/)) statement].
 
-The Enhancing the QUAlity and Transparency Of health Research [(EQUATOR](http://www.equator-network.org/)
-is also a very useful comprehensible searchable website with up-to-date
-links the CONSORT statements and extensions.
+The Enhancing the QUAlity and Transparency Of health Research network [(EQUATOR](http://www.equator-network.org/)
+is a very useful comprehensible searchable website with up-to-date
+links to the CONSORT statements and extensions.
 
 ### Publication of the trial protocol 
 #### What
@@ -216,11 +219,11 @@ journals generally only consider publishing protocol papers for studies
 that have received ethics approval but have not yet concluded patient
 recruitment.
 
-#### Selecting a Journal
+##### Selecting a journal
 Examples of journals that publish protocol papers include: Clinical
 Trials: Journal of the Society of Clinical Trials, Contemporary Clinical
 Trials, International Journal of Clinical Trials, Journal of Clinical
-Trials, BMJ, and Trials. Some of these journal allow authors to pay for
+Trials, BMJ, and Trials. Some of these journals allow authors to pay for
 publication of their protocol paper (e.g., Journal of Clinical Trials)
 and others have the option of paying for open access should the paper be
 accepted.
@@ -233,23 +236,20 @@ preparation which should be carefully consulted and adhered to.
 
 ### Publication of the results of a clinical trial
 #### Timing
-The [WHO Statement on Public Disclosure of Clinical Trial
-Results](http://www.who.int/ictrp/results/reporting/en/) states, at a minimum,
-main findings of clinical trials, positive or negative, are to be
+The [WHO](http://www.who.int/ictrp/results/reporting/en/) 
+statement on Public Disclosure of Clinical Trial Results states, 
+at a minimum,main findings of clinical trials, positive or negative, are to be
 submitted for publication in a peer reviewed journal within 12 months of
 study completion and are to be published through an open access
 mechanism unless there is a specific reason why open access cannot be
 used, or otherwise made available publicly at most within 24 months of
 study completion.
 
-#### Trial Registration Identification
-As per the [ICMJE
-guidelines](http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html),
-top-tier journals require that your trial be registered on
-[ClinicalTrials.gov](https://clinicaltrials.gov/)
-(<https://clinicaltrials.gov/>) (or equivalent such as [WHO
-International Clinical Trials Registry Platform
-(ICTRP)](http://www.who.int/ictrp/network/primary/en/index.html)) prior
+#### Trial registration identification
+As per the [ICMJE guidelines](http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html),
+top-tier journals require that your trial be registered on [ClinicalTrials.gov](https://clinicaltrials.gov/)
+(or equivalent such as WHO International Clinical Trials Registry Platform 
+[(ICTRP)](http://www.who.int/ictrp/network/primary/en/index.html)) prior
 to the enrollment of the first subject, otherwise the paper will be
 rejected without review. The trial registration number must be included
 in your manuscript and usually appears at the end of the abstract.
@@ -274,21 +274,16 @@ avoided.*
 Following publication of the main paper, non-iterative auxiliary papers
 that leverage the rich clinical trials data may be considered.
 
-#### Manuscript Preparation
+#### Manuscript preparation
 All manuscripts should adhere to the guidelines provided in each
-journals’ Instructions for Authors which generally follow [ICMJE
-guidelines](http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html)
-(<http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html>)
+journals’ Instructions for Authors which generally follow [ICMJE guidelines](http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html).
 
 Most journals which have a specific reporting criteria for clinical
 trials results manuscripts which generally follow the [CONSORT
-statement](http://www.consort-statement.org/)
-(<http://www.consort-statement.org/>). CONSORT provides an extremely
-useful
-[checklist](http://www.consort-statement.org/checklists/view/32-consort/66-title)
-(<http://www.consort-statement.org/checklists/view/32-consort/66-title>)
+statement](http://www.consort-statement.org/). CONSORT provides an extremely
+useful [checklist](http://www.consort-statement.org/checklists/view/32-consort/66-title)
 to help guide presentation of every element of a clinical trial
-manuscript and is a ***highly recommended resource.***
+manuscript and is a **highly recommended resource.**
 
 #### Adjunct material
 Most top tier journals will request a copy of the trial protocol with
@@ -300,7 +295,7 @@ submitted manuscript to ensure they align.
 ### Special considerations for older subjects 
 NONE
 
-### Common Pitfalls
+### Common pitfalls
 -   Failure to develop a publication plan and committee early in the
     course of the trial.
 -   Failure to register the trial on ClinicalTrials.gov prior to
