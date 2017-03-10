@@ -209,7 +209,7 @@ research with elderly subjects: cognitive impairment and
 institutionalization. Under those conditions, a number of issues must be
 taken into consideration. See [OHRPs related guidance](http://archive.hhs.gov/ohrp/irb/irb_chapter6.htm) and [HSL IRB’s
 Standard Operating Procedures (SOPs)](http://thehslhub/~/media/HSLNet/Docs/IFAR/IRB/IRB_SOP.ashx). See
-also [Informed Consent](#Informed-Consent-1) related to the decision making capacity.
+also [Informed Consent](https://ifar-isac.github.io/book/human-subject-protection-and-research-regulation.html#informed-consent) related to the decision making capacity.
 
 ### Common Pitfalls
 
@@ -266,8 +266,7 @@ have access to medical information necessary to conduct vital research.
 
 The [Privacy Rule](http://www.hhs.gov/hipaa/for-professionals/privacy/) builds upon the
 protections provided to human subjects in the [Common Rule (45 CFR Part
-46, Subpart A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the Food and Drug Administration’s 
-(FDA) human subject protection regulations [(21 CFR Parts 50 and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects). There are three main areas for researchers to consider.
+46, Subpart A)](http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/), and/or the Food and Drug Administration’s (FDA) human subject protection regulations [(21 CFR Parts 50 and 56)](http://osp.od.nih.gov/office-clinical-research-and-bioethics-policy/clinical-research-policy/research-involving-human-subjects). There are three main areas for researchers to consider.
 
 #### Screening patients for recruitment 
 
@@ -323,7 +322,7 @@ NONE
 -   HHS Summary of the HIPAA Privacy Rule, <http://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html>
 -   HHS Protecting Person Health Information in Research: Understanding HIPAA Privacy Rule, <https://privacyruleandresearch.nih.gov/pdf/HIPAA_Privacy_Rule_Booklet.pdf>
 -   HHS NIH, HIPAA Authorization for Research, <https://privacyruleandresearch.nih.gov/authorization.asp>.
--   Common Rule (45 CFR Part 46, Subpart A), (http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/)
+-   Common Rule (45 CFR Part 46, Subpart A), <http://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/>
 
 Internal
 
@@ -499,8 +498,7 @@ NONE
 
 -   ClinicalTrials.gov,
     <https://grants.nih.gov/ClinicalTrials_fdaaa/docs/registration_flow_chart.pdf>
--   World Health Organization, 
-    <http://www.who.int/about/en/>
+-   World Health Organization (WHO), <http://www.who.int/about/en/>
 
 ## Data Safety Monitoring
 ### What
@@ -592,7 +590,7 @@ of the membership and operating procedures.
 #### Create DSMB Charter
 Before the trial begins a DSMB charter must be prepared that details the
 roles and responsibilities of the DSMB. The charter is usually drafted
-by the PO and subject to approval by PIs and DSMB members (see [DSMB/DSAC Charter](#DSMB/DSAC-Charter-1)
+by the PO and subject to approval by PIs and DSMB members (see [DSMB/DSAC Charter](https://ifar-isac.github.io/book/essential-documentations.html#dsmbdsac-charter)
 in the Essential Documents Module that details the contents of the DSMB
 Charter). The DSMB Charter should be maintained in the Essential
 Documents binder.
@@ -600,7 +598,7 @@ Documents binder.
 #### Create DSMB Report Templates and Meeting Documentation
 The next step is for the research team to work with the DSMB members to
 create templates for the Open and Closed Sessions of the DSMB meetings.
-Templates for these reports are described in the [Data Safety and Monitoring Documents](#Data Safety and Monitoring Documents) 
+Templates for these reports are described in the [Data Safety and Monitoring Documents](https://ifar-isac.github.io/book/essential-documentations.html#data-safety-and-monitoring-documents) 
 section of the Essential Documentations Module. Finally, a system to maintain
 agendas and minutes from the DSMB meetings should be established. All
 DSMB reports, agendas and minutes must be maintained in the Essential

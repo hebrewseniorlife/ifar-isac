@@ -28,16 +28,10 @@ and meeting presentations.
 
 Resources for dissemination planning beyond journal publication:
 
--   Agency for Healthcare Research and Quality
-    <http://www.ahrq.gov/professionals/quality-patient-safety/patient-safety-resources/resources/advances-in-patient-safety/vol4/planningtool.html>
--   Communications Handbook for Clinical Trials, Chapter 6, Preparing
-    for and Disseminating Study Results,
-    <http://www.fhi360.org/sites/default/files/media/documents/CommhandbkChapterSix.pdf>
--   Community Alliance for Research and Engagement, Beyond a Scientific
-    Publication: Strategies for Disseminating Research Findings,”
-    <https://ictr.wisc.edu/wp-content/uploads/2016/10/CAREStrategiesForDisseminating.pdf>
--   Wilson, P.M., M. Petticrew, M.W. Calnan, and I, Nazareth (2010) Disseminating research findings: What should researchers do? A
-    systematic scoping review of conceptual frameworks. [*Implementation Science*, 5:91](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/).
+-   Agency for Healthcare Research and Quality,     <http://www.ahrq.gov/professionals/quality-patient-safety/patient-safety-resources/resources/advances-in-patient-safety/vol4/planningtool.html>
+-   Communications Handbook for Clinical Trials, Chapter 6, Preparing for and Disseminating Study Results, <http://www.fhi360.org/sites/default/files/media/documents/CommhandbkChapterSix.pdf>
+-   Community Alliance for Research and Engagement, Beyond a Scientific Publication: Strategies for Disseminating Research Findings,  <https://ictr.wisc.edu/wp-content/uploads/2016/10/CAREStrategiesForDisseminating.pdf>
+-   Wilson, P.M., M. Petticrew, M.W. Calnan, and I, Nazareth (2010) Disseminating research findings: What should researchers do? A systematic scoping review of conceptual frameworks, [*Implementation Science*, 5:91](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/).
 
 ## Data Sharing
 ### What
@@ -70,16 +64,16 @@ When done appropriately, data sharing:
 
 In September 2016 the Department of Health and Human Services (HHS)
 issued a new regulation and the NIH has issued a new policy to increase
-the availability of information about clinical trials.  The HHS [Final Rule](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission)
+the availability of information about clinical trials. The HHS [Final Rule](https://www.federalregister.gov/documents/2016/09/21/2016-22129/clinical-trials-registration-and-results-information-submission)
 describes requirements for registering and submitting summary results
-information for certain clinical trials to [ClinicalTrials.gov](https://clinicaltrials.gov/). 
+information for certain clinical trials to [ClinicalTrials.gov](https://clinicaltrials.gov/).
 A complimentary [NIH policy](https://www.federalregister.gov/documents/2016/09/21/2016-22379/dissemination-of-nih-funded-clinical-trial-information)
 that applies to all clinical trials funded by NIH, regardless of whether
 they are subject to the Final Rule was also published on September 2016. The Final
 NIH Policy was also published in the [NIH Guide for Grants and Contracts](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
 
 NIH has made available the following resources to help explain these
-changes. 
+changes.
 
 -   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
 -   [Summary table of HHS/NIH initiatives to enhance availability of Clinical tial information](https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
@@ -148,16 +142,16 @@ NONE
 
 External
 
--   [A summary of the Final Rule and NIH policy](https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
--   A table of the key elements of the Final Rule and NIH policy, (https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information)
--   A summary table of changes from current practice described in the Final Rule, (https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf)
--   Clinicaltrials.gov, (https://clinicaltrials.gov/)
--   NIH Policy on the dissemination of NIH funded clinical trial information, (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html).
+-   A summary of the Final Rule and NIH policy, <https://www.nih.gov/news-events/summary-hhs-nih-initiatives-enhance-availability-clinical-trial-information>
+-   A table of the key elements of the Final Rule and NIH policy, <https://www.nih.gov/news-events/summary-table-hhs-nih-initiatives-enhance-availability-clinical-trial-information>
+-   A summary table of changes from current practice described in the Final Rule, <https://prsinfo.clinicaltrials.gov/FinalRuleChanges-16Sept2016.pdf>
+-   Clinicaltrials.gov, <https://clinicaltrials.gov/>
+-   NIH Policy on the dissemination of NIH funded clinical trial information, <http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-149.html>
 
 Internal
 
--   HSL IFAR Data Policies, (http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms)
--   HSL IRB Policies and Procedures, (http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP)
+-   HSL IFAR Data Policies, <http://thehslhub/Departments/Roslindale/HSL-IFAR/Administration/Policies-and-Forms>
+-   HSL IRB Policies and Procedures, <http://thehslhub/Forms/Documents-and-Forms/IFAR/IFAR-IRB-SOP>
 
 ## Scientific Publications and Presentations
 
@@ -168,7 +162,7 @@ early on in the study to maximize the productivity from the trial and
 avoid iterative papers. In planning, it is useful to outline the topic
 of paper, target journal and responsible first author.
 
-Larger trials should have a *Publications Steering Committee* whose
+Larger trials should have a **Publications Steering Committee** whose
 members are usually the lead investigators and establish written
 guidelines for vetting papers emanating from the trial. This procedure
 for planning, reviewing and approving all scientific publications
@@ -178,7 +172,7 @@ authorship guidelines. Certain funding agencies and industry trial sponsors
 may have very specific requirements regarding their own review
 and approval of manuscripts prior to submission.
 
-Section III of the [ACRIN publication policy](https://www.acrin.org/RESEARCHERS/POLICIES/PUBLICATIONSPOLICY/PUBLICATIONSPOLICYDOCUMENT.aspx)
+Section III of the [ACRIN publication policy](#https://www.acrin.org/RESEARCHERS/POLICIES/PUBLICATIONSPOLICY/PUBLICATIONSPOLICYDOCUMENT.aspx)
 provides details related to the roles and responsibilities of
 publication committees.
 
@@ -191,9 +185,9 @@ subject participation in a clinical trial that differ between
 traditional parallel design randomized trials, non-inferiority trials,
 cluster randomized trials, stepped wedge designs etc. Journals generally
 follow the guidelines described in the Consolidated
-Standards of Reporting Trials ([**CONSORT**](http://www.consort-statement.org/)) statement].
+Standards of Reporting Trials ([CONSORT](http://www.consort-statement.org/)) statement].
 
-The Enhancing the QUAlity and Transparency Of health Research network [(EQUATOR](http://www.equator-network.org/)
+Enhancing the QUAlity and Transparency Of health Research Network [(EQUATOR](http://www.equator-network.org/)
 is a very useful comprehensible searchable website with up-to-date
 links to the CONSORT statements and extensions.
 
@@ -261,15 +255,15 @@ results are limited to a brief (500 word) structured abstract or tables
 (to include patients enrolled, key outcomes, and adverse events).
 
 #### Packaging results
-Investigators are cautioned to carefully plan the paper (s) emanating
+Investigators are cautioned to carefully plan the paper(s) emanating
 from a single trial to avoid iterative publications, ensure the main
 trial results are not usurped by early papers, and to adhere with the
 pre-specified analyses set forth in the trial protocol and as described
 on ClinicalTrials.gov. One should reserve the main paper to include the
-pre-specified primary and secondary outcomes. *“Outcome switching”
+pre-specified primary and secondary outcomes. *“Outcome switching”*
 (i.e., changing the outcomes reported in results paper with those
 pre-specified in the protocol and on ClinicalTrials.gov) must be
-avoided.*
+avoided.
 
 Following publication of the main paper, non-iterative auxiliary papers
 that leverage the rich clinical trials data may be considered.
@@ -320,12 +314,12 @@ NONE
     research Published, Current Medical Research & Opinion Vol 26, No 8,
     2010 1967-1982.
     <http://www.ismpp.org/assets/docs/Certification/StudyMaterials/patel%20m%202010.pdf>
--   CONSORT (Consolidated Standards of Reporting Trials) statement
+-   CONSORT (Consolidated Standards of Reporting Trials) statement,
     <http://www.consort-statement.org/>
--   Equator Network Essential resources for writing and publishing
+-   EQUATOR Network Essential resources for writing and publishing
     health research, <http://www.equator-network.org/>
 -   General ICMJE guidelines for preparing manuscripts for publication
-    in scientific journals
+    in scientific journals,
     <http://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html>
--   WHO statement on timing of clinical trials results
+-   WHO statement on timing of clinical trials results,
     <http://www.who.int/ictrp/results/reporting/en/>

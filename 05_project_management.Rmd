@@ -83,8 +83,8 @@ documentation presented by Phase*
 
 ## Management and maintenance of human subject protections and other regualtory interactions.
 
-See [Essential Documentations](#Essential Documentations) and 
-[Human Subject Protection and Research Regulation](#Human Subject Protection and Research Regulation) 
+See [Essential Documentations](https://ifar-isac.github.io/book/essential-documentations.html) and 
+[Human Subject Protection and Research Regulation](https://ifar-isac.github.io/book/human-subject-protection-and-research-regulation.html)
 Modules. 
 
 ## Management of trials activities during pretrial and execution
@@ -342,7 +342,6 @@ Clinical Trial*
 |  |  |Ensure return or destruction of all study related materials (i.e., unused lab kits and CRFs)|
 
 
-
 The appropriate level of site management and oversight empowers sites to
 effectively recruit, treat, and retain subjects, while ensures
 regulatory compliance, protocol adherence, the protection of subjects’
@@ -395,10 +394,11 @@ sponsor’s specifications. Among the recommended items to include are:
     - Retention of Trial Documents
     - Data Use Agreements (DUA)
 
-For details see the [Data Management Module](#Data Management). Also IFAR’s [Sensitive Data Security Policy](IFAR\_sensitive\_data\_security) and [Boston Children’s Hospital Guideline](BCH\_RPG-05) for Developing a Manual of
+For details see the [Data Management Module](https://ifar-isac.github.io/book/data-management.html). Also IFAR’s [Sensitive Data Security Policy](http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSecurity.ashx) and [Boston Children’s Hospital Guideline](http://www.childrenshospital.org/~/media/research-and-innovation/clinical-research-center/rpg_03_final-12115/rpg052014.ashx?la=en) for Developing a Manual of
 Operations.
 
 ## Special considerations for older subjects
+
 None
 
 ## Common Pitfalls

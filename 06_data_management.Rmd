@@ -6,7 +6,7 @@
 
 Clinical Data Management (CDM) is the collection, cleaning, and
 management of subject data in compliance with regulatory standards
-(Krishnankutty\_2012). It is a critical component of clinical research.
+[(Krishnankutty\_2012)](http://dx.doi.org/10.4103/0253-7613.93842)). It is a critical component of clinical research.
 
 ### Why
 
@@ -30,7 +30,7 @@ the “human subject protection and reliability of trial results”… To
 warrant the quality of management “the methods selected to assure and
 control the quality of the trial need to be proportionate to the risks
 inherent in the trial and the importance of the information collected”
-(E6\_R2: 5).
+[(E6\_R2: 5)](http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E6/E6_R2__Addendum_Step2.pdf).
 
 The NIH Intramural Research Program Guidelines section on Clinical
 Informatics, Data Management, and Protocol Tracking rationale and
@@ -94,12 +94,12 @@ includes data management, and who have appropriate professional training
 and credentials in data science broadly defined. IFAR encourages all
 investigators and managers to author a MOO or SOP in order to document
 the project operations including the data management activities
-(IFAR\_sensitive\_data\_security). As noted above, the NIA toolbox
-provides general guidance and specific requirements for clinical trials
-conducted in the field of aging. Harvard Catalyst has a detailed
-planning checklist that can assist researchers describe the data for
-protection, IRB submission, and regulatory compliance
-(Harvard\_Catalyst: 5).
+[(IFAR\_sensitive\_data\_security)](http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSecurity.ashx). 
+As noted above, the NIA toolbox provides general guidance and specific 
+requirements for clinical trials conducted in the field of aging. Harvard 
+Catalyst has a detailed planning checklist that can assist researchers 
+describe the data for protection, IRB submission, and regulatory compliance
+[(Harvard\_Catalyst: 5)](https://catalyst.harvard.edu/pdf/regulatory/Investigators%20Guide%20to%20RDM%20practice.pdf).
 
 Extensive and diverse guidance and examples in other fields are also
 available online. Some well-executed examples are featured the National
@@ -120,7 +120,7 @@ ICH guideline E6(R2) recommends that the informatics environment allows
 for both data changes (edits) and detailed trail of audits, data, and
 editorial information. It also recommends maintaining an SOP for using
 these systems and a security system that prevents unauthorized access to
-the data (E6\_R2: 5.5).
+the data [(E6\_R2: 5.5)](http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E6/E6_R2__Addendum_Step2.pdf).
 
 When describing the data collection system in applications or protocols,
 data management personnel should define:
@@ -143,7 +143,7 @@ data management personnel should define:
 
 ##### EDC/CDM systems available at IFAR 
 
-[See Appendix I](#systems-available-at-ifar)
+[See Appendix I](https://ifar-isac.github.io/book/data-management.html#appendix-i)
 
 #### Data entry procedures
 
@@ -165,7 +165,7 @@ Procedures for maintenance of data security – incorporating both
 prevention of deletion and prevention of theft – should follow and
 expand upon the Data Safety Monitoring Plan (DSMP) of the study
 protocol. Details on protocol development are provided in the [Essential
-Documentations Module](#Essential Documentations).
+Documentations Module](https://ifar-isac.github.io/book/essential-documentations.html).
 
 These procedures should delineate pertinent risks as well as the plan
 for prevention of theft or loss, including identification of the
@@ -221,7 +221,7 @@ that only eligible participants are enrolled.
 The EDC should facilitate assignment of participants to treatments and
 control regimes in a transparent and error-free manner, while
 facilitating maintenance of blinding of study personnel as appropriate.
-See [Experimental Design and Statistical Considerations](#Experimental Design and Statistical Considerations) Module.
+See [Experimental Design and Statistical Considerations](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html) Module.
 
 ### Cessation of intervention
 
@@ -265,10 +265,11 @@ are:
 
 Safety reports should comply with the applicable regulatory
 requirement(s) and with the ICH Guidance for Clinical Safety Data
-Management (FDA\_CDER\_CBER: 5.17.2). The parties that must receive the
-safety reports include all concerned investigator(s)/institutions(s),
-the IRB(s)/IEC(s) where required, and regulatory authorities. See Human
-Subjects and Essential Documents modules for detail.
+Management [(FDA\_CDER\_CBER: 5.17.2)](http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf). 
+The parties that must receive the safety reports include all concerned 
+investigator(s)/institutions(s), the IRB(s)/IEC(s) where required, and 
+regulatory authorities. See Human Subjects and Essential Documents modules 
+for detail.
 
 #### Adverse Events and Serious Adverse Events. 
 
@@ -319,15 +320,17 @@ accurate, and complete. Changes to source data should be traceable,
 should not obscure the original entry and should be explained if
 necessary (e.g., via an audit trail).
 
-The ICH E6 guidance (FDA\_CDER\_CBER) recommends that trial documents be
-kept by the investigator/institution as specified in Essential Documents
-for the Conduct of a Clinical Trial and as required by the applicable
-regulatory requirement(s). See Essential Documents module.
+The ICH E6 guidance [(FDA\_CDER\_CBER)](http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf) 
+recommends that trial documents be kept by the investigator/institution as 
+specified in Essential Documents for the Conduct of a Clinical Trial and 
+as required by the applicable regulatory requirement(s). See Essential 
+Documents module.
 
 ### Data Use Agreements (DUA)
 
 SEE Data Use Agreements in the Human Subjects and Regulatory module
-(Also, IFAR\_DUA, IFAR\_sensitive\_data\_sharing).
+(Also, [IFAR\_DUA](http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPLimitedDataSetsandDataUseAgreements.ashx), 
+[IFAR\_sensitive\_data\_sharing](http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSharing.ashx)).
 
 ## Special Considerations for Older Subjects
 
@@ -340,7 +343,7 @@ the covered entity has no reasonable basis to believe it can be used to
 identify an individual. For older adults over 89 years of age, states
 that “all elements of dates (including year) indicative of such age,
 except that such ages and elements may be aggregated into a single
-category of age 90 or older” (HHS\_hipaa).
+category of age 90 or older” [(HHS\_hipaa)](http://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html).
 
 As noted above, the NIA Toolbox is an excellent resource for guidance of
 specific relevance to federal research in aging.
@@ -363,7 +366,7 @@ encouraged to maintain a dedicated network share on IFAR or HSL
 controlled file servers to ensure secure isolation of data and
 materials. Investigators must also follow HSL/IFAR procedures to request
 employee access to network resources (see
-IFAR\_sensitive\_data\_security).
+[IFAR\_sensitive\_data\_security](http://thehslhub/~/media/HSLNet/P_P/IFAR/IFARPPSensitiveDataSecurity.ashx)).
 
 ### Systems available at IFAR
 
@@ -389,7 +392,7 @@ sites, monitor and manage the clinical data.
 management, graphics, simulations and custom programming for multiple
 types of data (Stata). The package is available for Windows, OS, X, and
 Linux. Its file format permits the exchange of data sets between users
-of different operating systems (iu\_kb).
+of different operating systems [(iu\_kb)](https://kb.iu.edu/d/afly).
 
 **Statistical Analysis System (SAS)** is a software package used to
 enter, retrieve, and manage data. It can also retrieve data for

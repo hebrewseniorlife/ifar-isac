@@ -26,11 +26,10 @@ deemed essential. These documents demonstrate that the trial conduct
 complies with the standards of GCP and all regulatory requirements. This
 module focuses on describing the following Essential Documents:
 
--   [Study Protocol](#Protocol)
--   [Manual of Operations](#Manual-of-Operational-Procedures)
--   [Statistical Analytic Protocol](#Statistical Analytic Protocol)
--   [Data Safety Monitoring Board Charter and Regular Reports](#Data 
-    Safety and Monitoring Documents) (refer to other modules for details)
+-   [Study Protocol](https://ifar-isac.github.io/book/essential-documentations.html#protocol)
+-   [Manual of Operations](https://ifar-isac.github.io/book/essential-documentations.html#manual-of-operational-procedures)
+-   [Statistical Analytic Protocol](https://ifar-isac.github.io/book/essential-documentations.html#statistical-analytic-protocol)
+-   [Data Safety Monitoring Board Charter and Regular Reports](https://ifar-isac.github.io/book/essential-documentations.html#data-safety-and-monitoring-documents) 
 -   Event Tracking
 
 ### Resources
@@ -205,7 +204,7 @@ Site contains helpful templates
 ## Statistical Analytic Protocol
 As the Statistical Analytical Plan (SAP) is an essential document, it
 just briefly mentioned here. The details about developing and
-maintaining a SAP are covered in the [Experimental Design and Statistical Considerations Module](#Statistical Analysis Plan). 
+maintaining a SAP are covered in the [Experimental Design and Statistical Considerations Module](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html). 
 
 ### What
 A SAP is a document that contains a technical and detailed explanation
@@ -351,7 +350,7 @@ The research team prepares the data for the DSMB reports which should be
 sent to DSMB members 1 to 2 weeks prior to the meeting to allow
 sufficient time for review. There are software applications such as that
 can be automated to fill in the recurring data needed for these reports
-(see [Data Management](#Data Management) Module).
+(see [Data Management](https://ifar-isac.github.io/book/data-management.html) Module).
 
 The Closed Session Report is confidential. Printed copies of this report
 should be destroyed after the meeting. Procedures for securing and
@@ -373,16 +372,15 @@ or ineffectual information inclusion.
 -   NIA Clinical Research Study Investigator’s toolbox, Data Safety
     Monitoring,
     <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
-
 -   National Institute of Dental and Craniofacial Research Toolkit for
     Clinical Researchers, DSMB guideline,
     <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
-
 -   Institute of Translational Health Sciences, study documents and
     templates,
     <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
 ## Regulatory Binder
+
 ### What
 
 The Regulatory Binder is an indexed collection of essential documents
@@ -409,12 +407,14 @@ binder. The basic sections of a regulatory binder include:
 -   Regulatory Submissions
 
 ### Why
+
 A complete regulatory binder allows ready access to all materials that
 reflect regulatory compliance and adherence to the ethical standards for
 Good Clinical Practice. The regulatory binder is often the first thing
 reviewed during audits and inspections.
 
 ### How
+
 The PI and Project Director (PD) should compile a list of all essential
 documents specific to the RCT as indicated by the sponsors and
 regulatory authorities. Many sponsors supply investigators with binders
@@ -443,12 +443,15 @@ Access to the various sections of the binder may be controlled based on
 role in the study and status related to study blinding.
 
 ### Special considerations for older subjects
+
 None
 
 ### Common Pitfalls
+
 Lack of adequate organization or management plan.
 
 ### Resources
+
 -   Boston University Clinical Research Resources Office, regulatory
     binder resource\,
     <http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/>
