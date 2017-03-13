@@ -446,7 +446,7 @@ url = {http://www.trialsjournal.com/content/11/1/78},
 @manual{BU-BMC-Templates,
 title = {BU/BMC Clinical Research Study Regulatory Binder Templates},
 organization = {Boston University Medical Campus Clinical Research Resources Office},
-url = {http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/},
+url = {http://www.bumc.bu.edu/crro/files/2010/03/Regulatory-binder-tab-with-TOC-and-cover-pg-3-4-10.pdf},
 }
 
 @website{OSU_toolkit,
@@ -506,7 +506,7 @@ title = {Guidance for Industry E6 Good Clinical Practice: Consolidated Guidance}
 organization = {U.S. Department of Health and Human Services Food and Drug Administration Center for Drug Evaluation and Research (CDER) Center for Biologics Evaluation and Research (CBER)},
 year = {1996},
 month = {April},
-url = {http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf}
+url = {https://www.fda.gov/downloads/drugs/guidances/ucm073122.pdf}
 }
 
 @website{Health_Canada,
