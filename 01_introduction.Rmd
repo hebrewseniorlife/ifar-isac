@@ -1,6 +1,7 @@
 --- 
 title: "A Clinical Trials Toolkit"
-author: "The Interventional Studies in Aging Center (ISAC) at the Institute for Aging Research (IFAR)"
+author: "The Interventional Studies in Aging Center (ISAC) 
+at the Institute for Aging Research (IFAR)"
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site

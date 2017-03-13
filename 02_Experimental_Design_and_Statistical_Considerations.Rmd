@@ -50,7 +50,7 @@ The following items should be considered during the design phase.
 17. _Frequency of participant interactions, data collection and endpoint measurement._ Number and frequency of participant interactions and measurments; often displayed in tabular format.
 18. _Participant allocation or randomization._ Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process.
 19. _Masking / blinding._ Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments. 
-20. _Data collection and management._ Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc. See Data Management module. 
+20. _Data collection and management._ Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc (see [Data Management](https://ifar-isac.github.io/book/data-management.html) Module).
 21. _Statistical design and sample size._ See below.
 22. _Measurement of trial adherence._ Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any.
 23. _Training._ Provisions for training of study personnel, including human resources for providing the trainging.
@@ -79,11 +79,11 @@ Appropriate sample size and a statistical analysis plan are critical for the val
 
 Derivation of the statistical analysis plan is detailed in the sections below. 
 
-## Statistical Analysis Plan
+## Statistical Analysis Plan (SAP)
 
 ### What
 
-The project Statistical Analysis Plan (**SAP**) provides **detailed** descriptions of statistical analyses to be conducted for the trial, including rationale for choice of methods, plans for dealing with unexpected difficulties, and pre-specified guidance on interpretation of results.
+The project Statistical Analysis Plan (**SAP**) provides detailed descriptions of statistical analyses to be conducted for the trial, including rationale for choice of methods, plans for dealing with unexpected difficulties, and pre-specified guidance on interpretation of results.
 
 ### Why
 
@@ -91,7 +91,8 @@ Guidance on data ascertainment, management, storage, analysis and interpretation
 
 ### How
 
-A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see [Essential Documentations Module)](https://ifar-isac.github.io/book/essential-documentations.html). 
+A version of the SAP may be included as an addendum to or embedded within the study protocol and manual of procedures, but ideally the authoritative SAP should be an independent document with its own formatting, references etc. The SAP must be assembled prior to enrollment and approved by the appropriate parties including the trial statistician, investigative team, and regulatory authorities (e.g. DSMB), and may be included with the package submitted to Institutional Review Boards or equivalent overseeing ethical approval of the trial. Authorship should be by the project statistician, assisted by the investigative team. As with all trials documents, the SAP should be under strict version control, and a 'living' electronic date-stamped version considered the authoritative document (see 
+[Essential Documentations](https://ifar-isac.github.io/book/essential-documentations.html) Module). 
 
 
 #### Contents of the document
@@ -217,12 +218,12 @@ Some critical items for inclusion are described below
     e. _Sensitivity Analysis._ Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc.
     f. _Treatment of missing data._ Describes methods by which missing data are acknowledged and/or taken into account.
     g. _Deviations from SAP or secondary analytic plan._ Describes and justifies any variation in approach from that previously planned.
-3. _Presentation of Results._ Formal presentation of results. Should track closely with [SAP](#Statistical Analysis Plan) or secondary analytic plan as well as the sections described in Methods (above).
+3. _Presentation of Results._ Formal presentation of results. Should track closely with [SAP](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html#statistical-analysis-plan) or secondary analytic plan as well as the sections described in Methods (above).
 4. _Conclusions._ Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate.
 
 ### Special considerations for older adults
 
-See Special considerations for older adults](#special-considerations-for-older-adults-1) under the Statistical Analysis Plan section.
+See Special considerations for older adults under the [Statistical Analysis Plan](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html#special-considerations-for-older-adults-1) section.
 
 ### Common pitfalls
 
@@ -230,9 +231,15 @@ Failure to acknowledge data sources or describe methods with sufficient detail; 
 
 ### Resources
 
-## Planning, conduct and presentation of secondary analyses
+## Planning, Conduct and Presentation of Secondary Analyses
 
 Following or in parallel to completion of pre-planned analyses, secondary analyses may be requested or conducted. It is recommended that the trial employ a template for request and design of these analyses that mirrors the structure of the report described in the [Contents of the document](#contents-of-the-document-1) section.
 
 ## References
-^<sup>1</sup> <sub>^Van Ness _et al_</sub>
+^<sup>1</sup>^Van Ness, P.H., V.R. Towle, and M. Juthani-Mehta (2007) Testing Measurement
+Reliability in Older Populations: Methods for Informed Discrimination in Instrument Selection and 
+Application. *Journal of Aging and Health* (20) 2: 183-197. DOI: [10.1177/0898264307310448](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1028.3797&rep=rep1&type=pdf).
+
+Van Ness, P.H., T. E. Murphy, and A. Ali (2016) 
+Attention to Individuals: Mixed Methods for N-of-1 Health Care Interventions.  
+Journal of Mixed Methods Research DOI: [10.1177/1558689815623685](https://doi.org/10.1177/1558689815623685).
