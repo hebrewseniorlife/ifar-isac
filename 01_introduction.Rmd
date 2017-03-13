@@ -17,7 +17,7 @@ Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
 managing or overseeing clinical trials in older populations. The toolkit
 is not intended be a comprehensive document. Rather it is meant to
 outline major considerations for all phases of a clinical trial.
-Suggested resources are provided for more detailed information **and you
+Suggested resources are provided for more detailed information ** you
 must consult and adhere to the latest federal, sponsor, institutional,
 state and regional regulations.**
 
@@ -27,7 +27,7 @@ Pitfalls, and Resources.
 
 ## Are you Doing a Clinical Trial?
 
-Below is the [**National Institutes of Health (NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
+Below is the **National Institutes of Health [(NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
 definition of a clinical trial. As clinical trials are subject to additional oversight,
 a clear definition helps investigators ensure that they are meeting all
 of their obligations, and help funders ensure that the additional
@@ -37,17 +37,11 @@ oversight is occurring when it is needed.
 prospectively assigned^3^ to one or more interventions^4^ (which may
 include placebo or other control) to evaluate the effects of those
 interventions on health-related biomedical or behavioral outcomes.^5^
-
-
-*^1^See Common Rule definition of *research* at 45 CFR 46.102(d).*
-
-*^2^See Common Rule definition of *human subject* at 45 CFR 46.102(f).*
-
-*^3^“Prospectively assigned” refers to a pre-defined process (e.g., randomization) specified in a protocol that stipulates the assignment of research subjects (individually or in clusters) to one or more arms of a clinical trial.*
-
-*^4^An intervention is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints.  Examples include:  drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.*
-
-*^5^Health-related biomedical or behavioral outcome is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life.  Examples include:  positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.*
+> ^1^See Common Rule definition of *research* at 45 CFR 46.102(d).*
+> ^2^See Common Rule definition of *human subject* at 45 CFR 46.102(f).*
+> ^3^*Prospectively assigned* refers to a pre-defined process (e.g., randomization) specified in a protocol that stipulates the assignment of research subjects (individually or in clusters) to one or more arms of a clinical trial.
+> ^4^An *intervention* is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints. Examples include: drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.*
+> ^5^*Health-related biomedical or behavioral outcome* is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life. Examples include: positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.
 
 ## Clinical Trial Phases
 
