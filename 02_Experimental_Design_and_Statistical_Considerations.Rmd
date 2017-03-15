@@ -28,32 +28,32 @@ Key design features will ultimately dictate the internal validity and generaliza
 
 The following items should be considered during the design phase.
 
-1. _Rationale for conduct of the trial._ The scientific / biomedical impetus necessitating conduct of the trial. 
-2. _Overall goal._ What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims. 
-3. _Illness condition or state._ The condition modification of which motivates the study.
-4. _Sampling population._ Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions).
-5. _General approach to design._ Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc. 
-6. _Specific aims._ Detailed aims addressable by evaluation of statistical hypotheses.
-7. _Primary and secondary endpoints._
-8. _General nature of the planned comparisons._ Key features of the comparisons to be made; e.g. mean performance on a primary endpoint.
-9. _Safety concerns._ Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial.
-10. _Ethical considerations._ Additional safety of ethical considerations.
-11. _Measurement and quantification of effects._ The way in which treatment effects will be quantified.
-12. _Determination of statistical significance of comparisons._ Summary nature of quantitative comparisons, fleshed out in statistical analysis plan.
-13. _Study staffing and environment._
-    i. _Leadership._ Designation of membership and roles of investigative team leaders.
-    ii. _Staffing._ Designation of study staff, with specific delineation of responsibilities.
-    iii. _Environment._ Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate.
-14. _Measurement._ Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)
-15. _Nature and administration of intervention._ Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored.
+1. __Rationale for conduct of the trial.__ The scientific / biomedical impetus necessitating conduct of the trial. 
+2. __Overall goal.__ What, specifically, the study is intended to accomplish. Investigators should note the degree to which the trial will be considered **explanatory** (that is, focused on estimation of pure causal effects of intervention under controlled circumstances) versus **pragmatic** (focused on choosing between therapeutic options, often under circumstances mimicing or derived directly from clinical experience.) Many studies will have both explanatory and pragmatic aims. 
+3. __Illness condition or state.__ The condition modification of which motivates the study.
+4. __Sampling population.__ Individuals on whom sampling should focus, including explicit requirements for inclusion and factors that would preclude enrollment (exclusions).
+5. __General approach to design.__ Determination of the general nature of the approach to determining intervention efficacy and safety. For instance, the trial may be intended to demonstrate **superiority,** **noninferiority** or **equivalence** of a novel intervention to standard care; to determine **maximum tolerable dose** of a particular agent in a given population; to demonstrate a **dose-response** relation between intervention dosing and endpoints; etc. 
+6. __Specific aims.__ Detailed aims addressable by evaluation of statistical hypotheses.
+7. __Primary and secondary endpoints.__
+8. __General nature of the planned comparisons.__ Key features of the comparisons to be made; e.g. mean performance on a primary endpoint.
+9. __Safety concerns.__ Risks, including loss of confidentiality, affiliated with intervention or trial activities. Note that these will be explicitly considered by Institutional Review Board in assessing the risk/benefit ratio of conduct of the trial.
+10. __Ethical considerations.__ Additional safety of ethical considerations.
+11. __Measurement and quantification of effects.__ The way in which treatment effects will be quantified.
+12. __Determination of statistical significance of comparisons.__ Summary nature of quantitative comparisons, fleshed out in statistical analysis plan.
+13. __Study staffing and environment.__
+    i. __Leadership.__ Designation of membership and roles of investigative team leaders.
+    ii. __Staffing.__ Designation of study staff, with specific delineation of responsibilities.
+    iii. __Environment.__ Physical space in which the study will be conducted. Explicitly considers access and travel to and from the venue, as appropriate.
+14. __Measurement.__ Detailed explication of the was in which measurements will be taken. Makes specific note of resource needs (for instance, whether images or biospecimens must be collected or stored, and the equipment, facilities and human resources necessray to obtain said measures.)
+15. __Nature and administration of intervention.__ Specific detail on the intervention, including how, how frequently, and by whom it will be administered and monitored.
 16. _Study intervention period._ Length of time over which intervention would be administered, including run-in and washout periods as applicable.
-17. _Frequency of participant interactions, data collection and endpoint measurement._ Number and frequency of participant interactions and measurments; often displayed in tabular format.
-18. _Participant allocation or randomization._ Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process.
-19. _Masking / blinding._ Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments. 
-20. _Data collection and management._ Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc (see [Data Management](https://ifar-isac.github.io/book/data-management.html) Module).
-21. _Statistical design and sample size._ See below.
-22. _Measurement of trial adherence._ Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any.
-23. _Training._ Provisions for training of study personnel, including human resources for providing the trainging.
+17. __Frequency of participant interactions, data collection and endpoint measurement.__ Number and frequency of participant interactions and measurments; often displayed in tabular format.
+18. __Participant allocation or randomization.__ Methods by which participants will be assigned to trial arms, e.g. by randomization. Detail on the specific procedures used to determine these assignments. Must consider factors (e.g. blocking or stratification) that affect this process.
+19. __Masking / blinding.__ Determination of whether and how investigators, staff, participants, analysts etc. are aware of intervention assignments. 
+20. __Data collection and management.__ Detail on the physical systems for data capture, methods by which it will be captured, the persons performing entry, monitoring of data completeness and quality, etc (see [Data Management](https://ifar-isac.github.io/book/data-management.html) Module).
+21. __Statistical design and sample size.__ See below.
+22. __Measurement of trial adherence.__ Methods by which completeness of planned participant interactions with randomized activities will be quantified, and plans for analysis, if any.
+23. __Training.__ Provisions for training of study personnel, including human resources for providing the trainging.
 
 ### Special considerations for older adults
 
@@ -99,7 +99,7 @@ A version of the SAP may be included as an addendum to or embedded within the st
 
 The contents of the SAP will vary from trial to trial. For a conventional intervention trial designed to assess efficacy, in which participants are allocated to one of two or more groups (e.g. intervention vs. control), contents might be as follows.
 
-1. _Introduction._
+1. __Introduction.__
       a. _Background._ Provides explanatory information concerning disease target, patient population, etc. Includes references to
       authoritative literature.
       b. _Objectives._ Briefly describes overall analytic goals.
@@ -107,12 +107,12 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
           feasibility; efficacy / effectiveness; safety. Provides some clarity concerning expected treatment effects and public health 
           relevance.
           ii. Secondary objectives. As above, for secondary objectives.
-2. _Endpoints._
+2. __Endpoints.__
       a. _Primary endpoints._ Describes primary and secondary endpoints. May give detail as to measurement, validity and reliability, 
         and other performance characteristics.
       b. _Secondary endpoints._ As above, for secondary endpoints.
-3. _Protocol / Grant SAP._ Summarize existing plan as presented in the original protocol or funding application.  
-4. _Design elements._
+3. __Protocol / Grant SAP.__ Summarize existing plan as presented in the original protocol or funding application.  
+4. __Design elements.__
       a. _Basic design features._ Discusses overall experimental structure for purposes of comparison.
           i. Nature of primary comparison. Describes the basic target of interest, i.e. determination of superiority, equivalence or 
           noninferiority of intervention to control or current standard of care.
@@ -130,13 +130,13 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
           ii. Argument for clinical significance. Establishes clinical relevance of effect to be estimated, potentially using the 
           minimum clinically important difference or similar construct.
           iii. _A priori_ determination of interpretation of results.
-5. _Analysis Populations / datasets._ Describes analysis populations.
+5. __Analysis Populations / datasets.__ Describes analysis populations.
       a. _Full analysis dataset._ Typically all enrolled participants.
       b. _Intention-to-treat dataset._ Typically all participants allocated to trial groups. Meant to simulate the effect of real-world 
       deployment of intervention.
       c. _Per-protocol dataset._ Typically participants meeting some bound on adherence to trial procedures. Meant to assess causal 
       effect of intervention under adherent conditions.
-6. _Detailed Analytic Plan._ Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives.
+6. __Detailed Analytic Plan.__ Presents the detailed project analytic plan. Where appropriate this may be organized by specific aim or project objectives.
       a. _Primary endpoint(s)._ Describe primary, supporting and exploratory analyses intended for the Primary Endpoint.
           i. Main analysis of primary endpoint(s). Describes controlling, primary treatment of main analysis.
           ii. Supportive analysis of primary endpoint(s). Describes secondary, supporting version of main analysis.
@@ -164,7 +164,7 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
           vii. Sample-size re-estimation and conditional power. Describes procedures for re-estimation and summary of conditional power 
           computations.
           viii. Documentation of interim analysis results. Provides template for presentation of results.
-7. _Other methodological aspects._
+7. __Other methodological aspects.__
       a. _Special considerations in measurement._ Here or elsewhere, addresses considerations such as measurement error, technical 
         considerations concerning, for instance, biomarker or imaging analysis, and other specialized considerations.
       b. _Quantification of adherence._ Considers whether adherence to trial procedures should be assessed and analyzed, and if so 
@@ -176,7 +176,7 @@ The contents of the SAP will vary from trial to trial. For a conventional interv
         observations. May consider sensitivity analysis or other approaches; should be very specific and explicit.
       f. _Multiplicity adjustments._ Describes plans, if any, to deal with multiple comparisons issues.
       g. _Other considerations._
-8. _Reporting conventions._ Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc.
+8. __Reporting conventions.__ Describes manner in which results will be communicated; may include detailed instructions on units, significant digits and rounding, etc.
 
 ### Special considerations for older adults
 
@@ -206,11 +206,11 @@ Analyses should be presented in memoranda constructed in a reproducible fashion,
 
 Some critical items for inclusion are described below
 
-1. _Introduction and objectives._ Brief background for the proposed analysis, with particular attention to measurement or design issues relevant to the presentation of results.
+1. __Introduction and objectives.__ Brief background for the proposed analysis, with particular attention to measurement or design issues relevant to the presentation of results.
     a. _Data Sources._ Describes the studies and data set/s used. Must specify the version of the data structures (i.e. the date upon which the dataset was frozen and/or transmitted to the analyst.
     b. _Software and computing environment._ Describes the analytic tools and machinery employed, including version numbers.
     c. _Aims and Analysis Objectives._ Briefly states the aims and hypothesis of the analysis. Includes a brief prose summary how each aim was addressed in the analyses.
-2. _Methods._ Describes analytic sample and methods employed.
+2. __Methods.__ Describes analytic sample and methods employed.
     a. _Analytic samples and timeframe._ Defines samples used. Specifies any subgroups to be used in analysis.  Specifies the analysis timeframe (i.e. which visits or measurements were incorporated in analysis).
     b. _Outcome measures._ Specifies the primary and secondary outcomes used in the analysis. If outcomes are derived, provides clear definitions in natural language. Specifies the timepoints at which measures were obtained if not obvious from text above.
     c. _Control Variables._ Lists covariates used in the analyses. Where variables were derived, provide clear definitions. Specifies the timepoints at which measures were obtained, if not obvious from above.
@@ -218,8 +218,8 @@ Some critical items for inclusion are described below
     e. _Sensitivity Analysis._ Describes and justifies any sensitivity analyses, i.e. using different samples, covariates, methods/models, etc.
     f. _Treatment of missing data._ Describes methods by which missing data are acknowledged and/or taken into account.
     g. _Deviations from SAP or secondary analytic plan._ Describes and justifies any variation in approach from that previously planned.
-3. _Presentation of Results._ Formal presentation of results. Should track closely with [SAP](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html#statistical-analysis-plan) or secondary analytic plan as well as the sections described in Methods (above).
-4. _Conclusions._ Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate.
+3. __Presentation of Results.__ Formal presentation of results. Should track closely with [SAP](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html#statistical-analysis-plan) or secondary analytic plan as well as the sections described in Methods (above).
+4. __Conclusions.__ Provides in prose the overall implications of the analysis, with high-level quantitative summaries as appropriate.
 
 ### Special considerations for older adults
 
