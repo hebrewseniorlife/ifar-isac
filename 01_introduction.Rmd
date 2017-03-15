@@ -18,9 +18,9 @@ Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
 managing or overseeing clinical trials in older populations. The toolkit
 is not intended be a comprehensive document. Rather it is meant to
 outline major considerations for all phases of a clinical trial.
-Suggested resources are provided for more detailed information ** you
+Suggested resources are provided for more detailed information you
 must consult and adhere to the latest federal, sponsor, institutional,
-state and regional regulations.**
+state and regional regulations.
 
 Whenever possible, sections of this toolkit follow a similar outline:
 What, Why, How, Special Considerations for Aging Populations, Common
@@ -28,7 +28,7 @@ Pitfalls, and Resources.
 
 ## Are you Doing a Clinical Trial?
 
-Below is the **National Institutes of Health [(NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
+Below is the National Institutes of Health [**(NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
 definition of a clinical trial. As clinical trials are subject to additional oversight,
 a clear definition helps investigators ensure that they are meeting all
 of their obligations, and help funders ensure that the additional
