@@ -1,6 +1,7 @@
 --- 
 title: "A Clinical Trials Toolkit"
-author: "The Interventional Studies in Aging Center at IFAR"
+author: "The Interventional Studies in Aging Center (ISAC) 
+at the Institute for Aging Research (IFAR)"
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site
@@ -17,9 +18,9 @@ Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
 managing or overseeing clinical trials in older populations. The toolkit
 is not intended be a comprehensive document. Rather it is meant to
 outline major considerations for all phases of a clinical trial.
-Suggested resources are provided for more detailed information **and you
+Suggested resources are provided for more detailed information you
 must consult and adhere to the latest federal, sponsor, institutional,
-state and regional regulations.**
+state and regional regulations.
 
 Whenever possible, sections of this toolkit follow a similar outline:
 What, Why, How, Special Considerations for Aging Populations, Common
@@ -27,7 +28,7 @@ Pitfalls, and Resources.
 
 ## Are you Doing a Clinical Trial?
 
-Below is the [**National Institutes of Health (NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
+Below is the National Institutes of Health [**(NIH)**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-015.html) 
 definition of a clinical trial. As clinical trials are subject to additional oversight,
 a clear definition helps investigators ensure that they are meeting all
 of their obligations, and help funders ensure that the additional
@@ -37,17 +38,17 @@ oversight is occurring when it is needed.
 prospectively assigned^3^ to one or more interventions^4^ (which may
 include placebo or other control) to evaluate the effects of those
 interventions on health-related biomedical or behavioral outcomes.^5^
+______________________________________________________________________
 
-
-*^1^See Common Rule definition of *research* at 45 CFR 46.102(d).*
-
-*^2^See Common Rule definition of *human subject* at 45 CFR 46.102(f).*
-
-*^3^“Prospectively assigned” refers to a pre-defined process (e.g., randomization) specified in a protocol that stipulates the assignment of research subjects (individually or in clusters) to one or more arms of a clinical trial.*
-
-*^4^An intervention is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints.  Examples include:  drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.*
-
-*^5^Health-related biomedical or behavioral outcome is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life.  Examples include:  positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.*
+> ^1^See Common Rule definition of *research* at 45 CFR 46.102(d).
+> 
+> ^2^See Common Rule definition of *human subject* at 45 CFR 46.102(f).
+> 
+> ^3^*Prospectively assigned* refers to a pre-defined process (e.g., randomization) specified in a protocol that stipulates the assignment of research subjects (individually or in clusters) to one or more arms of a clinical trial.
+> 
+> ^4^An *intervention* is defined as a manipulation of the subject or subject’s environment for the purpose of modifying one or more health-related biomedical or behavioral processes and/or endpoints. Examples include: drugs/small molecules/compounds; biologics; devices; procedures (e.g., surgical techniques); delivery systems (e.g., telemedicine); strategies to change health-related behavior (e.g., diet, cognitive therapy, exercise); treatment strategies; prevention strategies; and, diagnostic strategies.
+> 
+> ^5^*Health-related biomedical or behavioral outcome* is defined as the pre-specified goal(s) or condition(s) that reflect the effect of one or more interventions on human subjects’ biomedical or behavioral status or quality of life. Examples include: positive or negative changes to physiological or biological parameters (e.g., improvement of lung capacity); positive or negative changes to psychological or neurodevelopmental parameters (e.g., mood management intervention for smokers; reading comprehension and /or information retention); positive or negative changes to disease processes; positive or negative changes to health-related behaviors; and, positive or negative changes to quality of life.
 
 ## Clinical Trial Phases
 
@@ -81,28 +82,31 @@ enhance the conduct and rigor of their clinical trials.
 
 1.  **Good Clinical Practice (GCP)** is an international quality
     standard that defines standards for clinical trials involving
-    human subjects. The NIH require [**Certifications in Good
-    Clinical Practice**](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2)
-    _for NIH-funded Investigators and clinical trial site staff who are
+    human subjects. The NIH require Certifications in Good
+    Clinical Practice [(**GCP**)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-148.html#_ftn2_)
+    for NIH-funded Investigators and clinical trial site staff who are
     responsible for the conduct, management and oversight of NIH-funded
-    clinical trials. The [**FDA**](https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx) has a similar requirement.
-
+    clinical trials. The [**FDA**](https://gcplearningcenter.niaid.nih.gov/Pages/default.aspx) has 
+    a similar requirement.
+    
     There are many other extensive courses offered to become GCP
     certified, both internet-based and on-site. Most have a
     tuition cost. It is a good idea, if resources are available, for
     Project Directors leading clinical trials to receive
     GCP certification. Below are examples of a few of these
     many opportunities.
+    
+    National Drug Abuse Treatment Clinical Trails Network [**(GCP)**](https://gcp.nihtraining.com/)
+    Course.
+    
+    Online [**GCP**](http://www.onlinegcp.us/).
+    
+    Collaborative Institutional Training Initiative (CITI) 
+    [**GCP**](https://www.citiprogram.org/index.cfm?pageID=90) Course.
 
-    National Drug Abuse Treatment Clinical Trails Network [**Good Clinical Practice (GCP) Course**](https://gcp.nihtraining.com/).
-
-    [**Online GCP**](http://www.onlinegcp.us/).
-
-    Collaborative Institutional Training Initiative (CITI) [**Good clinical Practice (GCP) Course**](https://www.citiprogram.org/index.cfm?pageID=90)
-
-2.  **Harvard Catalyst** [**Clinical Trial Design**](https://catalyst.harvard.edu/services/ctd/) is
-    an opportunity for new clinical investigators, who have an idea for
-    development of a clinical trial, to participate in an intensive
+2.  **Harvard Catalyst** [**Clinical Trial Design**](https://catalyst.harvard.edu/services/ctd/) 
+    is an opportunity for new clinical investigators, who have an idea 
+    for development of a clinical trial, to participate in an intensive
     eight-week course. It is offered at *no cost* to members of the
     Harvard Catalyst community or other Clinical and Translational
     Science Award(CTSA) usually in May/June, with an application due
@@ -112,8 +116,8 @@ enhance the conduct and rigor of their clinical trials.
     trial implementation. Additional course topics include statistical
     analysis, budgeting, and data management.
 
-3.  **NIH Clinical Research** [**Training On-Line course**](http://crt.nihtraining.com) is available
-    24/day at no cost with the following objectives: i. To raise
+3.  **NIH Clinical Research** [**Training On-Line course**](http://crt.nihtraining.com) 
+    is available 24/day at no cost with the following objectives: i. To raise
     awareness of the ethical issues involved in human subjects
     research; ii. To become familiar with the roles and responsibilities
     of the principal investigator and the institution when conducting
@@ -123,8 +127,8 @@ enhance the conduct and rigor of their clinical trials.
     developments in science and health are reported by the media and how
     to work effectively with reporters.
 
-4.  **Barnett International** [**Design and Conduct of Clinical Trials:
-    Design Requirements, Statistical Issues, and Clinical Protocols**](http://www.barnettinternational.com/Live-Seminars/Design-and-Conduct-of-Clinical-Trials--Design-Requirements,-Statistical-Issues,-and-Clinical-Protocols/)
+4.  **Barnett International** Design and Conduct of Clinical Trials:
+    [**Design Requirements, Statistical Issues, and Clinical Protocols**](http://www.barnettinternational.com/Live-Seminars/Design-and-Conduct-of-Clinical-Trials--Design-Requirements,-Statistical-Issues,-and-Clinical-Protocols/)
     is an on-site two-day course that provides an introduction to the
     scientific, statistical, and ethical aspects of clinical trials
     research. Cost (2016) = \$1800.

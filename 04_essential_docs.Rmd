@@ -2,13 +2,13 @@
 
 ## Introduction to Essential Documentation in a Randomized Clinical Trial
 
-### Module Goal
+### Module goal
 
 This module provides guidance for the development and management of
 *essential* documentation before, during, and at the close of a
 randomized clinical trial (RCT).
 
-### General Considerations
+### General considerations
 
 Documentation provides validation that research is conducted maintaining
 the highest ethical and clinical standards as established by the World
@@ -24,27 +24,25 @@ The ICH GCP, section 8, “Essential Documents for the Conduct of a
 Clinical Trial” provides a full listing of documents that are generally
 deemed essential. These documents demonstrate that the trial conduct
 complies with the standards of GCP and all regulatory requirements. This
-module focuses on describing the following **Essential Documents**:
+module focuses on describing the following Essential Documents:
 
--   Study Protocol
--   Manual of Operations
--   Statistical Analytic Protocol
--   Data Safety Monitoring Board Charter and Regular Reports (refer to
-    other chapter for details)
+-   [Study Protocol](https://ifar-isac.github.io/book/essential-documentations.html#protocol)
+-   [Manual of Operations](https://ifar-isac.github.io/book/essential-documentations.html#manual-of-operational-procedures)
+-   [Statistical Analytic Protocol](https://ifar-isac.github.io/book/essential-documentations.html#statistical-analytic-protocol)
+-   [Data Safety Monitoring Board Charter and Regular Reports](https://ifar-isac.github.io/book/essential-documentations.html#data-safety-and-monitoring-documents) 
 -   Event Tracking
 
 ### Resources
 
 -   International Conference on Harmonization (ICH) guidelines for
     Clinical Good Practice (GCP), section 8, “Essential Documents for
-    the Conduct of a Clinical Trial”
-    (<http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf>)
+    the Conduct of a Clinical Trial”, 
+    <http://www.fda.gov/downloads/Drugs/.../Guidances/ucm073122.pdf>
 -   International Conference on Harmonization (ICH) guidelines for
     Clinical Good Practice (GCP)
     <http://www.ich.org/products/guidelines/efficacy/article/efficacy-guidelines.html>
--   United States Food and Drug Administration (FDA),
-    <http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
--   World Health Organization, (<http://www.who.int/about/en/>)
+-   United States Food and Drug Administration (FDA), <http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
+-   World Health Organization, <http://www.who.int/about/en/>
 
 ## Protocol
 ### What
@@ -106,7 +104,7 @@ supervision.
 ### Special considerations for older subjects
 None
 
-### Common Pitfalls
+### Common pitfalls
 Common pitfalls include: incomplete or unclear initial protocols,
 inadequate documentation of protocol amendments, and inconsistency with
 other study key documents (e.g. manual of operations and IRB
@@ -114,18 +112,14 @@ applications).
 
 ### Resources 
 Site contains helpful templates
--   FDA Clinical Protocols <http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
--   International Conference on Harmonization Good Clinical Practice
-    <http://ichgcp.net/6-clinical-trial-protocol-and-protocol-amendments>
+
+-   FDA Clinical Protocols,<http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/InvestigationalNewDrugINDApplication/ucm362445.htm>
+-   International Conference on Harmonization Good Clinical Practice, <http://ichgcp.net/6-clinical-trial-protocol-and-protocol-amendments>
 -   National Institute on Aging, clinical research investigators
-    toolbox\*
-    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
--   National Institute of Allergy and Infectious Diseases
-    <http://www.niaid.nih.gov/labsandresources/resources/toolkit/protocol/Pages/protocol.aspx>
--   National Institute of Dental Craniofacial Research\*
-    <http://www.nidcr.nih.gov/research/toolkit/#startup2>
--   World Health Organization Recommended format for a Research
-    Protocol, <http://www.who.int/rpc/research_ethics/format_rp/en/>
+    toolbox, <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
+-   National Institute of Allergy and Infectious Diseases, <http://www.niaid.nih.gov/labsandresources/resources/toolkit/protocol/Pages/protocol.aspx>
+-   National Institute of Dental Craniofacial Research, <http://www.nidcr.nih.gov/research/toolkit/#startup2>
+-   World Health Organization Recommended format for a Research Protocol, <http://www.who.int/rpc/research_ethics/format_rp/en/>
 
 ## Manual of Operational Procedures
 ### What
@@ -194,25 +188,23 @@ study file system.
 ### Special considerations for older subjects
 None
 
-### Common Pitfalls
+### Common pitfalls
 Common pitfalls for MOP development include: lack of adequate formatting
 or tracking, lack of required appendices, and finding the right balance
 of necessary detail to include.
 
 ### Resources
 Site contains helpful templates
--   Institute for Translational Health Sciences,
-    <https://www.iths.org/wp-content/uploads/Handout-SOPs-Presentation-03-03-10.pdf>
--   NIA Study Start-up toolkit\*
-    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
--   National Institute of Dental and Craniofacial Research\*
-    <http://www.nidcr.nih.gov/Research/toolkit/#startup3>
+
+-   Institute for Translational Health Sciences, <https://www.iths.org/wp-content/uploads/Handout-SOPs-Presentation-03-03-10.pdf>
+-   NIA Study Start-up toolkit, <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/startup>
+-   National Institute of Dental and Craniofacial Research, <http://www.nidcr.nih.gov/Research/toolkit/#startup3>
 
 
 ## Statistical Analytic Protocol
 As the Statistical Analytical Plan (SAP) is an essential document, it
 just briefly mentioned here. The details about developing and
-maintaining a SAP are covered in Module XX.
+maintaining a SAP are covered in the [Experimental Design and Statistical Considerations Module](https://ifar-isac.github.io/book/experimental-design-and-statistical-considerations.html). 
 
 ### What
 A SAP is a document that contains a technical and detailed explanation
@@ -235,12 +227,12 @@ and dated in a timely manner in the SAP. These changes must be conceived
 and documented prior to the active phase of data analyses.
 
 ## Data Safety and Monitoring Documents
-These are documents related to Data Safety Monitoring Board (DSMB) (or
-similar bodies such as a Data Safety Advisory Council (DSAC)) activities
+These are documents related to Data Safety Monitoring Board (DSMB), or
+similar bodies such as a Data Safety Advisory Council (DSAC), activities
 within an RCT. Two main documents are required; the DSMB charter and
 interim data reports.
 
-### DSMB/DSAC Charter
+### DSMB/DSAC charter
 #### What
 
 The Charter describes the responsibilities of the DSMB. The charter also
@@ -248,7 +240,7 @@ defines the relationships between the DSMB and other parties responsible
 for study oversight, including the sponsor, clinical research
 organizations, steering committee, study investigators, IRBs/ECs,
 appropriate regulatory agencies, and the DSMB management organization
-(when applicable). Sections generally included in the charter include:
+(when applicable). Sections generally included in the charter:
 
 -   Role of DSMB
 -   DSMB Responsibilities
@@ -275,11 +267,11 @@ the lead in developing the charter. There are general guidelines and
 many templates available (see Resources below). If funded by the NIH,
 the Project Officer may recommend a preferred format or template.
 
-#### Special Considerations for Older Subjects
+#### Special considerations for older Subjects
 
 None
 
-#### Common Pitfalls
+#### Common pitfalls
 
 Common pitfalls for DSMB charter development include a lack of adequate
 planning or corroboration with DSMB members and sponsor and insufficient
@@ -288,18 +280,14 @@ information inclusion.
 #### Resources
 
 -   NIA Clinical Research Study Investigator’s toolbox, Data Safety
-    Monitoring,
-    <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
+    Monitoring, <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
 
 -   National Institute of Dental and Craniofacial Research Toolkit for
-    Clinical Researchers, DSMB guideline,
-    <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
-
+    Clinical Researchers, DSMB guideline, <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
 -   Institute of Translational Health Sciences, study documents and
-    templates\*
-    <https://www.iths.org/investigators/forms-templates/study-document-templates/>
+    templates, <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
-### Interim Data Reports
+### Interim data reports
 #### What
 
 Interim data reports provide members of the DSMB with information to
@@ -307,8 +295,8 @@ allow them to evaluate safety, study conduct, scientific validity and
 integrity of the trial. The reports convey data of relevant study
 activities and outcomes as agreed upon at the outset as in the purview
 of the DSMB. There are two types of the interim reports produced; one
-for the open session of the DSMB, and one for the closed session *(see
-Module XX).* . Sections generally included in these reports are listed
+for the open session of the DSMB, and one for the closed session. 
+Sections generally included in these reports are listed
 below. Those marked by an asterisk are usually only included in the open
 report and not repeated in the closed reports:
 
@@ -327,15 +315,15 @@ report and not repeated in the closed reports:
 -   Protocol Deviations
 -   Outcomes (may or may not be included)
 
-##### Open Session Report
+##### Open session report
 
 The open session report provides information on study conduct,
 including: recruitment and demographic data, subject/facility
 characteristics, protocol compliance, site performance, quality control,
 adverse event data, and outcome data when appropriate aggregated for
-both arms of the RCT (i.e.. all subjects).
+both arms of the RCT (i.e. all subjects).
 
-##### Closed Session Report
+##### Closed session report
 
 The closed session report contains data similar to that presented in the
 open session report but is presented separately for each study arm in a
@@ -362,18 +350,18 @@ The research team prepares the data for the DSMB reports which should be
 sent to DSMB members 1 to 2 weeks prior to the meeting to allow
 sufficient time for review. There are software applications such as that
 can be automated to fill in the recurring data needed for these reports
-(see Data Management module).
+(see [Data Management](https://ifar-isac.github.io/book/data-management.html) Module).
 
 The Closed Session Report is confidential. Printed copies of this report
 should be destroyed after the meeting. Procedures for securing and
 eliminating closed reports distributed to telephone and video conference
 participants should be specified in advance of the meeting.
 
-#### Special Considerations for Older Subjects
+#### Special considerations for older subjects
 
 None
 
-#### Common Pitfalls
+#### Common pitfalls
 
 Common pitfalls for DSMB charter development include a lack of adequate
 planning or corroboration with DSMB members and sponsor and insufficient
@@ -384,16 +372,15 @@ or ineffectual information inclusion.
 -   NIA Clinical Research Study Investigator’s toolbox, Data Safety
     Monitoring,
     <https://www.nia.nih.gov/research/dgcg/clinical-research-study-investigators-toolbox/data-and-safety-monitoring>
-
 -   National Institute of Dental and Craniofacial Research Toolkit for
     Clinical Researchers, DSMB guideline,
     <http://www.nidcr.nih.gov/Research/ToolsforResearchers/Toolkit/DSMBGuidelines.htm>
-
 -   Institute of Translational Health Sciences, study documents and
-    templates
+    templates,
     <https://www.iths.org/investigators/forms-templates/study-document-templates/>
 
 ## Regulatory Binder
+
 ### What
 
 The Regulatory Binder is an indexed collection of essential documents
@@ -420,18 +407,20 @@ binder. The basic sections of a regulatory binder include:
 -   Regulatory Submissions
 
 ### Why
+
 A complete regulatory binder allows ready access to all materials that
 reflect regulatory compliance and adherence to the ethical standards for
 Good Clinical Practice. The regulatory binder is often the first thing
 reviewed during audits and inspections.
 
 ### How
+
 The PI and Project Director (PD) should compile a list of all essential
 documents specific to the RCT as indicated by the sponsors and
 regulatory authorities. Many sponsors supply investigators with binders
 and organization strategies (see Resources). Additionally NIH provides a
-regulatory binder checklist.Harvard Catalyst provides a template for a
-regulatory binder (http://catalyst.harvard.edu/services/regbinder/).
+regulatory binder checklist. [Harvard Catalyst](http://catalyst.harvard.edu/services/regbinder/) 
+provides a template for a regulatory binder.
 
 The Project Director should be responsible for the creation and
 maintenance of the binder under the PI’s supervision. It is helpful to
@@ -454,23 +443,26 @@ Access to the various sections of the binder may be controlled based on
 role in the study and status related to study blinding.
 
 ### Special considerations for older subjects
+
 None
 
 ### Common Pitfalls
+
 Lack of adequate organization or management plan.
 
 ### Resources
+
 -   Boston University Clinical Research Resources Office, regulatory
-    binder resource\*,
-    http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/
--   Harvard Catalyst Regulatory Binder resource\*,
+    binder resource\,
+    <http://www.bumc.bu.edu/crro/regulatory/regulatory-binder/>
+-   Harvard Catalyst Regulatory Binder resource\,
     <https://catalyst.harvard.edu/docs/regulatory_support/Regulatory_Binder.pdf>
 -   ICH GCP guideline, section 8 titled “Essential Documents for the
     Conduct of a Clinical Trial.”
-    <http://www.fda.gov/cder/guidance/959fnl.pdf>.
+    <http://www.fda.gov/cder/guidance/959fnl.pdf>
 -   NIH Regulatory Binder Checklist,
-    nccih.nih.gov/sites/nccam.nih.gov/files/CRtoolbox/Regulatory\_Binder\_Checklist\_051112.docx
+    <https://nccih.nih.gov/sites/nccam.nih.gov/files/CRtoolbox/Regulatory\_Binder\_Checklist\_051112.docx>
 -   University of California, San Francisco, Regulatory Binder
-    Requirements\*, <https://hub.ucsf.edu/virtual-regulatory-binder>
+    Requirements\, <https://hub.ucsf.edu/virtual-regulatory-binder>
 -   University of California, San Francisco, Study management
     <http://hub.ucsf.edu/clinical-study-management>
