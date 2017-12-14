@@ -11,7 +11,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-## Purpose of this Toolkit
+## Purpose of this Toolkit edits
 
 This toolkit is a *general* guide for investigators and project staff at 
 Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
