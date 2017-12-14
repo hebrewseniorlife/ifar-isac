@@ -13,7 +13,7 @@ site: bookdown::bookdown_site
 
 ## Purpose of this Toolkit
 
-This toolkit is a *general* guide for investigators and project staff at
+This toolkit is a *general* guide for investigators and project staff at 
 Hebrew SeniorLife Institute for Aging Research (HSL IFAR) conducting,
 managing or overseeing clinical trials in older populations. The toolkit
 is not intended be a comprehensive document. Rather it is meant to
