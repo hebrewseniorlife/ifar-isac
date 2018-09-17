@@ -1,0 +1,13 @@
+name: isac_book
+title: ISAC Book
+username: haozhu
+account: haozhu
+server: ifar-connect.hsl.harvard.edu
+hostUrl: https://ifar-connect.hsl.harvard.edu/__api__
+appId: 112
+bundleId: 502
+url: https://ifar-connect.hsl.harvard.edu:443/content/112/
+when: 1535655640.70535
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _config.yml|CNAME|ISAC Consultation Form (1).docx|LICENSE.txt|missfont.log|_includes/footer.html|_includes/head.html|_includes/header.html|files/Sample Report.pdf|_layouts|book|css|icomoon|js

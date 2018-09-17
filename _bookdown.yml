@@ -1,3 +1,7 @@
 book_filename: "ISAC_Book"
-chapter_name: ""
+delete_merged_file: true
+site: bookdown::bookdown_site
 output_dir: "book"
+language:
+  ui:
+    chapter_name: "Chapter "

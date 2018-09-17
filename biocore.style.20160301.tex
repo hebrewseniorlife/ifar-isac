@@ -12,9 +12,7 @@
 \usepackage{unicode-math}
 \usepackage{gensymb} %degree symbol
 
-\setmainfont[Mapping=tex?text, Numbers={Proportional, OldStyle}, Ligatures=TeX]{Linux Libertine O}
-\setsansfont[Mapping=tex?text, Numbers={Proportional, OldStyle}, Ligatures=TeX]{Linux Biolinum O}
-\setmathfont{Asana Math}
+\usepackage{libertine}
 
 % \usepackage{microtype}
 % \usepackage{float} % used to fix floating objects to a specific spot
@@ -59,11 +57,10 @@
  %\usepackage{titlesec}
  \usepackage{titling}
 
-\newfontfamily\headingfont[]{Linux Biolinum O}
- \titleformat*{\section}{\sc \large \color[rgb]{0,0,0} \headingfont}
- \titleformat*{\subsection}{\large \headingfont}
- \titleformat*{\subsubsection}{\normalsize \headingfont}
- \renewcommand{\maketitlehooka}{\headingfont}
+ \titleformat*{\section}{\sc \large \color[rgb]{0,0,0}}
+ \titleformat*{\subsection}{\large}
+ \titleformat*{\subsubsection}{\normalsize}
+ \renewcommand{\maketitlehooka}{\normalsize}
 
  \titlespacing*{\section}{0pt}{8pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
  \titlespacing*{\subsection}{0pt}{6pt plus 2pt minus 2pt}{-2pt plus 2pt minus 2pt}
